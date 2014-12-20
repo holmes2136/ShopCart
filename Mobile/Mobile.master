@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Mobile.master.cs" Inherits="Mobile_Mobile" %>
+
+<%@ Register Src="~/Components/StoreBanner.ascx" TagName="StoreBanner" TagPrefix="uc1" %>
+<%@ Register Src="~/Components/HeaderLogo.ascx" TagName="HeaderImageLogo" TagPrefix="uc1" %>
+<%@ Register Src="Components/MobileHeaderLogo.ascx" TagName="MobileImageLogo" TagPrefix="uc1" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>[$MobilePageTitle]</title>
+    <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+    <link media="handheld, only screen and (min-width: 235px), only screen and (min-device-width: 235px)" 
+        href="../App_Themes/MobileTheme/Default.css" type="text/css" rel="stylesheet" />
+    <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="screen" href="../App_Themes/MobileTheme/Default.css" />
+    <![endif]-->
+</head>
+<body>
+    <form id="mobileForm" runat="server">
+    <ajaxToolkit:ToolkitScriptManager ID="uxScriptManager" EnableHistory="true" AsyncPostBackTimeout="300"
+        EnableSecureHistoryState="false" runat="server">
+    </ajaxToolkit:ToolkitScriptManager>
+    <div>
+        <div class="MobileHeader">
+            <uc1:MobileImageLogo ID="uxMobileLogo" runat="server" />
+            <div class="MobileHeaderIcon">
+                <a href="Default.aspx">
+                    <img src="../App_Themes/MobileTheme/Images/Design/Icon/home.png" /></a> <a href="ShoppingCart.aspx">
+                        <img src="../App_Themes/MobileTheme/Images/Design/Icon/cart.png" /></a>
+                <a href="MyAccount.aspx">
+                    <img src="../App_Themes/MobileTheme/Images/Design/Icon/user.png" /></a> <a href="AdvancedSearch.aspx">
+                        <img src="../App_Themes/MobileTheme/Images/Design/Icon/search.png" /></a>
+            </div>
+        </div>
+        <asp:Panel ID="uxPriceRequireLoginPanel" runat="server" Visible="false">
+            <div class="MobilePriceRequireLoginMessage">
+                <asp:Label ID="uxMessage" runat="server" Text="[$PriceRequireLogin]" />
+            </div>
+        </asp:Panel>
+        <asp:UpdatePanel ID="uxContentUpdatePanel" runat="server" UpdateMode="Always">
+            <ContentTemplate>
+                <asp:ContentPlaceHolder ID="uxPlaceHolder" runat="server">
+                </asp:ContentPlaceHolder>
+            </ContentTemplate>
+        </asp:UpdatePanel>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Theme>
+  <Name>ResponsiveGreen</Name>
+  <Author>VevoCart</Author>
+  <AuthorUrl>http://www.vevocart.com</AuthorUrl>
+  <Description>This is a bundle skin</Description>
+  <Version>1.0</Version>
+  <VersionUrl>http://www.vevocart.com</VersionUrl>
+  <DefaultMaster FileName="Front.master" />
+  <MasterPages>
+    <!-- To use custom master page, please specify the master file 
+         that you would like to use below along with the pages that use
+         this master file. Below is one example for using "Custom.master" file,
+         which resides in the same folder as the Theme folder. -->
+    <MasterPage FileName="ProductDetails.Master">
+      <Page>Product.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="1Column.Master">
+      <Page>CheckoutComplete.aspx</Page>
+      <Page>CheckoutNotComplete.aspx</Page>
+      <Page>Userlogin.aspx</Page>
+      <Page>Register.aspx</Page>
+      <Page>Shoppingcart.aspx</Page>
+      <Page>StoreSiteMap.aspx</Page>
+      <Page>contactus.aspx</Page>
+      <Page>contactusfinished.aspx</Page>
+      <Page>affiliatelogin.aspx</Page>
+      <Page>affiliateregister.aspx</Page>
+      <Page>affiliateregisterfinish.aspx</Page>
+      <Page>GenericError.aspx</Page>
+      <Page>Error404.aspx</Page>
+      <Page>SystemError.aspx</Page>
+      <Page>addshoppingcartnotcomplete.aspx</Page>
+      <Page>AddtoCart.aspx</Page>
+      <Page>ApplicationErrorPage.aspx</Page>
+      <Page>CommandForm.aspx</Page>
+      <Page>FileDownload.aspx</Page>
+      <Page>FileDownloadManager.aspx</Page>
+      <Page>promotiongrouplist.aspx</Page>
+      <Page>customerreview.aspx</Page>
+      <Page>promotiondetail.aspx</Page>
+      <Page>resetpassword.aspx</Page>
+      <Page>newsletter.aspx</Page>
+      <Page>subscribeconfirm.aspx</Page>
+      <Page>forgotpassword.aspx</Page>
+      <Page>passwordrecoveryfinished.aspx</Page>
+      <Page>coupon.aspx</Page>
+      <Page>AdvancedSearch.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="2ColumnRight.master">
+      <Page>TellFriend.aspx</Page>
+      <Page>TellFriendFinished.aspx</Page>
+      <Page>giftregistryitem.aspx</Page>
+      <Page>giftregistrysearch.aspx</Page>
+      <Page>giftregistryresult.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="Checkout.master">
+      <Page>OnePageCheckout.aspx</Page>
+      <Page>Checkout.aspx</Page>
+      <Page>DirectPaymentSale.aspx</Page>
+      <Page>OrderSummary.aspx</Page>
+      <Page>Payment.aspx</Page>
+      <Page>Shipping.aspx</Page>
+      <Page>couponandgift.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="MyAccount.Master">
+      <Page>accountdetails.aspx</Page>
+      <Page>orderhistory.aspx</Page>
+      <Page>wishlist.aspx</Page>
+      <Page>contentsubscription.aspx</Page>
+      <Page>giftcertificate.aspx</Page>
+      <Page>giftregistrylist.aspx</Page>
+      <Page>rmahistory.aspx</Page>
+      <Page>rmadetail.aspx</Page>
+      <Page>changeuserpassword.aspx</Page>
+      <Page>rewardpoints.aspx</Page>
+      <Page>shippingaddress.aspx</Page>
+      <Page>productreturn.aspx</Page>
+      <Page>comparisonlist.aspx</Page>
+      <Page>changepasswordfinish.aspx</Page>
+      <Page>accountdashboard.aspx</Page>
+      <Page>giftregistryadd.aspx</Page>
+      <Page>giftregistrysendmail.aspx</Page>
+      <Page>giftregistrysendmailfinished.aspx</Page>
+      <Page>giftregistryedit.aspx</Page>
+      <Page>giftregistryitemlist.aspx</Page>
+      <Page>giftregistrycomplete.aspx</Page>
+      <Page>shippingaddressbook.aspx</Page>
+      <Page>productreorder.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="Content.Master">
+      <Page>content.aspx</Page>
+      <Page>contentmenuitem.aspx</Page>
+      <Page>specialoffer.aspx</Page>
+      <Page>secure.aspx</Page>
+      <Page>freeshipping.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="Default.Master">
+      <Page>default.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="Product.Master">
+      <Page>catalog.aspx</Page>
+      <Page>department.aspx</Page>
+      <Page>manufacturer.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="News.Master">
+      <Page>news.aspx</Page>
+      <Page>newsdetails.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="Affiliate.Master">
+      <Page>AffiliateMain.aspx</Page>
+      <Page>AffiliateCommission.aspx</Page>
+      <Page>AffiliateCommissionSearch.aspx</Page>
+      <Page>AffiliateDetails.aspx</Page>
+      <Page>AffiliateGenerateLink.aspx</Page>
+      <Page>ChangeAffiliateUserPassword.aspx</Page>
+      <Page>ChangeAffiliatePasswordFinish.aspx</Page>
+      <Page>AffiliateDashboard.aspx</Page>
+    </MasterPage>
+    <MasterPage FileName="Search.master">
+      <Page>AdvancedSearchResult.aspx</Page>
+      <Page>SearchResult.aspx</Page>
+    </MasterPage>
+  </MasterPages>
+</Theme>

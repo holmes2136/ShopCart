@@ -1,0 +1,46 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="InstallMasterPage.master.cs"
+    Inherits="Install_InstallMasterPage" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Installation Wizard</title>
+    <link id="Link1" href="../App_Themes/Install/Default.css" rel="stylesheet" runat="server" />
+</head>
+<body>
+    <form id="aspnetForm" runat="server">
+    <ajaxToolkit:ToolkitScriptManager ID="uxScriptManager" runat="server">
+    </ajaxToolkit:ToolkitScriptManager>
+    <asp:PlaceHolder ID="uxTrialWarningPlaceHolder" runat="server">
+        <div class="WarningMessage">
+            <span>VevoCart 6.0 Deluxe Trial Version</span> : Licensed to use in localhost environment
+            for 30 days.
+        </div>
+    </asp:PlaceHolder>
+    <div class="WizardBackground">
+        <div class="WizardBorder">
+            <div class="WizardHeader">
+                <div class="WizardHeaderLogo">
+                    <asp:Image ID="uxLogoImage" runat="server" ImageUrl="../Images/Design/Background/LogoWizard.png" />
+                    <asp:Label ID="uxLogoText" runat="server" CssClass="WizardHeaderLogoText" Text="Application Installation"></asp:Label>
+                </div>
+            </div>
+            <div class="Clear">
+            </div>
+            <div class="WizardContentBox">
+                <div class="WizardTitle">
+                    Welcome to VevoCart Installaion Wizard
+                </div>
+                <div class="WizardDetailBox">
+                    <asp:ContentPlaceHolder ID="uxPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div class="Clear">
+                </div>
+            </div>
+        </div>
+    </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" MasterPageFile="Base.master" AutoEventWireup="false"
+    CodeFile="Search.master.cs" Inherits="Themes_ResponsiveGreen_Search" %>
+
+<%@ Register Src="LayoutControls/Right.ascx" TagName="Right" TagPrefix="uc2" %>
+<asp:Content ID="uxContent" ContentPlaceHolderID="uxWebsitePlaceHolder" runat="Server">
+    <div class="row MainDiv">
+        <div runat="server" id="MainDivCenter" class="common-center-col columns">
+            <asp:Panel ID="uxPriceRequireLoginPanel" runat="server" Visible="false">
+                <div class="PriceRequireLoginMessage">
+                    <asp:Label ID="uxMessage" runat="server" Text="[$PriceRequireLogin]" />
+                </div>
+            </asp:Panel>
+            <asp:UpdatePanel ID="uxContentUpdatePanel" runat="server" UpdateMode="Conditional"
+                ChildrenAsTriggers="False">
+                <ContentTemplate>
+                    <asp:ContentPlaceHolder ID="uxPlaceHolder" runat="server">
+                    </asp:ContentPlaceHolder>
+                    <asp:Button ID="Button1" runat="server" Text="Button" Visible="false" />
+                    <div class="Clear">
+                    </div>
+                </ContentTemplate>
+                <Triggers>
+                    <asp:PostBackTrigger ControlID="Button1" />
+                </Triggers>
+            </asp:UpdatePanel>
+        </div>
+        <div class="common-rightside-col column paddingright">
+            <uc2:Right ID="uxRight" runat="server" />
+        </div>
+        <asp:UpdateProgress DynamicLayout="false" ID="uxUpdateProgress" runat="server" AssociatedUpdatePanelID="uxContentUpdatePanel">
+            <ProgressTemplate>
+                <div class="ajaxProgress">
+                    <img src="Images/Design/Background/ajax-loader-big.gif" alt="Progress.." />
+                </div>
+            </ProgressTemplate>
+        </asp:UpdateProgress>
+        <ajaxToolkit:AlwaysVisibleControlExtender ID="uxAlwaysVisibleControlExtender" runat="server"
+            TargetControlID="uxUpdateProgress" HorizontalSide="Center" VerticalSide="Middle">
+        </ajaxToolkit:AlwaysVisibleControlExtender>
+    </div>
+</asp:Content>
