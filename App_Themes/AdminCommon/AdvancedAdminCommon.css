@@ -1,0 +1,799 @@
+﻿body
+{
+    line-height: 25px;
+}
+
+select
+{
+    font-size: 12px;
+    border: 1px solid #f1f1f1;
+}
+.Clear
+{
+    clear: both;
+    font-size: 0px;
+    line-height: 0px;
+}
+
+.it
+{
+    font-style: italic;
+}
+
+.label1
+{
+    clear: left;
+    width: 290px;
+    display: block;
+    line-height: 14px;
+    vertical-align: middle;
+}
+
+.detailsNoLabel1
+{
+    margin-left: 280px;
+}
+
+.label3
+{
+    clear: left;
+    width: 80px;
+    display: block;
+    line-height: 14px;
+    vertical-align: middle;
+}
+
+.label4
+{
+    clear: left;
+    width: 200px;
+    display: block;
+    line-height: 24px;
+    vertical-align: middle;
+}
+
+.label5
+{
+    clear: left;
+    width: 120px;
+    display: block;
+    line-height: 14px;
+    vertical-align: middle;
+}
+
+.label1sub
+{
+    width: 290px;
+    padding-left: 9px;
+    display: block;
+    line-height: 14px;
+    vertical-align: middle;
+}
+
+.label1subsub
+{
+    width: 280px;
+    padding-left: 19px;
+    display: block;
+    line-height: 14px;
+    vertical-align: middle;
+}
+
+.label2
+{
+    clear: left;
+    width: 80px;
+    display: block;
+}
+
+.label3
+{
+    clear: left;
+    width: 120px;
+    line-height: 25px; font-size: 90%;
+}
+
+.height22, .height22 input
+{
+    height: 20px;
+}
+
+.Row1
+{
+    margin-top: 5px;
+}
+
+.Row2
+{
+    margin-top: 10px;
+}
+
+.mgCenter
+{
+    margin: 0px auto;
+}
+
+.mgr1
+{
+    margin-right: 1px;
+}
+
+.mg2
+{
+    margin: 2px;
+}
+
+.mgl2
+{
+    margin-left: 2px;
+}
+.mgt2
+{
+    margin-top: 2px;
+}
+.mgr2
+{
+    margin-right: 2px;
+}
+.mgb2
+{
+    margin-bottom: 2px;
+}
+.mgt0
+{
+    margin-top: 0px;
+}
+.mgt4
+{
+    margin-top: 4px;
+}
+
+.mg5
+{
+    margin: 5px;
+}
+
+.mgl5
+{
+    margin-left: 5px;
+}
+.mgt5
+{
+    margin-top: 5px;
+}
+.mgr5
+{
+    margin-right: 5px;
+}
+.mgb5
+{
+    margin-bottom: 5px;
+}
+.mgb7
+{
+    margin-bottom: 7px;
+}
+
+.mg10
+{
+    margin: 10px;
+}
+
+.mgl10
+{
+    margin-left: 10px;
+}
+.mgt10
+{
+    margin-top: 10px;
+}
+.mgr10
+{
+    margin-right: 10px;
+}
+
+.mgb10
+{
+    margin-bottom: 10px;
+}
+
+.mgl10
+{
+    margin-left: 10px;
+}
+
+.mgl15
+{
+    margin-left: 15px;
+}
+
+.mgl11
+{
+    margin-left: 11px;
+}
+.mgl12
+{
+    margin-left: 12px;
+}
+.mgl13
+{
+    margin-left: 13px;
+}
+.mgl14
+{
+    margin-left: 14px;
+}
+.mgr14
+{
+    margin-right: 14px;
+}
+
+.mgl20
+{
+    margin-left: 20px;
+}
+
+.mgt20
+{
+    margin-top: 20px;
+}
+
+.mgt25
+{
+    margin-top: 25px;
+}
+
+.mgl30
+{
+    margin-left: 30px;
+}
+
+.mgr30
+{
+    margin-right: 30px;
+}
+
+.mgl40
+{
+    margin-left: 40px;
+}
+
+.mgl30p
+{
+    margin-left: 30%;
+}
+
+.mg140
+{
+    margin: 140px;
+}
+
+.mgl40
+{
+    margin-left: 40px;
+}
+.mgt40
+{
+    margin-top: 40px;
+}
+.mgr40
+{
+    margin-right: 40px;
+}
+
+.mgb40
+{
+    margin-bottom: 40px;
+}
+
+.mgl60
+{
+    margin-left: 60px;
+}
+
+.mgr60
+{
+    margin-right: 60px;
+}
+
+.mgl88
+{
+    margin-left: 88px;
+}
+
+.mg120
+{
+    margin: 120px;
+}
+
+.mgl120
+{
+    margin-left: 120px;
+}
+
+.mgt120
+{
+    margin-top: 120px;
+}
+
+.mgr120
+{
+    margin-right: 120px;
+}
+
+.mgb120
+{
+    margin-bottom: 120px;
+}
+
+.mgl135
+{
+    margin-left: 135px;
+}
+
+.pd1
+{
+    padding: 1px;
+}
+.pd10
+{
+    padding: 10px;
+}
+
+.pdt1
+{
+    padding-top: 1px;
+}
+
+.pdr1
+{
+    padding-right: 1px;
+}
+
+.pdt2
+{
+    padding-top: 2px;
+}
+.pdt5
+{
+    padding-top: 5px;
+}
+
+.pdb2
+{
+    padding-bottom: 2px;
+}
+
+.pdl5
+{
+    padding-left: 5px;
+}
+
+.pdr5
+{
+    padding-right: 5px;
+}
+
+.pdb5
+{
+    padding-bottom: 5px;
+}
+
+.pd10
+{
+    padding: 10px;
+}
+
+.pdl10
+{
+    padding-left: 10px;
+}
+.pdl25
+{
+    padding-left: 25px;
+}
+.pdt10
+{
+    padding-top: 10px;
+}
+.pdr10
+{
+    padding-right: 10px;
+}
+.pdb10
+{
+    padding-bottom: 10px;
+}
+
+.pdt12
+{
+    padding-top: 12px;
+}
+
+.pd15
+{
+    padding: 15px;
+}
+
+.pdt15
+{
+    padding-top: 15px;
+}
+.pdt30
+{
+    padding-top: 30px;
+}
+
+.pdt40
+{
+    padding-top: 40px;
+}
+
+.pdl15
+{
+    padding-left: 15px;
+}
+
+.pdr15
+{
+    padding-right: 15px;
+}
+.pdl20
+{
+    padding-left: 20px;
+}
+
+.pd20
+{
+    padding: 20px;
+}
+
+.h
+{
+    height: 204px;
+}
+
+.w20
+{
+    width: 20px;
+}
+
+.w30
+{
+    width: 30px;
+}
+
+.w30p
+{
+    width: 30%;
+}
+.w35p
+{
+    width: 35%;
+}
+.w39p
+{
+    width: 39%;
+}
+
+.w40p
+{
+    width: 40%;
+}
+.w47p
+{
+    width: 47%;
+}
+.w49p
+{
+    width: 49%;
+}
+
+.w50
+{
+    width: 50px;
+}
+
+.w50p
+{
+    width: 50%;
+}
+
+.w60
+{
+    width: 60px;
+}
+
+.w80
+{
+    width: 80px;
+}
+
+.w80p
+{
+    width: 80%;
+}
+
+.w90
+{
+    width: 90px;
+}
+
+.w100p
+{
+    width: 100%;
+}
+
+.w110
+{
+    width: 110px;
+}
+
+.w150
+{
+    width: 150px;
+}
+
+.w200
+{
+    width: 200px;
+}
+
+.w220
+{
+    width: 220px;
+}
+
+.w730
+{
+    width: 730px;
+}
+
+.w750
+{
+    width: 750px;
+}
+
+.pluslabel1
+{
+    margin-left: 5px;
+    line-height: 14px;
+}
+
+.UpdatePanel1
+{
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.Description, .Warning
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 16px;
+}
+
+.Warning
+{
+    color: Red;
+}
+
+.SearchFilterMessage
+{
+    margin-right: 10px;
+    text-align: right;
+}
+
+/*----------------------- Confirm Panel ---------------------------------*/
+.ConfirmPanel
+{
+    width: 300px;
+    padding: 20px;
+    display: table;
+    border: solid 1px #aaaaaa;
+}
+.ConfirmPanel1
+{
+    width: 500px;
+    padding: 20px;
+    display: table;
+}
+.ConfirmPanelBorder
+{
+    border: solid 1px #aaaaaa;
+}
+.ConfirmTitle
+{
+}
+.ConfirmButton
+{
+    width: 180px;
+    margin: auto;
+}
+.ConfirmBackground
+{
+    background-color: #000;
+    opacity: 0.7;
+}
+
+/*------------------------ For Upload --------------------------------*/
+
+.uxUploadUserControlPanel
+{
+    width: 350px;
+}
+
+.uxUploadPanelCss
+{
+    width: 300px;
+}
+
+.progressWrapper
+{
+    width: 357px;
+    overflow: hidden;
+}
+
+.progressContainer
+{
+    margin: 5px;
+    padding: 4px;
+    border: solid 1px #E8E8E8;
+    background-color: #F7F7F7;
+    overflow: hidden;
+}
+
+/* Message */
+.message
+{
+    margin: 1em 0;
+    padding: 10px 20px;
+    border: solid 1px #FFDD99;
+    background-color: #FFFFCC;
+    overflow: hidden;
+}
+/* Error */
+.red
+{
+    border: solid 1px #B50000;
+    background-color: #FFEBEB;
+}
+
+/* Current */
+.green
+{
+    border: solid 1px #DDF0DD;
+    background-color: #EBFFEB;
+}
+
+/* Complete */
+.blue
+{
+    border: solid 1px #CEE2F2;
+    background-color: #F0F5FF;
+}
+
+.progressName
+{
+    font-size: 11px;
+    font-weight: 700;
+    color: #555;
+    width: 323px;
+    height: 20px;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.progressBarInProgress, .progressBarComplete, .progressBarError
+{
+    font-size: 0;
+    width: 0%;
+    height: 2px;
+    background-color: blue;
+    margin-top: 2px;
+}
+
+.progressBarComplete
+{
+    width: 100%;
+    background-color: green;
+    visibility: hidden;
+}
+
+.progressBarError
+{
+    width: 100%;
+    background-color: red;
+    visibility: hidden;
+}
+
+.progressBarStatus
+{
+    margin-top: 2px;
+    width: 337px;
+    font-size: 11px;
+    font-family: Arial;
+    text-align: left;
+    white-space: nowrap;
+}
+
+a.progressCancel
+{
+    font-size: 0;
+    display: block;
+    height: 14px;
+    width: 14px;
+    background-image: url(../../Components/Upload/Images/cancelbutton.gif);
+    background-repeat: no-repeat;
+    background-position: -14px 0px;
+    float: right;
+}
+
+a.progressCancel:hover
+{
+    background-position: 0px 0px;
+}
+
+.CurrencyWarning b
+{
+    color: Red;
+}
+
+.CurrencyWarning p
+{
+    margin-left: 15px;
+}
+
+.dn
+{
+    display: none;
+}
+
+.UnderlineDashed
+{
+    /*text-decoration: none;*/
+}
+
+.NewsletterFromtoItemLine
+{
+    line-height: 24px;
+    vertical-align: middle;
+}
+.HelpTooltip
+{
+    float: left;
+    margin-left: 5px;
+    margin-top: 2px;
+}
+.tooltip
+{
+    background-color: #F5F5B5;
+    color: #000;
+    border: 1px solid #000;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 3;
+    display: none;
+    padding: 5px 5px;
+}
+.WarningMessage
+{
+    background: yellow;
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+	font-weight: bold;
+	color: Gray;
+}
+
+.WarningMessage span
+{
+    text-decoration: underline; 
+    color: Black;
+}
+.Asterisk
+{
+}
+/* background style */

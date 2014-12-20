@@ -1,0 +1,316 @@
+﻿body.PrintPage
+{
+    font-family: Arial, Tahoma, Trebuchet MS,Microsoft Sans Serif,Verdana ;
+    font-size: 12px;
+    font-weight: normal;
+    background-color: #fff;
+    margin: 0px;
+    padding: 0px;    
+}
+
+.PrintPage .PrintPageDiv
+{
+    width: 650px;
+    margin: 10px auto;
+}
+.PrintPage h4
+{
+    font-size: 14px;
+}
+/*CheckoutComplete Begin*/
+.CheckoutCompleteHeadPanel
+{
+    text-align: center;
+}
+
+.CheckoutCompletePrintLinkButton
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.CheckoutCompletePrintLinkDiv
+{
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+   
+}
+.CheckoutCompleteBackLinkDiv
+{
+    text-align: center;
+    text-decoration: none;
+     float: right;
+}
+
+.CheckoutCompleteOrderIDLabel
+{
+    text-align: center;
+    width: 100%;
+    margin: 15px 0;
+    font-weight: bold;
+    display: block;
+}
+
+.CheckoutCompleteTable
+{
+    width: 100%;
+    vertical-align: top;
+}
+/*CheckoutCompleteGridView Begin*/
+.CheckoutCompleteGridView
+{
+    border: solid 1px #f0f0f0;
+    width:100%;
+    clear: both;
+}
+
+.CheckoutCompleteGridViewHeaderStyle th
+{
+    background-color: #fbfcfe;
+    border: solid 1px #f0f0f0;
+    border-top: 0;
+    padding: 5px 2%;
+    font-weight: bold;
+    line-height: 28px;
+}
+td.CheckoutCompleteGridViewHeaderStyle 
+{
+    background-color: #fbfcfe;
+    
+    padding: 5px 2%;
+    font-weight: bold;
+    line-height: 28px;
+}
+.CheckoutCompleteGridViewHeaderStyle a
+{
+    color: #000;
+}
+.CheckoutCompleteGridViewHeaderStyle a:hover
+{
+    color: #04AF91;
+}
+.CheckoutCompleteGridViewRowStyle
+{
+    height: 32px;
+    color: #000; 
+    border-bottom: solid 1px #f0f0f0;
+}
+.CheckoutCompleteGridViewAlternatingRowStyle
+{
+    background-color: white;
+    border-bottom: solid 1px #f0f0f0;
+    height: 32px;
+    color: #000;
+}
+.CheckoutCompleteGridViewRowStyle > td,
+.CheckoutCompleteGridViewAlternatingRowStyle > td
+{
+    padding: 3px 2%;  
+    border-right: solid 1px #f0f0f0;
+}
+/* specific column style */
+.CheckoutCompleteGridView
+{
+    width: 100%;
+}
+
+.CheckoutCompleteGridViewPriceHeaderStyle
+{
+    width: 18%;
+    text-align: right;
+}
+
+.CheckoutCompleteGridViewUnitPriceHeaderStyle
+{
+    width: 18%;
+}
+
+.CheckoutCompleteGridViewQuantityHeaderStyle
+{
+    width: 18%;
+}
+
+.CheckoutCompleteGridViewUnitPriceHeaderStyle
+{
+    width: 18%;
+}
+
+.CheckoutCompleteGridViewPriceItemStyle
+{
+    text-align: right;
+}
+
+.CheckoutCompleteGridViewUnitPriceItemStyle
+{
+}
+
+.CheckoutCompleteGridViewQuantityItemStyle
+{
+}
+.CheckoutCompleteOrderSummaryColumn
+{
+    border: solid 1px #f0f0f0;
+    border-top: 0;
+}
+.CheckoutCompleteOrderSummaryTable
+{
+    width: 100%;    
+}
+.CheckoutCompleteSubtotalTable
+{
+    width: 100%;
+}
+.CheckoutCompleteSubtotalTable td
+{
+     line-height: 24px;
+}
+.CheckoutCompleteSubtotalLabel
+{
+    width: 70%;
+    padding: 3px 2%;
+    text-align: right;
+}
+
+.CheckoutCompleteSubtotalValue
+{
+    width: 15%;
+    padding: 3px 2% 3px 0;
+    text-align: right;
+}
+
+.CheckoutCompleteSubtotalTotalLabel 
+{
+    text-align: right;
+    color: #ff7200;
+    height: 35px;
+    font-weight: bold;
+    font-size: 130%;
+    padding: 3px 2%;
+    border-top: solid 1px #f0f0f0;
+}
+
+
+.CheckoutCompleteSubtotalTotalPrice 
+{
+    text-align: right;
+    color: #ff7200;
+    font-weight: bold;
+    font-size: 130%;
+    padding: 5px 2%;
+    border-top: solid 1px #f0f0f0;
+}
+
+.CheckoutCompleteCustomerFormView
+{
+    width: 100%;
+}
+
+.CheckoutCompleteCustomerTable
+{
+    width: 100%; border-collapse: collapse;
+}
+.CheckoutCompleteCustomerTable td
+{
+    border: 0;
+    vertical-align: top;
+}
+.CheckoutCompleteCustomer 
+{
+    width: 100%;
+}
+.CheckoutCompleteCustomerTable .CheckoutCompleteCustomerShippingInfo
+{
+    border: solid 1px #f0f0f0;
+}
+.CheckoutCompleteCustomerTable .CheckoutCompleteCustomerInfo
+{
+    border: solid 1px #f0f0f0;
+}
+.CheckoutCompleteCustomerTable .infocolumn
+{
+    border: solid 1px #f0f0f0;
+}
+.CheckoutCompleteCustomerDetailsColumn
+{
+    border: solid 1px #f0f0f0!important;
+}
+.CheckoutCompleteCustomerTable  .CheckoutCompleteGridView,
+.CheckoutCompleteCustomerShippingInfo .CheckoutCompleteGridView,
+.CheckoutCompleteCustomerInfo .CheckoutCompleteGridView,
+.CheckoutCompleteCustomerShippingInfo .CheckoutCompleteCustomerDetailsColumn,
+.CheckoutCompleteCustomerInfo .CheckoutCompleteCustomerDetailsColumn
+{
+    width: 100%; vertical-align: top;
+    border: 0!important;
+}
+.CheckoutCompleteCustomerHeaderColumn
+{
+    line-height: 25px;
+    color: #555;
+    font-weight: bold;
+    padding: 0px 3px;
+}
+.CheckoutCompleteDetailsValueColumn
+{
+    border-right: solid 1px #f0f0f0;
+}
+.CheckoutCompleteCustomerDetailsTable
+{
+    width: 100%;
+}
+
+.CheckoutCompletePaymentTable
+{
+    width: 100%;
+}
+
+.CheckoutCompleteOrderCommentTable
+{
+    width: 100%;
+}
+
+.CheckoutCompleteShippingTable
+{
+    width: 100%;
+}
+ .CheckoutCompleteDetailsLabelColumn
+ {
+     width: 40%
+ }
+.CheckoutCompleteOrderCommentTable .CheckoutCompleteDetailsLabelColumn
+{
+    width: 20%;
+}
+
+/*CheckoutComplete End*/
+.PrintButton,
+.CloseButton
+{
+    width: 80px;
+    cursor: pointer;
+    font-weight: bold; font-size: 11px; line-height: 20px; 
+    margin: 0px 5px 2px 0; 
+    padding: 3px 10px;
+    text-decoration: none;
+    vertical-align: middle;
+    text-align:center;
+}
+.PrintButton
+{
+    color: #fff;
+    background: #FF8112;
+}
+
+.CloseButton
+{
+     color: #fff;
+    background: #04AF91;
+}
+
+.PrintButton:hover,
+.CloseButton:hover
+{
+    background: #000;
+}

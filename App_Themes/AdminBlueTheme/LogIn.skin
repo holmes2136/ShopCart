@@ -1,0 +1,37 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>                         
+<asp:Image runat="server" SkinId="LoginHeaderTopLeft" ImageUrl="Images/Background/BG_LoginHeaderTopLeft.gif"
+                                    ToolTip="" CssClass="fl" />
+<asp:Image runat="server" SkinId="LoginHeaderTopRight" ImageUrl="Images/Background/BG_LoginHeaderTopRight.gif"
+                                    ToolTip="" CssClass="fr" />                                    
+<asp:Image runat="server" SkinId="LoginHeaderLogo" ImageUrl="Images/Background/BG_LoginHeaderLogo.gif"
+                                        ToolTip="" CssClass="LoginHeaderLogo" />                                        
+<asp:Image runat="server" SkinId="LoginHeaderBottomLeft" ImageUrl="Images/Background/BG_LoginHeaderBottomLeft.gif"
+                                    ToolTip="" CssClass="fl" />
+<asp:Image runat="server" SkinId="LoginHeaderBottomRight" ImageUrl="Images/Background/BG_LoginHeaderBottomRight.gif"
+                                    ToolTip="" CssClass="fr" />
+<asp:Image runat="server" SkinId="LoginTopLeft" ImageUrl="Images/Background/BG_LoginTopLeft.gif"
+                    CssClass="fl" />
+<asp:Image runat="server" SkinId="LoginTopRight" ImageUrl="Images/Background/BG_LoginTopRight.gif"
+                    CssClass="fr" />  
+<asp:Image runat="server" SkinId="LoginLogoImage"  ImageUrl="Images/Logo/BG_LoginLogo.gif" CssClass="fl" />                  
+
+<asp:Image runat="server" SkinId="LoginBottomLeft" ImageUrl="Images/Background/BG_LoginBottomLeft.gif"
+                    CssClass="fl" />
+<asp:Image runat="server" SkinId="LoginBottomRight" ImageUrl="Images/Background/BG_LoginBottomRight.gif"
+                    CssClass="fr" />                                    
+                    
+<asp:Image runat="server" SkinId="LoginUserLogoImage" ImageUrl="Images/Logo/loginlogo.gif" ToolTip="" />                           

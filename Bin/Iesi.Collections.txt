@@ -1,0 +1,3 @@
+Copyright (c) 2002-2004 by Aidant Systems, Inc., and by Jason Smith.
+
+The Code Project Open License (CPOL) (http://www.codeproject.com/info/cpol10.aspx)

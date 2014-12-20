@@ -1,0 +1,16 @@
+﻿body
+{
+    background-color: #fff;
+    font-size: 14px;
+    font-family: Arial, Verdana, Tahoma, Microsoft Sans Serif;
+}
+
+.SystemErrorTop img
+{
+    display: none;
+}
+
+.SystemErrorRight
+{
+    padding-top: 10px;
+}

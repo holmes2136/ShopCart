@@ -1,0 +1,18 @@
+﻿/* Fix for IE 6 */
+
+/* Fix double margin error for float-based elements */
+.fl
+{
+    display: inline;
+}
+
+.fr
+{
+    display: inline;
+}
+
+.SearchFilterMessage
+{
+    display: inline;
+}
+

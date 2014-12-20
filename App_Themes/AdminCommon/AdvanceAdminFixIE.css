@@ -1,0 +1,48 @@
+﻿body
+{
+    scrollbar-face-color: #e9f5fa;
+    scrollbar-highlight-color: #ffffff;
+    scrollbar-3dlight-color: #d8e8f4;
+    scrollbar-darkshadow-color: #1f95ed; /*b4*/
+    scrollbar-shadow-color: #d8e8f4;
+    scrollbar-arrow-color: #3f3f3f;
+    scrollbar-track-color: #e2eff7; /*b6*/ /* ---- For Green -------     scrollbar-face-color:#bddbbe;     scrollbar-highlight-color:#c8e3bb;     scrollbar-3dlight-color:#9ec999;     scrollbar-darkshadow-color:#3ba13d; /*b4*/ /*     scrollbar-shadow-color:#c8e3bb;     scrollbar-arrow-color:#3f3f3f;     scrollbar-track-color:#e5f0de; /*b6*/ /* ---- For Green End -------*/
+}
+
+.fl
+{
+    display: inline-block;
+}
+.fr
+{
+    display: inline-block;
+}
+
+.ajax__tab_default .ajax__tab_outer
+{
+    display: inline-block;
+}
+.ajax__tab_default .ajax__tab_inner
+{
+    display: inline-block;
+}
+.ajax__tab_default .ajax__tab_tab
+{
+    display: inline-block;
+}
+
+.ConfirmBackground
+{
+    filter: alpha(opacity=60);
+}
+.MessageBackground
+{
+    filter: alpha(opacity=60);
+}
+.SidebarTop{filter: none!important;}
+.DefaultTabContainer .ajax__tab_header{filter: none!important;}
+.AdminTopMenuLeft{filter: none!important;}
+.DefaultTabContainer .ajax__tab_header .ajax__tab_outer .ajax__tab_inner .ajax__tab_tab{filter: none!important;}
+.ButtonBlue,.ButtonOrange{filter: none!important;}
+.LoginTitle{filter: none!important;}
+.LoginBody{filter: none!important;}
