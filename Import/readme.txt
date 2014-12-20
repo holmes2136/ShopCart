@@ -1,0 +1,1 @@
+﻿This folder for bulk import files.
