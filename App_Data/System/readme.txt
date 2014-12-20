@@ -1,0 +1,1 @@
+This folder contain files relating to the system configurations.

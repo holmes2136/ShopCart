@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lcAdminSSL.Text" xml:space="preserve">
+    <value>Enable SSL for Admin Panel</value>
+  </data>
+  <data name="lcAdminSSLAlert.Text" xml:space="preserve">
+    <value>Your AdminSSLDisabled value now is "True". Please change it to "False" in "Web.config" page for this function can activate.</value>
+  </data>
+  <data name="lcCategoryMenuLevel.Text" xml:space="preserve">
+    <value>Sidebar Category Menu Level</value>
+  </data>
+  <data name="uxDepartmentMenuLevel.Text" xml:space="preserve">
+    <value>Sidebar Department Menu Level</value>
+  </data>
+  <data name="lcCategoryMenuType.Text" xml:space="preserve">
+    <value>Sidebar Category Menu Type</value>
+  </data>
+  <data name="uxDepartmentMenuType.Text" xml:space="preserve">
+    <value>Sidebar Department Menu Type</value>
+  </data>
+  <data name="lcCouponEnabled.Text" xml:space="preserve">
+    <value>Enable Coupon</value>
+  </data>
+  <data name="lcDisplayOption.Text" xml:space="preserve">
+    <value>Display Option in product list page</value>
+  </data>
+  <data name="lcDisplayRemainingQuantityLabel.Text" xml:space="preserve">
+    <value>Display Quantity On Hand</value>
+  </data>
+  <data name="lcGiftRegistry.Text" xml:space="preserve">
+    <value>Enable Gift Registry</value>
+  </data>
+  <data name="lcHandlingFeeEnabled.Text" xml:space="preserve">
+    <value>Handling Fee Enabled</value>
+  </data>
+  <data name="lcIgnoreProductFixedShipping.Text" xml:space="preserve">
+    <value>Ingore Product Fixed Shipping Cost for real-time shipping rates</value>
+  </data>
+  <data name="lcIsDiscountAllCustomers.Text" xml:space="preserve">
+    <value>Use discount rule with all customers</value>
+  </data>
+  <data name="lcLanguageMenuDisplay.Text" xml:space="preserve">
+    <value>Language Menu Display Mode</value>
+  </data>
+  <data name="lcLogoInvoiceImage.Text" xml:space="preserve">
+    <value>Company Logo inside Invoice</value>
+  </data>
+  <data name="lcLogoUpload.Text" xml:space="preserve">
+    <value>Store Logo</value>
+  </data>
+  <data name="lcModeCatalog.Text" xml:space="preserve">
+    <value>Website Mode</value>
+  </data>
+  <data name="lcNumberOfBestSelling.Text" xml:space="preserve">
+    <value>Number of Best Selling</value>
+  </data>
+  <data name="lcNumberOfCategory.Text" xml:space="preserve">
+    <value>Number of Displayed Category</value>
+  </data>
+  <data name="uxNumberOfDepartmentLabel.Text" xml:space="preserve">
+    <value>Number of Displayed Department</value>
+  </data>
+  <data name="lcNumberOfProduct.Text" xml:space="preserve">
+    <value>Number of Displayed Products</value>
+  </data>
+  <data name="lcOutOfStockValue.Text" xml:space="preserve">
+    <value>Out of stock quantity</value>
+  </data>
+  <data name="lcPaymentConfigurationLabel.Text" xml:space="preserve">
+    <value>Payment Configuration</value>
+  </data>
+  <data name="lcPaymentSSLEnabled.Text" xml:space="preserve">
+    <value>Payment SSL Enabled</value>
+  </data>
+  <data name="lcQuantityDiscount.Text" xml:space="preserve">
+    <value>Calculate quantity discount separately for product options</value>
+  </data>
+  <data name="lcRandomNumber.Text" xml:space="preserve">
+    <value>Number of Featured Products (Random)</value>
+  </data>
+  <data name="lcRetailMode.Text" xml:space="preserve">
+    <value>Show Retail Price</value>
+  </data>
+  <data name="lcShippingAddressMode.Text" xml:space="preserve">
+    <value>Required Shipping Address</value>
+  </data>
+  <data name="lcShowSkuModeLabel.Text" xml:space="preserve">
+    <value>Show Product SKU</value>
+  </data>
+  <data name="lcSiteMapEnabled.Text" xml:space="preserve">
+    <value>Display Site Map</value>
+  </data>
+  <data name="lcSSL.Text" xml:space="preserve">
+    <value>Enable SSL during login &amp; checkout</value>
+  </data>
+  <data name="lcStoreHeader.Text" xml:space="preserve">
+    <value>Store Information</value>
+  </data>
+  <data name="lcThemeLayoutSettingLabel.Text" xml:space="preserve">
+    <value>Theme &amp; Page layouts</value>
+  </data>
+  <data name="lcUseInventoryControl.Text" xml:space="preserve">
+    <value>Use Inventory Control</value>
+  </data>
+  <data name="lcWeightUnit.Text" xml:space="preserve">
+    <value>Unit of Weight</value>
+  </data>
+  <data name="uxCategoryConfigurationLabel.Text" xml:space="preserve">
+    <value>Category Configuration</value>
+  </data>
+  <data name="uxDepartmentConfigurationLabel.Text" xml:space="preserve">
+    <value>Department Configuration</value>
+  </data>
+  <data name="uxCategoryDynamicDropDownDisplay.Text" xml:space="preserve">
+    <value>Top Category Dynamic Drop-Down</value>
+  </data>
+  <data name="uxDepartmentDynamicDropDownDisplay.Text" xml:space="preserve">
+    <value>Top Department Dynamic Drop-Down</value>
+  </data>
+  <data name="uxCategoryDynamicDropDownLevel.Text" xml:space="preserve">
+    <value>Top Category Dynamic Drop-Down Level</value>
+  </data>
+  <data name="uxDepartmentDynamicDropDownLevel.Text" xml:space="preserve">
+    <value>Top Department Dynamic Drop-Down Level</value>
+  </data>
+  <data name="uxNumberOfCategoryColumnLabel.Text" xml:space="preserve">
+    <value>Number of Category Column</value>
+  </data>
+  <data name="uxNumberOfDepartmentColumnLabel.Text" xml:space="preserve">
+    <value>Number of Department Column</value>
+  </data>
+  <data name="uxNumberOfProductColumnLabel.Text" xml:space="preserve">
+    <value>Number of Product Column</value>
+  </data>
+  <data name="uxOtherHeaderLabel.Text" xml:space="preserve">
+    <value>Other</value>
+  </data>
+  <data name="uxProductDisplayTypeLabel.Text" xml:space="preserve">
+    <value>Product Display Style</value>
+  </data>
+  <data name="uxWidgetAddLivePersonLabel.Text" xml:space="preserve">
+    <value>LivePerson</value>
+  </data>
+  <data name="uxWidgetAddThisTitleLabel.Text" xml:space="preserve">
+    <value>AddThis</value>
+  </data>
+  <data name="uxRootCategoryLabel.Text" xml:space="preserve">
+    <value>Root Category</value>
+  </data>
+  <data name="uxRootDepartmentLabel.Text" xml:space="preserve">
+    <value>Root Department</value>
+  </data>
+  <data name="lcNumberOfRecentlyViewed.Text" xml:space="preserve">
+    <value>Number of Recently Viewed Products</value>
+  </data>
+  <data name="uxStoreDefaultCountryLabel.Text" xml:space="preserve">
+    <value>Store Default Country Dropdown</value>
+  </data>
+  <data name="lcNumberOfCompareProduct.Text" xml:space="preserve">
+    <value>Number of Compare Product</value>
+  </data>
+  <data name="uxSaleTaxExemptLabel.Text" xml:space="preserve">
+    <value>Sale Tax Exempt</value>
+  </data>
+  <data name="lcBundlePromotionShow.Text" xml:space="preserve">
+    <value>Number of Bundle Promotion</value>
+  </data>
+  <data name="uxBundlePromotionColumnLabel.Text" xml:space="preserve">
+    <value>Number of Bundle Promotion Column</value>
+  </data>
+  <data name="uxBundlePromotionDisplayLabel.Text" xml:space="preserve">
+    <value>Number of Displayed Bundle Promotion</value>
+  </data>
+  <data name="uxSearchModeLabel.Text" xml:space="preserve">
+    <value>Default Search Mode</value>
+  </data>
+  <data name="lcCategoryShowProductList.Text" xml:space="preserve">
+    <value>Show Products in Category List</value>
+  </data>
+  <data name="lcDepartmentShowProductList.Text" xml:space="preserve">
+    <value>Show Products in Department List</value>
+  </data>
+  <data name="uxMobileViewLabel.Text" xml:space="preserve">
+    <value>Enable Mobile View</value>
+  </data>
+  <data name="uxTopCategoryMenuColumnLabel.Text" xml:space="preserve">
+    <value>Number of Displayed Sub Category Menu Column</value>
+  </data>
+  <data name="uxTopCategoryMenuItemLabel.Text" xml:space="preserve">
+    <value>Number of Displayed Sub Category Menu Item</value>
+  </data>
+  <data name="uxManufacturerConfigurationLabel.Text" xml:space="preserve">
+    <value>Manufacturer Configuration</value>
+  </data>
+  <data name="uxManufacturerMenuTypeLabel.Text" xml:space="preserve">
+    <value>Sidebar Manufacturer Menu Type</value>
+  </data>
+  <data name="uxAddToCartLabel.Text" xml:space="preserve">
+    <value>Enable Add To Cart Notification</value>
+  </data>
+  <data name="uxNumberOfManufacturerLabel.Text" xml:space="preserve">
+    <value>Number of Displayed Manufacturer Column</value>
+  </data>
+  <data name="uxAdvancedSearchConfigurationLabel.Text" xml:space="preserve">
+    <value>Advanced Search Configuration</value>
+  </data>
+  <data name="uxAdvancedSearchModeLabel.Text" xml:space="preserve">
+    <value>Advanced Search Mode</value>
+  </data>
+  <data name="uxManufacturerDynamicDropDownDisplayLabel.Text" xml:space="preserve">
+    <value>Top Manufacturer Dynamic Drop-Down</value>
+  </data>
+  <data name="uxQuickViewLabel.Text" xml:space="preserve">
+    <value>Enable Quick View</value>
+  </data>
+  <data name="lcPriceRequireLogin.Text" xml:space="preserve">
+    <value>View Price Require Login</value>
+  </data>
+  <data name="lcRestrictAccessToShop.Text" xml:space="preserve">
+    <value>Restrict Access To Shop</value>
+  </data>
+  <data name="lcStoreCofigurationLabel.Text" xml:space="preserve">
+    <value>Store Configuration</value>
+  </data>
+  <data name="uxCheckoutModeLabel.Text" xml:space="preserve">
+    <value>Checkout Mode</value>
+  </data>
+  <data name="uxReviewPerCultureLabel.Text" xml:space="preserve">
+    <value>Enable Customer Review Per Culture</value>
+  </data>
+  <data name="uxRmaLabel.Text" xml:space="preserve">
+    <value>Enable RMA</value>
+  </data>
+</root>

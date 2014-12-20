@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lcBestsellersModuleDisplay.Text" xml:space="preserve">
+    <value>Bestsellers</value>
+  </data>
+  <data name="lcCategoryListModuleDisplay.Text" xml:space="preserve">
+    <value>Category List</value>
+  </data>
+  <data name="uxDepartmentListModuleDisplay.Text" xml:space="preserve">
+    <value>Department List</value>
+  </data>
+  <data name="uxDepartmentHeaderMenuDisplay.Text" xml:space="preserve">
+    <value>Display Department Header Menu</value>
+  </data>
+  <data name="lcCouponModuleDisplay.Text" xml:space="preserve">
+    <value>Coupon</value>
+  </data>
+  <data name="lcCurrencyCode.Text" xml:space="preserve">
+    <value>Currency Code</value>
+  </data>
+  <data name="lcCurrencyHeader.Text" xml:space="preserve">
+    <value>Currency</value>
+  </data>
+  <data name="lcCurrencyModuleDisplay.Text" xml:space="preserve">
+    <value>Currency</value>
+  </data>
+  <data name="lcCurrencySymbol.Text" xml:space="preserve">
+    <value>Currency Symbol</value>
+  </data>
+  <data name="lcDefaultCategoryListDisplay.Text" xml:space="preserve">
+    <value>Default Category Layout</value>
+  </data>
+  <data name="lcDefaultProductDetailsDisplay.Text" xml:space="preserve">
+    <value>Default Product Details Layout</value>
+  </data>
+  <data name="lcDefaultProductListDisplay.Text" xml:space="preserve">
+    <value>Default Product List Layout</value>
+  </data>
+  <data name="lcFeaturedMerchantCount.Text" xml:space="preserve">
+    <value>Number of Featured Merchants</value>
+  </data>
+  <data name="lcFeaturedMerchantModuleDisplay.Text" xml:space="preserve">
+    <value>Featured Merchant</value>
+  </data>
+  <data name="lcFeaturedMerchantModuleImage1.Text" xml:space="preserve">
+    <value>Featured Merchant Image 1</value>
+  </data>
+  <data name="lcFeaturedMerchantModuleImage2.Text" xml:space="preserve">
+    <value>Featured Merchant Image 2</value>
+  </data>
+  <data name="lcFeaturedMerchantModuleImage3.Text" xml:space="preserve">
+    <value>Featured Merchant Image 3</value>
+  </data>
+  <data name="lcFeaturedMerchantUrl1.Text" xml:space="preserve">
+    <value>Featured Merchant URL 1</value>
+  </data>
+  <data name="lcFeaturedMerchantUrl2.Text" xml:space="preserve">
+    <value>Featured Merchant URL 2</value>
+  </data>
+  <data name="lcFeaturedMerchantUrl3.Text" xml:space="preserve">
+    <value>Featured Merchant URL 3</value>
+  </data>
+  <data name="lcFeaturedProductModuleDisplay.Text" xml:space="preserve">
+    <value>Featured Product ( Random Product )</value>
+  </data>
+  <data name="lcFreeShippingModuleDisplay.Text" xml:space="preserve">
+    <value>Free Shipping Ad</value>
+  </data>
+  <data name="lcFreeShippingModuleImage.Text" xml:space="preserve">
+    <value>Free Shipping Ad Image</value>
+  </data>
+  <data name="lcGiftRegistryDisplay.Text" xml:space="preserve">
+    <value>Gift Registry</value>
+  </data>
+  <data name="lcInformationModuleDisplay.Text" xml:space="preserve">
+    <value>Information</value>
+  </data>
+  <data name="lcMiniCartModuleDisplay.Text" xml:space="preserve">
+    <value>Mini Cart</value>
+  </data>
+  <data name="lcNewsletterModuleDisplay.Text" xml:space="preserve">
+    <value>Newsletter</value>
+  </data>
+  <data name="lcNewsModuleDisplay.Text" xml:space="preserve">
+    <value>News And Announcement</value>
+  </data>
+  <data name="lcPaymentLogoModuleDisplay.Text" xml:space="preserve">
+    <value>Payment Logo</value>
+  </data>
+  <data name="lcPaymentLogoModuleImage.Text" xml:space="preserve">
+    <value>Payment Logo Image</value>
+  </data>
+  <data name="lcSearchModuleDisplay.Text" xml:space="preserve">
+    <value>Quick Search</value>
+  </data>
+  <data name="lcSecureModuleDisplay.Text" xml:space="preserve">
+    <value>Secure Shopping Ad</value>
+  </data>
+  <data name="lcSecureModuleImage.Text" xml:space="preserve">
+    <value>Secure Shopping Ad Image</value>
+  </data>
+  <data name="lcSpecialOfferModuleDisplay.Text" xml:space="preserve">
+    <value>Special Offer</value>
+  </data>
+  <data name="lcSpecialOfferModuleImage.Text" xml:space="preserve">
+    <value>Special Offer Ad Image</value>
+  </data>
+  <data name="lcStoreBannerModuleDisplay.Text" xml:space="preserve">
+    <value>Store Banner</value>
+  </data>
+  <data name="lcTodaySpecialModuleDisplay.Text" xml:space="preserve">
+    <value>Today's Special</value>
+  </data>
+  <data name="lcTodaySpecialModuleEffect.Text" xml:space="preserve">
+    <value>Today's Special Effects Mode</value>
+  </data>
+  <data name="lcTodaySpecialModuleSpeed.Text" xml:space="preserve">
+    <value>Today's Special Transition speed (ms)</value>
+  </data>
+  <data name="lcTodaySpecialModuleWait.Text" xml:space="preserve">
+    <value>Today's Special Effect Wait time (s)</value>
+  </data>
+  <data name="lcWishListDisplay.Text" xml:space="preserve">
+    <value>Wishlist</value>
+  </data>
+  <data name="uxDisplayCurrencyCodeLabel.Text" xml:space="preserve">
+    <value>Default Display Currency Code</value>
+  </data>
+  <data name="lcTellAFriendDisplay.Text" xml:space="preserve">
+    <value>Tell A Friend</value>
+  </data>
+  <data name="lcRecentlyViewedProduct.Text" xml:space="preserve">
+    <value>Recently Viewed Product</value>
+  </data>
+  <data name="lcCompareListDisplay.Text" xml:space="preserve">
+    <value>Compare Products</value>
+  </data>
+  <data name="lcBundlePromotionDisplay.Text" xml:space="preserve">
+    <value>Bundle Promotion</value>
+  </data>
+  <data name="uxFacetedSearchEnabledLabel.Text" xml:space="preserve">
+    <value>Enable Faceted Search</value>
+  </data>
+  <data name="uxMaximunIntervalLabel.Text" xml:space="preserve">
+    <value>Maximum number of price interval</value>
+  </data>
+  <data name="uxPriceNavigationStepLabel.Text" xml:space="preserve">
+    <value>Price Navigation Step</value>
+  </data>
+  <data name="uxStoreBannerEffectModeLabel.Text" xml:space="preserve">
+    <value>Sliding Effects</value>
+  </data>
+  <data name="uxStoreBannerEffectPeriodLabel.Text" xml:space="preserve">
+    <value>Length Of Banner Effect (ms)</value>
+  </data>
+  <data name="uxStoreBannerSlideSpeedLabel.Text" xml:space="preserve">
+    <value>Length Of Sliding Display (ms)</value>
+  </data>
+  <data name="uxEnableNewArrivalProductLabel.Text" xml:space="preserve">
+    <value>Enable Display New Arrival Product</value>
+  </data>
+  <data name="uxMaximumDisplayProductNewArrivalLabel.Text" xml:space="preserve">
+    <value>Maximum Number of New Arrival Product</value>
+  </data>
+  <data name="uxProductNewArrivalNumberLabel.Text" xml:space="preserve">
+    <value>Number of New Arrival Product Per Page</value>
+  </data>
+  <data name="uxManufacturerHeaderMenuDisplayLabel.Text" xml:space="preserve">
+    <value>Display Manufacturer Header Menu</value>
+  </data>
+  <data name="uxHeaderMenuStyleDisplayLabel.Text" xml:space="preserve">
+    <value>Header Menu Style</value>
+  </data>
+  <data name="uxEnableManufacturerLabel.Text" xml:space="preserve">
+    <value>Manufacturer List</value>
+  </data>
+  <data name="uxDisplayCategoryInQuickSearchLabel.Text" xml:space="preserve">
+    <value>Display Category in Quick Search</value>
+  </data>
+</root>

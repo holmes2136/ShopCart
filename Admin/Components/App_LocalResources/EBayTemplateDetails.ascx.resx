@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="uxCountryLabel.Text" xml:space="preserve">
+    <value>Country</value>
+  </data>
+  <data name="uxEBayAddionalPolicyLabel.Text" xml:space="preserve">
+    <value>Additional Return Policy</value>
+  </data>
+  <data name="uxEBayAdditionShipping.Text" xml:space="preserve">
+    <value>Additional Shipping Details</value>
+  </data>
+  <data name="uxEBayBuyItNowPriceTypeLabel.Text" xml:space="preserve">
+    <value>Buy It Now Price Type</value>
+  </data>
+  <data name="uxEBayBuyItNowPriceValueLabel.Text" xml:space="preserve">
+    <value>Buy It Now Price Value</value>
+  </data>
+  <data name="uxEBayCategories.Text" xml:space="preserve">
+    <value>Select Categories</value>
+  </data>
+  <data name="uxEBayCheckoutInstructionLabel.Text" xml:space="preserve">
+    <value>Checkout Instruction</value>
+  </data>
+  <data name="uxEBayCheckoutReturnLabel.Text" xml:space="preserve">
+    <value>Checkout &amp; Return Policy</value>
+  </data>
+  <data name="uxEBayCounterStyleLabel.Text" xml:space="preserve">
+    <value>Counter Style</value>
+  </data>
+  <data name="uxEBayDomesticHandlingCostLabel.Text" xml:space="preserve">
+    <value>Handling Cost</value>
+  </data>
+  <data name="uxEBayDomesticIsGetItFastLabel.Text" xml:space="preserve">
+    <value>Is Display 'Get It Fast'</value>
+  </data>
+  <data name="uxEBayDomesticPackageTypeLabel.Text" xml:space="preserve">
+    <value>Package Type</value>
+  </data>
+  <data name="uxEBayDomesticShippingDetailsLabel.Text" xml:space="preserve">
+    <value>Domestic Shipping Details</value>
+  </data>
+  <data name="uxEBayDomesticShippingFirstItemLabel1.Text" xml:space="preserve">
+    <value>First Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayDomesticShippingFirstItemLabel2.Text" xml:space="preserve">
+    <value>First Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayDomesticShippingFirstItemLabel3.Text" xml:space="preserve">
+    <value>First Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayDomesticShippingMethod1Label.Text" xml:space="preserve">
+    <value>Shipping Method1</value>
+  </data>
+  <data name="uxEBayDomesticShippingMethod2Label.Text" xml:space="preserve">
+    <value>Shipping Method2</value>
+  </data>
+  <data name="uxEBayDomesticShippingMethod3Label.Text" xml:space="preserve">
+    <value>Shipping Method3</value>
+  </data>
+  <data name="uxEBayDomesticShippingNextItemLabel1.Text" xml:space="preserve">
+    <value>Next Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayDomesticShippingNextItemLabel2.Text" xml:space="preserve">
+    <value>Next Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayDomesticShippingNextItemLabel3.Text" xml:space="preserve">
+    <value>Next Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayDomesticShippingTypeLabel.Text" xml:space="preserve">
+    <value>Shipping Type</value>
+  </data>
+  <data name="uxEBayHandlingTimeLabel.Text" xml:space="preserve">
+    <value>Handling Time</value>
+  </data>
+  <data name="uxEBayInternationalHandlingCostLabel.Text" xml:space="preserve">
+    <value>Handling Cost</value>
+  </data>
+  <data name="uxEBayInternationalPackageTypeLabel.Text" xml:space="preserve">
+    <value>Package Type</value>
+  </data>
+  <data name="uxEBayInternationalShippingDetailsLabel.Text" xml:space="preserve">
+    <value>International Shipping Details</value>
+  </data>
+  <data name="uxEBayInternationalShippingFirstItemLabel1.Text" xml:space="preserve">
+    <value>First Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayInternationalShippingFirstItemLabel2.Text" xml:space="preserve">
+    <value>First Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayInternationalShippingFirstItemLabel3.Text" xml:space="preserve">
+    <value>First Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayInternationalShippingMethod1Label.Text" xml:space="preserve">
+    <value>Shipping Method1</value>
+  </data>
+  <data name="uxEBayInternationalShippingMethod2Label.Text" xml:space="preserve">
+    <value>Shipping Method2</value>
+  </data>
+  <data name="uxEBayInternationalShippingMethod3Label.Text" xml:space="preserve">
+    <value>Shipping Method3</value>
+  </data>
+  <data name="uxEBayInternationalShippingNextItemLabel1.Text" xml:space="preserve">
+    <value>Next Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayInternationalShippingNextItemLabel2.Text" xml:space="preserve">
+    <value>Next Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayInternationalShippingNextItemLabel3.Text" xml:space="preserve">
+    <value>Next Item Shipping Cost</value>
+  </data>
+  <data name="uxEBayInternationalShippingTypeLabel.Text" xml:space="preserve">
+    <value>Shipping Type</value>
+  </data>
+  <data name="uxEBayInternationalShipTo1Label.Text" xml:space="preserve">
+    <value>Ship To1</value>
+  </data>
+  <data name="uxEBayInternationalShipTo2Label.Text" xml:space="preserve">
+    <value>Ship To2</value>
+  </data>
+  <data name="uxEBayInternationalShipTo3Label.Text" xml:space="preserve">
+    <value>Ship To3</value>
+  </data>
+  <data name="uxEBayIsAcceptReturnLabel.Text" xml:space="preserve">
+    <value>Is Accept Return</value>
+  </data>
+  <data name="uxEBayIsInterantionalShippingEnableLabel.Text" xml:space="preserve">
+    <value>Is International Shipping Enabled</value>
+  </data>
+  <data name="uxEBayIsUseBuyItNowPriceLabel.Text" xml:space="preserve">
+    <value>Is Use Buy It Now Price</value>
+  </data>
+  <data name="uxEBayIsUseReservePriceLabel.Text" xml:space="preserve">
+    <value>Is Use Reserve Price</value>
+  </data>
+  <data name="uxEBayItemDetails.Text" xml:space="preserve">
+    <value>Item Details</value>
+  </data>
+  <data name="uxEBayItemLocation.Text" xml:space="preserve">
+    <value>Item Location</value>
+  </data>
+  <data name="uxEBayListingDurationLabel.Text" xml:space="preserve">
+    <value>Listing Duration</value>
+  </data>
+  <data name="uxEBayListingFeatureLabel.Text" xml:space="preserve">
+    <value>Listing Feature</value>
+  </data>
+  <data name="uxEBayOtherSettingLabel.Text" xml:space="preserve">
+    <value>Other Setting</value>
+  </data>
+  <data name="uxEBayPaidListingOptionLabel.Text" xml:space="preserve">
+    <value>Paid Listing Option</value>
+  </data>
+  <data name="uxEBayPaymentDetailsLabel.Text" xml:space="preserve">
+    <value>Payment Details</value>
+  </data>
+  <data name="uxEBayPaymentMethodLabel.Text" xml:space="preserve">
+    <value>Payment Methods</value>
+  </data>
+  <data name="uxEBayPayPalEmailAddressLabel.Text" xml:space="preserve">
+    <value>PayPal Email Address</value>
+  </data>
+  <data name="uxEBayReservePriceTypeLabel.Text" xml:space="preserve">
+    <value>Reserve Price Type</value>
+  </data>
+  <data name="uxEBayReservePriceValueLabel.Text" xml:space="preserve">
+    <value>Reserve Price Value</value>
+  </data>
+  <data name="uxEBayReturnOfferLabel.Text" xml:space="preserve">
+    <value>Return Offer</value>
+  </data>
+  <data name="uxEBayReturnPeriodLabel.Text" xml:space="preserve">
+    <value>Return Period</value>
+  </data>
+  <data name="uxEBayReturnShippingPaidLabel.Text" xml:space="preserve">
+    <value>Return Shipping Paid By</value>
+  </data>
+  <data name="uxEBaySellingMethod.Text" xml:space="preserve">
+    <value>Selling Method</value>
+  </data>
+  <data name="uxEBaySellingMethodLabel.Text" xml:space="preserve">
+    <value>Selling Method</value>
+  </data>
+  <data name="uxEBayStartingPriceTypeLabel.Text" xml:space="preserve">
+    <value>Starting Price Type</value>
+  </data>
+  <data name="uxEBayStartingPriceValueLabel.Text" xml:space="preserve">
+    <value>Starting Price Value</value>
+  </data>
+  <data name="uxEBayTemplateNameLabel.Text" xml:space="preserve">
+    <value>Template Name</value>
+  </data>
+  <data name="uxEBayVisitorCounterLabel.Text" xml:space="preserve">
+    <value>Visitor Counter</value>
+  </data>
+  <data name="uxEBayZipLabel.Text" xml:space="preserve">
+    <value>Zip Code</value>
+  </data>
+  <data name="uxGalleryDurationLabel.Text" xml:space="preserve">
+    <value>Gallery Duration</value>
+  </data>
+  <data name="uxGalleryOptionLabel.Text" xml:space="preserve">
+    <value>Gallery Options</value>
+  </data>
+  <data name="uxGeneralTemplateDetails.Text" xml:space="preserve">
+    <value>General Template Details</value>
+  </data>
+  <data name="uxIsDisplayImageLabel.Text" xml:space="preserve">
+    <value>Is Display Image</value>
+  </data>
+  <data name="uxIsFreeDomesticShippingLabel.Text" xml:space="preserve">
+    <value>Is free shipping</value>
+  </data>
+  <data name="uxIsPrivateListLabel.Text" xml:space="preserve">
+    <value>Is Private Listing</value>
+  </data>
+  <data name="uxLotSizeLabel.Text" xml:space="preserve">
+    <value>Lot Size</value>
+  </data>
+  <data name="uxPrimaryEBayCategoryLabel.Text" xml:space="preserve">
+    <value>Primary eBay Category</value>
+  </data>
+  <data name="uxProductConditionLabel.Text" xml:space="preserve">
+    <value>Product Condition</value>
+  </data>
+  <data name="uxQuantityLable.Text" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="uxRequiredEBayDomesticShippingFirstItemText1Validator.ErrorMessage" xml:space="preserve">
+    <value>Required First Item Shipping Cost1</value>
+  </data>
+  <data name="uxRequiredEBayDomesticShippingFirstItemText2Validator.ErrorMessage" xml:space="preserve">
+    <value>Required First Item Shipping Cost2</value>
+  </data>
+  <data name="uxRequiredEBayDomesticShippingFirstItemText3Validator.ErrorMessage" xml:space="preserve">
+    <value>Required First Item Shipping Cost3</value>
+  </data>
+  <data name="uxRequiredEBayInternationalShippingFirstItemText1Validator.ErrorMessage" xml:space="preserve">
+    <value>Required International First Item Shipping Cost1</value>
+  </data>
+  <data name="uxRequiredEBayInternationalShippingFirstItemText2Validator.ErrorMessage" xml:space="preserve">
+    <value>Required International First Item Shipping Cost2</value>
+  </data>
+  <data name="uxRequiredEBayInternationalShippingFirstItemText3Validator.ErrorMessage" xml:space="preserve">
+    <value>Required International First Item Shipping Cost3</value>
+  </data>
+  <data name="uxRequiredEBayInternationalShippingNextItemText1Validator.ErrorMessage" xml:space="preserve">
+    <value>Required International Next Item Shipping Cost1</value>
+  </data>
+  <data name="uxRequiredEBayInternationalShippingNextItemText2Validator.ErrorMessage" xml:space="preserve">
+    <value>Required International Next Item Shipping Cost2</value>
+  </data>
+  <data name="uxRequiredEBayInternationalShippingNextItemText3Validator.ErrorMessage" xml:space="preserve">
+    <value>Required International Next Item Shipping Cost3</value>
+  </data>
+  <data name="uxRequiredEBayTemplateQuantityValidator.ErrorMessage" xml:space="preserve">
+    <value>Required Quantity</value>
+  </data>
+  <data name="uxRequiredEBayTemplateZipValidator.ErrorMessage" xml:space="preserve">
+    <value>Required Zip Code</value>
+  </data>
+  <data name="uxRequiredFieldSymbol.Text" xml:space="preserve">
+    <value>Required fields</value>
+  </data>
+  <data name="uxRequiredPayPalEmailValidator.ErrorMessage" xml:space="preserve">
+    <value>Required PayPal Email Address</value>
+  </data>
+  <data name="uxRequiredUserNameValidator.ErrorMessage" xml:space="preserve">
+    <value>Required Template Name</value>
+  </data>
+  <data name="uxRequireduxEBayDomesticShippingNextItemText1Validator.ErrorMessage" xml:space="preserve">
+    <value>Required Next Item Shipping Cost1</value>
+  </data>
+  <data name="uxRequireduxEBayDomesticShippingNextItemText2Validator.ErrorMessage" xml:space="preserve">
+    <value>Required Next Item Shipping Cost2</value>
+  </data>
+  <data name="uxRequireduxEBayDomesticShippingNextItemText3Validator.ErrorMessage" xml:space="preserve">
+    <value>Required Next Item Shipping Cost3</value>
+  </data>
+  <data name="uxSecondaryEBayCateogryLabel.Text" xml:space="preserve">
+    <value>Secondary eBay Category</value>
+  </data>
+  <data name="uxStateLabel.Text" xml:space="preserve">
+    <value>State</value>
+  </data>
+  <data name="uxValidationSummary.HeaderText" xml:space="preserve">
+    <value>&lt;div class="Title"&gt;Please correct the following errors :&lt;/div&gt;</value>
+  </data>
+</root>

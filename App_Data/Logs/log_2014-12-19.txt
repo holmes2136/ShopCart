@@ -1,0 +1,289 @@
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:26
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:26
+Page location: /WebApp/Images/Products/Bag - Blue&White.jpg
+------------------------------
+Http Code: 400
+Message: 具有潛在危險 Request.Path 的值已從用戶端 (&) 偵測到。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void ValidateInputIfRequiredByConfig()
+Stack Trace: 
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.ValidateRequestExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:28
+Page location: /WebApp/Admin/ForgotPassword.aspx
+------------------------------
+Message: Failure sending mail.
+Visitor IP address: ::1
+Exception Type: System.Net.Mail.SmtpException
+Method: Void Send(System.Net.Mail.MailMessage)
+Stack Trace: 
+   於 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   於 Vevo.WebAppLib.WebUtilities.SendHtmlMail(MailAddress from, String to, String subject, String body, Store store)
+   於 Vevo.WebAppLib.WebUtilities.SendHtmlMail(String from, String to, String subject, String body)
+   於 Vevo.UserUtilities.SendResetPasswordConfirmationEmail(String userName, String URL)
+   於 AdminAdvance_ForgotPassword.uxSubmitButton_Click(Object sender, EventArgs e)
+   於 System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   於 System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   於 System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   於 System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   於 System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   於 System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+------------------------------
+Message: Unable to connect to the remote server
+Visitor IP address: ::1
+Exception Type: System.Net.WebException
+Method: System.Net.Sockets.Socket GetConnection(System.Net.PooledStream, System.Object, Boolean, System.Net.IPAddress ByRef, System.Net.Sockets.Socket ByRef, System.Net.Sockets.Socket ByRef)
+Stack Trace: 
+   於 System.Net.ServicePoint.GetConnection(PooledStream PooledStream, Object owner, Boolean async, IPAddress& address, Socket& abortSocket, Socket& abortSocket6)
+   於 System.Net.PooledStream.Activate(Object owningObject, Boolean async, GeneralAsyncDelegate asyncCallback)
+   於 System.Net.PooledStream.Activate(Object owningObject, GeneralAsyncDelegate asyncCallback)
+   於 System.Net.ConnectionPool.GetConnection(Object owningObject, GeneralAsyncDelegate asyncCallback, Int32 creationTimeout)
+   於 System.Net.Mail.SmtpConnection.GetConnection(ServicePoint servicePoint)
+   於 System.Net.Mail.SmtpTransport.GetConnection(ServicePoint servicePoint)
+   於 System.Net.Mail.SmtpClient.GetConnection()
+   於 System.Net.Mail.SmtpClient.Send(MailMessage message)
+------------------------------
+Message: 無法連線，因為目標電腦拒絕連線。 127.0.0.1:25
+Visitor IP address: ::1
+Exception Type: System.Net.Sockets.SocketException
+Method: Void DoConnect(System.Net.EndPoint, System.Net.SocketAddress)
+Stack Trace: 
+   於 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   於 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:31
+Page location: /webapp/eclair-details.aspx
+------------------------------
+Http Code: 404
+Message: 檔案 '/webapp/eclair-details.aspx' 不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void CheckVirtualFileExists(System.Web.VirtualPath)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:31
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:31
+Page location: /WebApp/Images/Products/Bag - Blue&White.jpg
+------------------------------
+Http Code: 400
+Message: 具有潛在危險 Request.Path 的值已從用戶端 (&) 偵測到。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void ValidateInputIfRequiredByConfig()
+Stack Trace: 
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.ValidateRequestExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:31
+Page location: /webapp/sunglasses-details.aspx
+------------------------------
+Http Code: 404
+Message: 檔案 '/webapp/sunglasses-details.aspx' 不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void CheckVirtualFileExists(System.Web.VirtualPath)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:31
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:32
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:35
+Page location: /webapp/Blog/ClientScripts/JQuery/slides.min.jquery.js
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:35
+Page location: /WebApp/Blog/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:35
+Page location: /webapp/Blog/Images/Design/Background/ajax-loader-big.gif
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:35
+Page location: /webapp/App_Themes/ResponsiveGreen/images/icon/icon-Tags.gif
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:36
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:36
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:36
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:36
+Page location: /WebApp/Images/Products/Bag - Blue&White.jpg
+------------------------------
+Http Code: 400
+Message: 具有潛在危險 Request.Path 的值已從用戶端 (&) 偵測到。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void ValidateInputIfRequiredByConfig()
+Stack Trace: 
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.ValidateRequestExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:37
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:38
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:38
+Page location: /WebApp/Images/Products/Bag - Blue&White.jpg
+------------------------------
+Http Code: 400
+Message: 具有潛在危險 Request.Path 的值已從用戶端 (&) 偵測到。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void ValidateInputIfRequiredByConfig()
+Stack Trace: 
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.ValidateRequestExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:38
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:38
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:38
+Page location: /webapp/captchaimage.aspx?guid=9fdf174e-ef71-4b91-a23e-16088a5d9520
+------------------------------
+Http Code: 404
+Message: 檔案 '/webapp/captchaimage.aspx' 不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void CheckVirtualFileExists(System.Web.VirtualPath)
+
+-------------------------
+Exception generated on 2014年12月19日, at 上午 11:38
+Page location: /webapp/captchaimage.aspx?guid=9fdf174e-ef71-4b91-a23e-16088a5d9520
+------------------------------
+Http Code: 404
+Message: 檔案 '/webapp/captchaimage.aspx' 不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void CheckVirtualFileExists(System.Web.VirtualPath)
+

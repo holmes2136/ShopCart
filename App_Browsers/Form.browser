@@ -1,0 +1,11 @@
+<browsers>
+
+  <browser refID="Default">
+    <controlAdapters>
+      <adapter controlType="System.Web.UI.HtmlControls.HtmlForm"
+               adapterType="Vevo.FormRewriterControlAdapter" />
+    </controlAdapters>
+  </browser>
+</browsers>
+
+

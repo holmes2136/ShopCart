@@ -1,0 +1,48 @@
+-------------------------
+Exception generated on 2014年12月20日, at 下午 02:45
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月20日, at 下午 02:45
+Page location: /WebApp/Images/Products/Bag - Blue&White.jpg
+------------------------------
+Http Code: 400
+Message: 具有潛在危險 Request.Path 的值已從用戶端 (&) 偵測到。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void ValidateInputIfRequiredByConfig()
+Stack Trace: 
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.ValidateRequestExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+
+-------------------------
+Exception generated on 2014年12月20日, at 下午 02:48
+Page location: /WebApp/Themes/ResponsiveGreen/[$SearchBtn]
+------------------------------
+Http Code: 404
+Message: 檔案不存在。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: System.IO.FileInfo GetFileInfo(System.String, System.String, System.Web.HttpResponse)
+
+-------------------------
+Exception generated on 2014年12月20日, at 下午 02:48
+Page location: /WebApp/Images/Products/Bag - Blue&White.jpg
+------------------------------
+Http Code: 400
+Message: 具有潛在危險 Request.Path 的值已從用戶端 (&) 偵測到。
+Visitor IP address: ::1
+Exception Type: System.Web.HttpException
+Method: Void ValidateInputIfRequiredByConfig()
+Stack Trace: 
+   於 System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   於 System.Web.HttpApplication.ValidateRequestExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   於 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+

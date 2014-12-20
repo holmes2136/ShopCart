@@ -1,0 +1,48 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="AdminLogin.master.cs" Inherits="AdminAdvanced_AdminLogin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>VevoCart Admin Login</title>
+</head>
+<body id="AdminLoginBody" runat="server" class="AdminLoginBody">
+    <form id="aspnetForm" runat="server">
+    <asp:PlaceHolder ID="uxTrialWarningPlaceHolder" runat="server">
+        <div class="WarningMessage">
+            <span>VevoCart 6.0 Deluxe Trial Version</span> : Licensed to use in localhost environment
+            for 30 days.
+        </div>
+    </asp:PlaceHolder>
+    <div class="LoginPage" id="AdminLoginBox" runat="server">
+        <div class="LoginBackground">
+        </div>
+        <div class="LoginArea">
+            <div class="LoginTitle">
+                <div class="LoginLogo">
+                </div>
+                <div class="TitleText">
+                    Online store manager
+                </div>
+                <div class="LoginTitleLine">
+                </div>
+                <div class="DescriptionText">
+                    ASP.NET Shopping Cart Software & eCommerce Solutions</div>
+            </div>
+            <div class="LoginBody">
+                <asp:ContentPlaceHolder ID="uxContentPlaceHolder" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <div class="FooterCopyRightLabel">
+                Copyright © 2006-2013 Vevo Systems Co., Ltd. All Rights Reserved.
+            </div>
+        </div>
+    </div>
+    <div id="AdminFooter" runat="server" class="DefaultFooter">
+        <div class="License">
+            <asp:Label ID="uxAdminProgramVersion" runat="server" CssClass="version"><%= Vevo.Domain.SystemConst.CurrentVevoCartVersionNumber() %></asp:Label></div>
+        <div class="PoweredBy">
+            <span>Built For Success</span> - Powered by VevoCart</div>
+    </div>
+    </form>
+</body>
+</html>

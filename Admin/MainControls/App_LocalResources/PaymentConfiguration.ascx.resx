@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lc2CORadio.Text" xml:space="preserve">
+    <value>2Checkout</value>
+  </data>
+  <data name="lcAccountLabel.Text" xml:space="preserve">
+    <value>Merchant account</value>
+  </data>
+  <data name="lcAppID.Text" xml:space="preserve">
+    <value>AppID</value>
+  </data>
+  <data name="lcAppLogin.Text" xml:space="preserve">
+    <value>AppLogin</value>
+  </data>
+  <data name="lcAuthorizeRadio.Text" xml:space="preserve">
+    <value>Authorize.Net</value>
+  </data>
+  <data name="lcAuthorizeTestLabel.Text" xml:space="preserve">
+    <value>Test Transection</value>
+  </data>
+  <data name="lcAutoChargeLabel.Text" xml:space="preserve">
+    <value>AutoCharge</value>
+  </data>
+  <data name="lcAvialable.Text" xml:space="preserve">
+    <value>Avialable payment types</value>
+  </data>
+  <data name="lcButtonListHeader.Text" xml:space="preserve">
+    <value>Special Payment Methods</value>
+  </data>
+  <data name="lcCredit.Text" xml:space="preserve">
+    <value>Credit Card</value>
+  </data>
+  <data name="lcCurrencyDescription.Text" xml:space="preserve">
+    <value>Please note that this selection will effect all payment gateways (e.g. Google Checkout, PayPal). This list will show only the allowable currency units of all payment gateways you activate below.</value>
+  </data>
+  <data name="lcCurrencyHeader.Text" xml:space="preserve">
+    <value>Select Currency Unit for Online Payment Gateways</value>
+  </data>
+  <data name="lcCustom.Text" xml:space="preserve">
+    <value> Custom</value>
+  </data>
+  <data name="lcCustomerID.Text" xml:space="preserve">
+    <value>Customer ID</value>
+  </data>
+  <data name="lcCVN.Text" xml:space="preserve">
+    <value>Use CVN</value>
+  </data>
+  <data name="lcDefine.Text" xml:space="preserve">
+    <value>User-Defined Description</value>
+  </data>
+  <data name="lcDemoLabel.Text" xml:space="preserve">
+    <value>Demo Transection</value>
+  </data>
+  <data name="lcEmailAccount.Text" xml:space="preserve">
+    <value>Email account of PayPal</value>
+  </data>
+  <data name="lcEmailPaySbuyAccount.Text" xml:space="preserve">
+    <value>Email account of PaySbuy</value>
+  </data>
+  <data name="lcEnable.Text" xml:space="preserve">
+    <value>Enabled</value>
+  </data>
+  <data name="lcEnvironmentLabel.Text" xml:space="preserve">
+    <value>Environment</value>
+  </data>
+  <data name="lcErrorResponse.Text" xml:space="preserve">
+    <value>Return Error Response (For Testing)</value>
+  </data>
+  <data name="lceWayRadio.Text" xml:space="preserve">
+    <value>eWay Payment</value>
+  </data>
+  <data name="lcGoogleDetailsLabel.Text" xml:space="preserve">
+    <value>Set MerchantKey,MerchantID,Environment at web.config file.</value>
+  </data>
+  <data name="lcGoogleLabel.Text" xml:space="preserve">
+    <value>Google Checkout</value>
+  </data>
+  <data name="lcHeader" xml:space="preserve">
+    <value>Payment Configuration</value>
+  </data>
+  <data name="lcKPaymentItemDetailsLabel.Text" xml:space="preserve">
+    <value>Item Details</value>
+  </data>
+  <data name="lcKPaymentMerchantIDLabel.Text" xml:space="preserve">
+    <value>MerchantID</value>
+  </data>
+  <data name="lcKPaymentRadio.Text" xml:space="preserve">
+    <value>KPayment</value>
+  </data>
+  <data name="lcKPaymentRedirectLabel.Text" xml:space="preserve">
+    <value>Redirect Page</value>
+  </data>
+  <data name="lcKPaymentRequestTypeLabel.Text" xml:space="preserve">
+    <value>Request Card type</value>
+  </data>
+  <data name="lcKPaymentTermLabel.Text" xml:space="preserve">
+    <value>TERM</value>
+  </data>
+  <data name="lcKPaymentUrlLabel.Text" xml:space="preserve">
+    <value>URL</value>
+  </data>
+  <data name="lcLoginIDLabel.Text" xml:space="preserve">
+    <value>Login ID</value>
+  </data>
+  <data name="lcMode.Text" xml:space="preserve">
+    <value>Test Account</value>
+  </data>
+  <data name="lcPasswordLabel.Text" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="lcPaymentListHeader.Text" xml:space="preserve">
+    <value>Selectable Payment Methods</value>
+  </data>
+  <data name="lcPaymentType.Text" xml:space="preserve">
+    <value>Payment Type</value>
+  </data>
+  <data name="lcPayPal.Text" xml:space="preserve">
+    <value>PayPal</value>
+  </data>
+  <data name="lcPayPalEnv.Text" xml:space="preserve">
+    <value>Sandbox Environment</value>
+  </data>
+  <data name="lcPayPalProRadio.Text" xml:space="preserve">
+    <value>PayPal Pro</value>
+  </data>
+  <data name="lcPayPalRadio.Text" xml:space="preserve">
+    <value>PayPal</value>
+  </data>
+  <data name="lcPaySbuy.Text" xml:space="preserve">
+    <value>PaySbuy</value>
+  </data>
+  <data name="lcQbmsRadio.Text" xml:space="preserve">
+    <value>QBMS</value>
+  </data>
+  <data name="lcQbmsTest.Text" xml:space="preserve">
+    <value>Test Transaction</value>
+  </data>
+  <data name="lcRBSWorldPay.Text" xml:space="preserve">
+    <value>RBSWorldPay</value>
+  </data>
+  <data name="lcRequiredFieldSymbol.Text" xml:space="preserve">
+    <value>Required fields</value>
+  </data>
+  <data name="lcSignatureLabel.Text" xml:space="preserve">
+    <value>Signature</value>
+  </data>
+  <data name="lcStoretransection.Text" xml:space="preserve">
+    <value>Use StoreTransection</value>
+  </data>
+  <data name="lcTransectionLabel.Text" xml:space="preserve">
+    <value>Transection Key</value>
+  </data>
+  <data name="lcTransfer.Text" xml:space="preserve">
+    <value> Bank Account Transfer</value>
+  </data>
+  <data name="lcUsernameLabel.Text" xml:space="preserve">
+    <value>Username</value>
+  </data>
+  <data name="uxUpdateButton.Text" xml:space="preserve">
+    <value>Update</value>
+  </data>
+  <data name="uxValidationSummary.HeaderText" xml:space="preserve">
+    <value>&lt;div class="Title"&gt;Please correct the following errors :&lt;/div&gt;</value>
+  </data>
+</root>
