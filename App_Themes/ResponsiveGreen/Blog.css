@@ -1,0 +1,853 @@
+﻿
+/*BlogMaster Begin*/
+/*BlogMaster Begin*/
+.BlogMaster
+{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #f9f9f9;
+}
+.BlogMasterTop
+{
+    width: 100%;
+}
+.BlogMasterMiddle
+{
+    margin: 20px auto;
+    padding: 20px;
+    width: 940px;
+    background-color: #fff;
+    display: table;
+}
+.BlogMasterBottom
+{
+    clear: both;
+    width: 100%;
+    background-color: #707070;
+    border-top: solid 1px #666;
+    padding: 30px 0 10px;
+    color: #fff;
+}
+.BlogMainDivRight
+{
+    width: 220px;
+    margin-left: 20px;
+    float: left;
+}
+.BlogMainDivCenter
+{
+    width: 700px;
+    float: left;
+    font-family: Calibri;
+}
+/*BlogMaster End*/
+/*CommonSidebar Begin*/
+.BlogSidebarTop
+{
+    min-height: 20px;
+    padding: 8px 0px 8px 0px;
+    border-bottom: dotted 2px #bebebe;
+}
+.BlogSidebarTopTitle
+{
+    color: #000000;
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 25px;
+    padding: 5px 0;
+    text-transform: uppercase;
+}
+.BlogSidebarRight
+{
+    padding: 15px;
+}
+.BlogSidebarTopImgLeft, .BlogSidebarTopImgRight, .BlogSidebarBottom
+{
+    display: none;
+}
+
+/*CommonSidebar End*/
+/*CommonSideBanner Begin*/
+.SideBannerTop
+{
+    display: none;
+}
+.SideBannerBottom
+{
+    display: none;
+}
+/*CommonSideBanner End*/
+/*ArchiveList Begin*/
+.ArchiveListGridView
+{
+    width: 100%;
+    clear: both;
+    margin: 20px auto;
+    text-align: left;
+    border: solid 1px #f0f0f0;
+}
+.ArchiveListGridView th
+{
+    text-align: left;
+    padding: 10px 2%;
+    font-weight: bold;
+}
+.ArchiveListDateHeaderColumnDateStyle
+{
+    background-color: #fbfcfe;
+    border-top: solid 1px #f0f0f0;
+    border-bottom: solid 1px #f0f0f0;
+    height: 32px;
+    color: #000;
+}
+.ArchiveListTopicItemColumnTopicStyle
+{
+    padding: 10px 5%;
+    border-right: 0;
+}
+
+.ArchiveListTopicItemColumnTopicStyle a
+{
+    color: #000;
+    text-decoration: none;
+}
+
+.ArchiveListTopicItemColumnTopicStyle a:hover
+{
+    color: #04AF91;
+}
+.ArchiveListEmptyRowStyle
+{
+    border: solid 1px #f0f0f0;
+}
+.ArchiveListDateItemsColumnDateStyle
+{
+    color: #04AF91;
+}
+/*ArchiveList End*/
+
+/*BlogNavList Begin*/
+.BlogNavList
+{
+    width: 100%;
+    margin-bottom: 1px;
+    clear: left;
+}
+/*BlogNavList End*/
+/*BlogNavNormalList Begin*/
+.BlogNavNormalList
+{
+    width: 100%;
+}
+.BlogNavNormalListLink a
+{
+    padding: 5px 0px 5px 8%;
+    width: 100%;
+    vertical-align: middle;
+    display: block;
+    color: #000;
+    text-decoration: none;
+    white-space: normal;
+    text-align: left;
+    font-size: 12px;
+}
+
+.BlogNavNormalListLink a:hover
+{
+    color: #04AF91;
+}
+.BlogNavNormalListMoreLink
+{
+    text-align: right;
+    padding: 4px 5px 0;    
+}
+
+.BlogNavNormalListMoreLink a
+{
+    color: #000;
+    text-decoration: underline;
+    padding-right: 19px;
+    background: url(images/bullet/more.gif) no-repeat right center;
+    font-size: 11px;
+}
+
+.BlogNavNormalListMoreLink a:hover
+{
+    color: #000;
+    text-decoration: none;
+}
+/*BlogNavNormalList End*/
+/*BlogDetails Begin*/
+.BlogDetails
+{
+    width: 100%;
+    margin: 0 auto 10px;
+}
+.BlogDetailsTop
+{
+    min-height: 20px;
+    padding: 8px 0;
+    text-align: left;
+    vertical-align: middle;
+    width: 100%;
+    border-bottom: dotted 2px #bebebe
+}
+.BlogDetailsTopTitle
+{
+    color: #000000;
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 25px;
+    padding: 5px 0;
+    text-transform: uppercase;
+}
+.BlogDetailsTopImgLeft, .BlogDetailsTop .BlogDetailsImgLeft
+{
+    display: none;
+}
+
+.BlogDetailsTopImgRight, .BlogDetailsTop .BlogDetailsImgRight
+{
+    display: none;
+}
+.BlogDetailsLeft
+{
+}
+.BlogDetailsRight
+{
+    padding: 25px 0 0;
+}
+.BlogDetailsBottom
+{
+    display: none;
+}
+.BlogDetailsRight .NoteText
+{
+    color: #ee9e22;
+    font-weight: bold;
+}
+
+.BlogFormView
+{
+    width: 770px;
+}
+
+.FacebookCommentBox
+{
+    margin-top: 10px;
+}
+/*BlogDetails End*/
+
+/*BlogDetailsDefault Begin*/
+.BlogDetailsDefaultPublisherDiv
+{
+    font-size: 11px;
+    color: #000;
+}
+
+.BlogDetailsDefaultBlogContentLabel
+{
+}
+
+.BlogDetailsDefaultBlogContentDiv
+{
+    clear: both;
+    float: left;
+    width:100%;
+    margin: 20px 0;
+}
+.BlogDetailsDefaultDiv
+{
+    clear: left;
+    float: left;
+    width:100%;
+    margin-bottom: 10px;
+}
+.CategoryLabel
+{
+    background:url(images/icon/icon-category.gif) no-repeat;
+    background-position:left center;
+    padding-left:25px;
+    font-style: italic;
+    color: #04AF91;
+    width: 13%;
+    display: block;
+    float: left;
+}
+.TagsLabel
+    {
+    background:url(images/icon/icon-Tags.gif) no-repeat;
+    background-position:left center;
+    padding-left:25px;
+    font-style: italic;
+    color: #04AF91;
+    width: 13%;
+    display: block;
+    float: left;
+}
+.BlogDetailsDefaultTagsPanel
+{
+    margin-top:10px;
+    font-size: 11px;
+    background: url(images/icon/icon-tag.gif) no-repeat;
+    background-position: left top;
+    text-align:left;
+    width: 100%;
+    clear: left;
+    float: left;
+    line-height: 25px;
+}
+.BlogDetailsDefaultCatPanel
+{
+    padding-top: 0px;
+    font-size: 11px;
+    background: url(images/icon/icon-category.gif) no-repeat;
+    background-position: left top;
+    width: 100%;
+    clear: left;
+    float: left;
+}
+.BlogDetailsDefaultTagsDiv,
+.BlogDetailsDefaultCatDiv
+{
+    width: 85%;
+    float: left;
+}
+.BlogDetailsDefaultTagsLink
+{
+    color: #66767b;
+    text-decoration: none;
+}
+
+.BlogDetailsDefaultTagsLink:hover
+{
+    color: #000;
+}
+.BlogDetailsDefaultPublisherDiv
+{
+    clear: left; float: left; width:65%;
+    line-height: 25px;
+}
+.BlogDetailsSocialButton
+{
+    float: right;
+    width: 35%;
+    padding-bottom: 10px;
+}
+.BlogDetailsFacebookDiv
+{
+    width: 50%;
+    float:left;
+}
+.BlogDetailsGooglePlusDiv
+{
+    width: 50%;
+    float: left;
+}
+/*BlogDetailsDefault End*/
+
+/*BlogList Begin*/
+.BlogListTop
+{
+    min-height: 20px;
+    padding: 8px 0;
+    text-align: left;
+    vertical-align: middle;
+    border-bottom: dotted 2px #bebebe;
+    width: 100%;
+}
+.BlogListTopTitle
+{
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 25px;
+    padding: 5px 0;
+}
+.BlogListTopImgLeft, .BlogListTop .BlogListImgLeft
+{
+    display: none;
+}
+
+.BlogListTopImgRight, .BlogListTop .BlogListImgRight
+{
+    display: none;
+}
+.BlogListRight
+{
+    padding: 5px 0;
+}
+.BlogListBottom
+{
+    display: none;
+}
+.BlogNoData
+{
+    margin-top: 20px; 
+    border: solid 1px #f0f0f0;
+    background-color: #fbfcfe;
+    text-align: center;
+    clear: left;
+    width: 100%;
+    line-height: 30px;
+    height: 30px;
+    padding: 5px 0;
+    display: table;
+}
+/*BlogList End*/
+
+/*BlogListItem Begin*/
+.BlogListItem
+{
+    padding-bottom: 25px;
+}
+
+.BlogListItemTable
+{
+    width: 100%;
+   /* border-bottom: 1px solid #ddd;*/
+}
+
+.BlogListItemDetailsColumn
+{
+    padding: 10px 0px;
+    vertical-align: top;
+}
+
+.BlogListItemDetailsDiv
+{
+}
+
+.BlogListItemBlogTitleDiv
+{
+}
+
+.BlogListItemNameLink
+{
+    font-size: 18px;
+    text-decoration: none;
+    color: #000;
+    line-height: 25px;
+}
+.BlogListItemNameLink:hover
+{
+    color: #04AF91;
+}
+
+.BlogListItemPublisherDiv
+{
+    margin-top: 30px;
+    color: #888;
+    font-size: 11px;
+    margin-bottom:30px;
+}
+.BlogListItemPublisher 
+{
+    clear: left; float: left;
+}
+.BlogListItemShortContentDiv
+{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    clear:both;
+    padding-top:20px;
+    width: 100%;
+}
+
+.BlogListItemMessageDiv
+{
+    border-bottom: dotted 1px #bebebe;
+    width:100%;
+}
+.BlogListItemReadmore
+{
+    color: black;
+    position: relative;
+    font-size: 11px;
+    top: 9px;
+    background: url(images/bullet/more.gif) no-repeat;
+    background-position: 90% center;
+    background-color: #fff;
+    padding-right: 25px;
+    /*padding-left: 10px;*/
+    text-decoration: underline;
+
+}
+.BlogPublisher
+{
+    color: #04AF91;
+}
+.BlogListItemSocialButton
+{
+    float: right;
+    width: 35%;
+    padding-bottom: 10px;
+}
+.BlogListItemFacebookDiv
+{
+    width: 40%;
+    float:left;
+}
+.BlogListItemGooglePlusDiv
+{
+    width: 50%;
+    float: right;
+}
+/*BlogListItem End*/
+
+/*BlogListRowStyle Begin*/
+.BlogListDefault
+{
+}
+.BlogListDefaultPageControlPanel
+{
+    clear: both;
+    line-height: 30px;
+    margin: 10px 0;
+    padding: 3px 0;
+    width: 100%;
+}
+.BlogListDefaultItemPerPage
+{
+    float: left;
+    width: 55%;
+    font-size: 11px;
+}
+.BlogListDefaultItemPerPage select
+{
+    float: left;
+    margin-right: 10px;
+    margin-top: 6px;
+    width:40px;
+}
+.BlogListDefaultItemPerPage .OptionControlTitle
+{
+    float: left;
+    margin-right: 10px;
+}
+.BlogListDefaultPagingControl
+{
+    text-align: right;
+    float: right;
+}
+.BlogListDefaultPagingControl .PagingPrev
+{
+    padding-right: 12px;
+    color: #000;
+}
+.BlogListDefaultPagingControl .PagingNext
+{
+    padding-left: 12px;
+    color: #000;
+}
+.BlogListDefaultDataList
+{
+    width: 100%;
+    clear: left;
+    float: left;
+}
+
+.BlogListDefaultDataListHeader
+{
+    display: none;
+}
+
+.BlogListDefaultDataListItemStyle
+{
+    vertical-align: top;
+}
+/*BlogListRowStyle End*/
+
+/*SearchBox Begin*/
+.SearchBox
+{
+    width: 100%;
+    margin-bottom: 1px;
+    clear: left;
+}
+.SearchBox .SidebarTop
+{
+    min-height: 20px;
+    padding: 8px 0px 8px 0px;
+    border-bottom: dotted 2px #bebebe;
+    background: none;
+}
+
+.SearchBox .SidebarRight
+{
+    font-size: 18px;
+    padding: 15px 8.5%;
+    width: 100%;
+}
+.SidebarTopImgLeft, .SidebarTopImgRight, .SidebarBottom
+{
+    display: none;
+}
+.SearchBoxTextBox
+{
+    z-index: 1;
+    width: 80% !important;
+    border: solid 1px #ddd;
+    border-right: none;
+    color: #000;
+    font-size: 11px;
+    height: 18px;
+    float: left;
+    margin-bottom: 5px;
+}
+.SearchBox .BtnStyle3
+{
+    width: 20%;
+    margin: 0;
+    padding: 0;
+}
+/*SearchBox End*/
+/*Blog Comment*/
+.BlogComment .CommonPageTop
+{
+    display: none;
+}
+.BlogCommentDiv
+{
+    width: 100%;
+}
+.BlogCommentDiv table
+{
+    width: 100%;
+}
+.BlogCommentTitle
+{
+    float: left;
+    font-weight: bold;
+}
+.BlogCommentTitle .CommonPageTopTitle
+{
+    font-size: 11px;
+}
+.BlogCommentDotted
+{
+    clear: left;
+    border-bottom: dotted 1px #ddd;
+    padding-top: 10px;
+}
+.BlogCommentTextArea
+{
+    width: 100%;
+    height: 114px;
+}
+
+.BlogCommentUserName
+{
+    float: left;
+    font-weight: normal;
+}
+.BlogCommentCreateDate
+{
+    font-style:italic;
+    float: right;
+}
+.BlogCommentPost
+{
+    margin-top: 15px;
+    clear: both;
+    float: left;
+    width: 100%;
+}
+.BlogCommentPostDiv
+{
+    width: 100%;
+    margin: 15px 0;
+}
+.BlogCommentPagingDiv
+{
+    text-align: right;
+    padding: 15px 2%;
+}
+.BlogCommentPostLabel
+{
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+.BlogCommentListStyle
+{
+    background-color: #fbfcfe;
+    padding: 8px 2%;
+    border-top: solid 1px #f0f0f0;
+    color: #000;
+    width: 100%;      
+    font-size: 11px;
+    border-bottom: solid 1px #f0f0f0;
+}
+.BlogCommentListAlterStyle
+{
+    padding: 8px 2%;
+    border-top: solid 1px #f0f0f0;
+    color: #333;
+    width: 100%;    
+    font-size: 11px;
+}
+.BlogCommentPostButton
+{
+    float: right;
+    margin-top: 10px;
+}
+.BlogCommentTextValidator
+{
+    font-size: 9px;
+    margin-top: 10px;
+}
+.BlogCommentValidateDiv
+{
+    width: 136px;
+    border-bottom: dotted;
+    border-width: 1px;
+    color: #FF0000;
+    margin-bottom: 2px;
+}
+.fb_iframe_widget iframe
+{
+    width: 100% !important;
+}
+.BlogImage img
+{
+    margin-bottom: 40px;
+}
+.BlogCommentPagingBox
+{
+}
+.BlogCommentPagingBox .PagingPrev
+{
+    font-size: 14px;
+    padding-right: 12px;
+    color: #000;
+}
+.BlogCommentPagingBox .PagingNext
+{
+    font-size: 14px;
+    padding-left: 12px;
+    color: #000;
+}
+/*ArchiveBox*/
+.ArchiveBox .SidebarTopTitle 
+{
+    background:url(images/icon/down.gif) no-repeat right center;
+}
+.ArchiveBox .SidebarTopTitleHide 
+{
+    background:url(images/icon/Up.gif) no-repeat right center;
+}
+.ArchiveBox .BlogNavNormalListLink a
+{
+    background: url(images/bullet/Bullet5.gif) no-repeat 0 9px;
+}
+
+/* RecentPost Box Begin */
+.RecentPost .BlogSidebarRight
+{
+    padding: 0;
+}
+.RecentPost .ImageRecentPost
+{
+   float: left;
+   padding: 3px;
+   border: solid 1px #d0d0d0;
+   margin-right: 10px;
+}
+.ImageRecentPost img 
+{
+    max-width: 65px;
+}
+.TitleRecentPost
+{
+   width: 60%;
+   float: left;
+}
+
+.DateRecentPost
+{
+   width: 100%;
+   clear: left;
+   float: left;
+   font-size: 11px;
+   font-style: italic;
+   color:#66767b;
+   margin-top: 10px;
+}
+.RecentPost .BlogNavNormalListLink
+{
+     background: url(Images/Background/dot-line.jpg) repeat-x left bottom; padding-bottom: 2px;
+     padding:15px 0;     
+}
+.RecentPost .BlogNavNormalListLink a
+{
+    padding: 0;
+    color: #000;
+}
+/* RecentPost Box End */
+
+/* Blog Category Box Begin */
+.BlogCategoryBox .BlogSidebarTop
+{
+    background:url(images/icon/up.gif) no-repeat right center;
+    border-bottom: dotted 2px #bebebe;
+}
+.BlogCategoryBox .SidebarTopHide 
+{
+    background:url(images/icon/down.gif) no-repeat right center;
+}
+.BlogCategoryBox .BlogNavNormalListLink a
+{
+    background: url(images/bullet/bullet3.gif) no-repeat 0 11px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+/* Blog Category Box End */
+/*------------------ Custom Responsive Layout ------------------*/
+@media only screen and (min-width: 980px)  /*Screen width larger than 980 px ----------  For step 4 --------- */  
+{ 
+    .BlogImage img { max-width: 725px;}
+}
+@media only screen and (max-width: 979px) /*Screen width 768-980 px ---------- For step 3---------*/
+{
+    .CategoryLabel { width: 22%; }
+    .TagsLabel { width: 22%; }
+    .BlogCommentPostDiv { width: 100%;}
+    .BlogImage img { max-width: 470px;}
+    
+    .BlogDetailsDefaultTagsDiv, .BlogDetailsDefaultCatDiv { width: 75%; }
+}
+@media only screen and (max-width: 767px) /*Screen width 480-767 px -------------- For step 2 ------------ */
+{
+    .BlogImage img { max-width: 460px;}
+}
+@media only screen and (max-width: 479px) /*Screen width lower than 480 px -------------- For step 1 ------------ */
+{    
+    .CategoryLabel { width: 35%; }
+    .TagsLabel { width: 35%; }
+    .BlogImage img { max-width: 290px; margin-bottom: 20px;}
+    
+    /* Blog list */
+    .BlogListDefaultItemPerPage {clear: left; float: none; display: none; margin: 0 auto 5px; }
+    .BlogListDefaultPagingControl {clear: left; float: none; display: table; margin: 0 auto 5px; }
+    .BlogListItemPublisher { width: 100%; margin-bottom: 10px;}
+    .BlogListItemSocialButton{ clear: left; float: left; width: 100%;}
+    .BlogListItemFacebookDiv { float: left; width: auto; margin-right: 10px;}
+    .BlogListItemGooglePlusDiv { float: left; width: auto; }
+    .BlogListItemBlogTitleDiv, .BlogListItemPublisherDiv, .BlogListItemShortContentDiv, .BlogDetailsDefaultDiv { padding: 0 20px;}
+    .BlogListItemReadmore {}
+    
+    /* Blog Detail */
+    .BlogCommentTitle .CommonPageTopTitle { font-size: 11px; width: 100%; display: table; margin: 8px 0;}
+    .BlogCommentPagingBox {text-align: center; float:none;}
+    .BlogCommentTitle { float:none; font-weight: bold; text-align: center; }
+    .BlogCommentPagingDiv { text-align:center;}
+    .BlogDetailsDefaultPublisherDiv { width: 100%; padding: 0 20px 15px; }
+    .BlogDetailsSocialButton {width: 100%; clear: both; float: none; padding: 0 20px; }
+    .BlogDetailsFacebookDiv, .BlogDetailsGooglePlusDiv { width: auto; margin-right: 10px;}
+    .BlogDetailsDefaultBlogContentDiv {padding: 0 20px;}    
+    .BlogDetailsDefaultTagsDiv, .BlogDetailsDefaultCatDiv { width: 65%; }
+}
+@media only screen and (orientation: portrait) 
+{
+}

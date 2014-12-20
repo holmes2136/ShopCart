@@ -1,0 +1,1624 @@
+﻿/*Facebook Common Begin*/
+body
+{
+    color: #333333;
+    direction: ltr;
+    font-family: "lucida grande" ,tahoma,verdana,arial,sans-serif;
+    font-size: 11px;
+    line-height: 1.28;
+    text-align: left;
+    width: 500px;
+}
+
+.CommonPageTop
+{
+    background: none repeat scroll 0 0 #6D84B4;
+    border-color: #3B5998 #3B5998;
+    border-style: solid solid none;
+    border-width: 1px 1px medium;
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.CommonAlterGridViewRowStyle
+{
+    background-color: #DDDDDD;
+}
+
+.CommonGridViewFooterStyle
+{
+}
+
+.CommonGridViewHeaderStyle
+{
+    background: none repeat scroll 0 0 #BBBBBB;
+}
+
+.CommonGridView
+{
+    width: 500px;
+}
+
+.bottom-line
+{
+    height: 2px;
+    padding: 0 3px;
+}
+/*Facebook Common End*/
+
+/* General Button Style Begin*/
+.BtnStyle1
+{
+    display: block;
+    float: left;
+    font-weight: bold; font-size: 11px; line-height: 20px; 
+    margin: 5px 5px 2px 25px; 
+    padding: 0 9px;
+    text-decoration: none;
+    vertical-align: middle;
+    text-align:right;
+    text-transform:uppercase;
+    background-color: #627AAD;
+    color: #fff;
+    border: solid 1px #627AAD;
+}
+.BtnStyle2
+{
+    display: block;
+    float: left;
+    font-weight: bold; font-size: 11px; line-height: 20px; 
+    margin: 0px 5px 2px 0; 
+    padding: 0 9px;
+    text-decoration: none;
+    vertical-align: middle;
+    text-align:right;
+    text-transform:uppercase;
+    background-color: #eee;
+    color: #555;
+    border-top: solid 1px #ddd;
+    border-bottom: solid 1px #ddd;
+}
+.ProductBestSellingButton .BtnStyle1
+{
+    text-decoration: none;
+    vertical-align: middle;
+    text-align:right;
+    text-transform:uppercase;
+    background-color: #627AAD;
+    color: #fff;
+    border: solid 1px #627AAD;
+    margin-left: 30px;
+}
+.FacebookProductDetails .BtnStyle1
+{
+    text-decoration: none;
+    vertical-align: middle;
+    text-align:right;
+    text-transform:uppercase;
+    background-color: #627AAD;
+    color: #fff;
+    border: solid 1px #627AAD;
+    margin: 5px 0px;
+}
+.UpdateQuantity
+{
+    display: block;
+    float: left;
+    font-weight: bold; font-size: 11px; line-height: 20px; 
+    margin: 0px 5px 2px 0; 
+    padding: 0 9px;
+    text-decoration: none;
+    vertical-align: middle;
+    text-align:right;
+    text-transform:uppercase;
+    background-color: #627AAD;
+    color: #fff;
+    border: solid 1px #627AAD;
+}
+.ShoppingCartContinueShoppingLink
+{
+    display: block;
+    float: left;
+    font-weight: bold; font-size: 11px; line-height: 20px; 
+    margin: 0px 5px 2px 0; 
+    padding: 0 9px;
+    text-decoration: none;
+    vertical-align: middle;
+    text-align:right;
+    text-transform:uppercase;
+    background-color: #627AAD;
+    color: #fff;
+    border: solid 1px #627AAD;
+}
+.ShoppingCartCheckoutLink
+{
+    display: block;
+    float: left;
+    font-weight: bold; font-size: 11px; line-height: 20px; 
+    padding: 0 9px;
+    text-decoration: none;
+    vertical-align: middle;
+    text-align:right;
+    text-transform:uppercase;
+    background-color: #FF6900;
+    color: #fff;
+    border: solid 1px #FF6900;
+}
+.ButtonDelete
+{
+    font-size: 10px;
+    color: #FF6900; text-decoration: none; font-weight: bold;
+}
+.BtnStyle1:hover{color: #000;}
+.BtnStyle2:hover{color: #000;}
+.ShoppingCartContinueShoppingLink:hover{color: #000;}
+.ButtonDelete:hover{color: #FF0000;}
+/*General Button Style End*/
+
+/*Facebook Ajax Tab Begin*/
+.FacebookDefaultTabPanel
+{
+}
+
+.FacebookDefaultTabContainer .ajax__tab_header .ajax__tab_active .ajax__tab_outer .ajax__tab_inner .ajax__tab_tab
+{
+    background-color: #627AAD;
+    color: #FFFFFF;
+}
+
+.FacebookDefaultTabContainer .ajax__tab_header .ajax__tab_hover .ajax__tab_outer .ajax__tab_inner .ajax__tab_tab
+{
+    background-color: #627AAD;
+    color: #FFFFFF;
+}
+
+.FacebookDefaultTabContainer .ajax__tab_header .ajax__tab_outer .ajax__tab_inner .ajax__tab_tab
+{
+    background-color: #D8DFEA;
+    color: #3B5998;
+    cursor: pointer;
+    display: block;
+    float: left;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 2px;
+    margin-top: 2px;
+    padding: 3px 11px;
+}
+
+
+/*Facebook Ajax Tab End*/
+
+/*Facebook Shopping Cart Begin*/
+
+.ShoppingCartMessage
+{
+    text-align: center;
+    padding-top: 10px;
+}
+
+.ShoppingCartBackHomeLinkDiv
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    clear: both;
+    line-height: 18px;
+    padding-bottom: 10px;
+    width: 100%;
+}
+
+.ShoppingCartBackHomeLink
+{
+    color: #3B5998;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.ShoppingCartBackHomeLink:hover
+{
+    text-decoration: underline;
+}
+
+.ShoppingCartGridView
+{
+    width: 496px;	
+}
+
+.ShoppingCartGridViewDeleteItemStyle
+{
+    text-align: center;
+    vertical-align: middle;
+}
+.ShoppingCartGridViewNameHeaderStyle
+{
+    color: #333333;
+    font-size: 12px;
+    height: 24px;
+    padding: 5px;
+    text-align: center;
+}
+.ShoppingCartGridViewPriceHeaderStyle
+{
+    color: #333333;
+    font-size: 12px;
+    height: 24px;
+    padding: 5px;
+    text-align: right;
+}
+.ShoppingCartGridViewPriceItemStyle
+{
+    text-align: right;
+}
+
+.ShoppingCartGridViewQuantityHeaderStyle
+{
+    color: #333333;
+    font-size: 12px;
+    height: 24px;
+    padding: 5px;
+    text-align: right;
+}
+.ShoppingCartGridViewQuantityItemStyle
+{
+    text-align: right;
+}
+
+.ShoppingCartGridViewSubtotalHeaderStyle
+{
+    color: #333333;
+    font-size: 12px;
+    height: 24px;
+    padding: 5px;
+    text-align: right;
+}
+.ShoppingCartGridViewSubtotalItemStyle
+{
+    text-align: right;
+}
+
+.ShoppingCartTableColumn1
+{
+    text-align: right;
+}
+
+.ShoppingCartTableColumn2
+{
+    text-align: right;
+}
+
+.ShoppingCartButton
+{
+    text-align: right;
+    float: right;
+}
+/*Facebook Shopping Cart End*/
+
+/*Facebook QuickSearch Begin*/
+
+.QuickSearch
+{
+    background: #647AA9;
+    height: 30px;
+    vertical-align: middle;
+}
+
+.QuickSearchText
+{
+    margin-top: 6px;
+    color: #3B5997;
+    border: 1px solid #3B5997;
+    width: 395px;
+}
+
+.QuickSearchLabel
+{
+    margin-left: 10px;
+    color: #fff;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.QuickSearchLinkButton
+{
+    float: right;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+/*Facebook QuickSearch End*/
+
+/*Facebook ProductBestSelling Begin*/
+.ProductBestSelling
+{
+    width: 500px;
+    margin-bottom: 10px;
+}
+.ProductBestSelling .CenterBlockTop
+{
+    display: block;
+    background: none repeat scroll 0 0 #D8DFEA;
+    margin-top: 14px;
+}
+.ProductBestSellingDatalistItemStyle
+{
+    width: 155px;
+	padding: 5px;
+    text-align: center;
+    text-decoration: none;
+	vertical-align: top;
+}
+
+.ProductBestSelling .CenterBlockTopImgLeft
+{
+    display: block;
+    float: left;
+    width: 7px;
+    height: 44px;
+    background: url(Images/Design/Box/ProductBestSellingTopLeft.gif) no-repeat left top;
+}
+.ProductBestSelling .CenterBlockTopImgRight
+{
+    display: block;
+    float: right;
+    width: 7px;
+    height: 44px;
+    background: url(Images/Design/Box/ProductBestSellingTopRight.gif) no-repeat right top;
+}
+.ProductBestSelling .CenterBlockTopTitle
+{
+    color: #3B5998;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 5px;
+    display: none;
+}
+.ProductBestSelling .default-container-Right
+{
+    width: 260px;
+}
+.ProductBestSelling .ProductBestSellingButton
+{
+    text-align: center;
+}
+.ProductBestSellingDataList
+{
+    width: 100%;
+}
+.ProductBestSellingItemStyle
+{
+    vertical-align: top;
+    background-color: #fff;
+    width: 33%;
+}
+.ProductBestSellingDetailsTable
+{
+    width: 100%;
+    padding: 0 5px;
+}
+
+.ProductBestSellingTitle
+{
+    width: 62px;
+    height: 23px;
+    background: url(Images/Design/Icon/bestseller-hotlabel.gif) no-repeat left top;
+    position: absolute;
+    margin-left: -13px;
+    margin-top: -10px;
+    z-index: 10;
+}
+.ProductBestSellingImage
+{
+    text-align: center;
+    width: 145px;
+    vertical-align: top;
+}
+.ProductBestSellingImage img
+{
+    max-width: 145px;
+    width: auto !important;
+    width: 145px;
+}
+.ProductBestSellingDescription
+{
+    vertical-align: top;
+}
+
+.ProductBestSellingName
+{
+    text-align: center;
+    padding-bottom: 10px;
+    width: 100%;
+    clear: both;
+    line-height: 18px;
+}
+
+.ProductBestSellingNameLink
+{
+    color: #3B5998;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.ProductBestSellingNameLink:hover
+{
+    text-decoration: underline;
+}
+
+.ProductBestSellingShortDescription
+{
+    color: #666;
+    padding-bottom: 10px;
+    font-size: 90%;
+    height: 100%;
+    display: block;
+}
+.ProductBestSellingQuantityDiscountPanel
+{
+    float: right;
+    display: none;
+}
+
+.ProductBestSellingQuantityDiscountPanel img
+{
+    border: none;
+}
+
+.ProductBestSellingRecurringPanel
+{
+    float: right;
+    display: none;
+}
+
+.ProductBestSellingRecurringImage
+{
+    border: 0;
+}
+.ProductBestSellingStock
+{
+    display: none;
+    clear: both;
+    text-align: left;
+    line-height: 20px;
+    color: Red;
+}
+.ProductBestSellingPriceDetails
+{
+    clear: both;
+    float: right;
+}
+.ProductBestSellingOurPricePanel
+{
+    clear: left;
+    display: block;
+    width: 130px;
+    height: 48px;
+    text-align: center;
+}
+.ProductBestSellingOurPriceLabel
+{
+    display: none;
+}
+
+.ProductBestSellingOurPriceValue
+{
+    color: #F03D25;
+    font-weight: bold;
+    text-align: center;
+    width: 145px;
+}
+.ProductBestSellingOurPriceValue a
+{
+    color: #F03D25;
+    font-weight: bold;
+    text-align: center;
+    width: 145px;
+}
+.ProductBestSellingCallForPrice
+{
+    display: block;
+    width: 130px;
+    height: 48px;
+    text-align: center;
+    background: url(Images/Design/Box/default-container-price.gif) no-repeat left top;
+    color: #FFFFFF;
+    font-size: 130%;
+    font-weight: bold;
+    line-height: 48px;
+}
+.ProductBestSellingRetailPricePanel
+{
+    display: none;
+}
+.ProductBestSellingRetailPriceLabel
+{
+    display: none;
+}
+
+.ProductBestSellingRetailPriceValue
+{
+    text-decoration: line-through;
+}
+.ProductBestSellingAddCart
+{
+    clear: left;
+    display: block;
+    width: 130px;
+    height: 27px;
+    background: url(Images/Design/Button/default-addcart.gif) no-repeat left top;
+}
+.ProductBestSellingAddCartImage, .ProductBestSellingTellFriendImage
+{
+    display: none;
+}
+.ProductBestSellingUtilityButton
+{
+    width: 120px;
+    vertical-align: top;
+}
+.ProductBestSellingAddtoCompare
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-compare.gif) no-repeat left top;
+    border: 0;
+}
+.ProductBestSellingAddtoCompare:hover
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-compare-hover.gif) no-repeat left top;
+    border: 0;
+}
+.ProductBestSellingTellFriend
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-tellfriend.gif) no-repeat left top;
+    border: 0;
+}
+.ProductBestSellingTellFriend:hover
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-tellfriend-hover.gif) no-repeat left top;
+    border: 0;
+}
+.ProductBestSellingWishlist
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-wishlist.gif) no-repeat left top;
+    border: 0;
+}
+.ProductBestSellingWishlist:hover
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-wishlist-hover.gif) no-repeat left top;
+    border: 0;
+}
+/*Facebook ProductBestSelling End*/
+/*Facebook RandomProduct Begin*/
+.RandomProduct
+{
+    width: 500px;
+    margin-bottom: 10px;
+}
+.RandomProduct .CenterBlockTop, .RandomProduct
+{
+}
+
+.CenterBlockBottom
+{
+    display: none;
+}
+
+.RandomProduct .CenterBlockTopTitle
+{
+    color: #3B5998;
+    font-size: 14px;
+    font-weight: bold;
+    display: none;
+}
+
+.RandomProduct .default-container-Right
+{
+    _width: 260px;
+}
+.RandomProductDataList
+{
+    width: 100%;
+}
+.RandomProductItemStyle
+{
+    vertical-align: top;
+    background-color: #fff;
+    width: 33%;
+}
+.RandomProductItem
+{
+	width: 155px;
+	padding: 5px;
+}
+.RandomProductDetailsTable
+{
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+.RandomProductTitle
+{
+    width: 62px;
+    height: 23px;
+    background: url(Images/Design/Icon/random-hotlabel.gif) no-repeat left top;
+    position: absolute;
+    margin-left: -13px;
+    margin-top: -10px;
+    z-index: 10;
+}
+.RandomProductImage
+{
+    text-align: center;
+    width: 100%;
+    vertical-align: top;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.RandomProductImage img
+{
+    max-height: 158px;
+    height: auto !important;
+    height: 158px;
+    max-width: 145px;
+    width: auto !important;
+    width: 145px;
+}
+.RandomProductDescription
+{
+}
+
+.RandomProductName
+{
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.RandomProductImageDiv
+{
+    width: 145px;
+}
+
+.RandomProductNameLink
+{
+    color: #3B5998;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.RandomProductNameLink:hover
+{
+    text-decoration: underline;
+}
+
+.RandomProductShortDescription
+{
+    color: #3B5998;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.RandomProductShortDescription:hover
+{
+    text-decoration: underline;
+}
+
+.RandomProductSeemore
+{
+    /*float: left;*/
+    text-decoration: none;
+    color: #666;
+    font-weight: bold;
+}
+
+.RandomProductQuantityDiscountPanel
+{
+    float: right;
+    display: none;
+}
+
+.RandomProductQuantityDiscountPanel img
+{
+    border: none;
+}
+
+.RandomProductRecurringPanel
+{
+    float: right;
+    display: none;
+}
+
+.RandomProductRecurringImage
+{
+    border: 0;
+}
+.RandomProductStock
+{
+    display: none;
+    clear: both;
+    text-align: left;
+    line-height: 20px;
+    color: Red;
+}
+.RandomProductPriceDetails
+{
+    margin-top: 5px;
+    clear: both;
+}
+.RandomProductOurPricePanel
+{
+    clear: left;
+    display: block;
+    width: 145px;
+    text-align: center;
+}
+.RandomProductOurPriceLabel
+{
+    display: none;
+}
+
+.RandomProductOurPriceValue
+{
+    color: #F03D25;
+    font-weight: bold;
+    width: 145px;
+    text-align: center;
+}
+.RandomProductOurPriceValue a
+{
+    
+}
+.RandomProductCallForPrice
+{
+    display: block;
+    width: 130px;
+    height: 48px;
+    text-align: center;
+    background: url(Images/Design/Box/default-container-price.gif) no-repeat left top;
+    color: #FFFFFF;
+    font-size: 130%;
+    font-weight: bold;
+    line-height: 48px;
+}
+.RandomProductRetailPricePanel
+{
+    /*display: none;*/
+}
+.RandomProductRetailPriceLabel
+{
+    display: none;
+}
+
+.RandomProductRetailPriceValue
+{
+    width: 145px;
+    text-align: center;
+    text-decoration: line-through;
+}
+.RandomProductAddCart
+{
+    clear: left;
+    display: block;
+    width: 130px;
+    height: 27px;
+    background: url(Images/Design/Button/default-addcart.gif) no-repeat left top;
+}
+.DummyRandomProductAddtoCart
+{
+    clear: left;
+    display: block;
+    width: 130px;
+    height: 27px;
+}
+
+.RandomProductAddCartImage, .RandomProductTellFriendImage
+{
+    display: none;
+}
+.RandomProductUtilityButton
+{
+    width: 120px;
+    vertical-align: top;
+}
+.RandomProductAddtoCompare
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-compare.gif) no-repeat left top;
+    border: 0;
+}
+.RandomProductAddtoCompare:hover
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-compare-hover.gif) no-repeat left top;
+    border: 0;
+}
+.RandomProductTellFriend
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-tellfriend.gif) no-repeat left top;
+    border: 0;
+}
+.RandomProductTellFriend:hover
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-tellfriend-hover.gif) no-repeat left top;
+    border: 0;
+}
+.RandomProductWishlist
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-wishlist.gif) no-repeat left top;
+    border: 0;
+}
+.RandomProductWishlist:hover
+{
+    display: block;
+    width: 110px;
+    height: 22px;
+    background: url(Images/Design/Button/default-wishlist-hover.gif) no-repeat left top;
+    border: 0;
+}
+/*Facebook RandomProduct End*/
+
+/*Facebook Product List Begin */
+.FacebookProductListName
+{
+    clear: both;
+    line-height: 18px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.FacebookProductListNameLink
+{
+    color: #3B5998;
+    cursor: pointer;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.FacebookProductListNameLink:hover
+{
+    text-decoration: underline;
+}
+
+.FacebookProductListPrice
+{
+    color: #F03D25;
+    font-weight: bold;
+    text-align: center;
+    width: 145px;
+}
+
+.FacebookProductListRetailPrice
+{
+    text-decoration: line-through;
+}
+
+.FacebookProductOurPriceLabel
+{
+    padding-right: 5px;
+}
+
+.FacebookProductRetailPriceLabel
+{
+    padding-right: 5px;
+}
+
+.FacebookProductDataList
+{
+    width: 100%;
+}
+
+.FacebookProductList
+{
+    width: 100%;
+    background: url("Images/Design/Bullet/listArrow.png") no-repeat scroll right center transparent;
+}
+
+.FacebookProductListItem
+{
+    display: inline-block;
+    margin: 10px 25px 30px 0;
+    text-align: center;
+    text-decoration: none;
+    width: 135px;
+}
+
+.FacebookProductListAlternatingItem
+{
+    display: inline-block;
+    margin: 10px 25px 30px 0;
+    text-align: center;
+    text-decoration: none;
+    width: 135px;
+}
+
+.FacebookProductListImage
+{
+    text-align: center;
+    width: 145px;
+    vertical-align: top;
+}
+
+.FacebookProductListImage img
+{
+    max-width: 145px;
+    width: auto !important;
+    width: 145px;
+}
+
+.FacebookProductSorting
+{
+    padding: 10px 0 0 5px;
+}
+
+.FacebookProductSorting Label
+{
+    color: #666666;
+    cursor: pointer;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.FacebookPagingControlMainDiv
+{
+    float: right;
+    clear: right;
+}
+/*Facebook Product List End*/
+
+/*Facebook Product Detail Begin */
+.FacebookProductDetails
+{
+    display: block;
+    padding-left: 150px;
+}
+
+.FacebookProductDetailsName
+{
+    color: #3B5998;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: bold;
+    padding: 5px 5%;
+}
+
+.FacebookProductDetailsImage
+{
+    float: left;
+    margin-right: 20px;
+    min-height: 50px;
+    padding-top: 3px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.FacebookProductDetailsShortDescription
+{
+    padding: 5px 5%;
+    display: block;
+}
+
+.FacebookProductDetailsLongDescription
+{
+    width: 90%;
+    padding: 10px 5%;
+    display: block;
+}
+
+.FacebookProductDetailsPrice
+{
+    display: block;
+    font-size: 100%;
+    font-weight: bold;
+    width: 90%;
+    padding: 5px 5%;
+}
+
+.FacebookProductDetailsPrice .RetailPrice
+{
+    text-decoration: line-through;
+    font-weight: normal;
+}
+
+.FacebookProductDetailsPrice .Price
+{
+    color: #F03D25;
+    font-weight: bold;
+}
+
+.FacebookProductDetailsPrice .PriceLabel
+{
+    font-size: 115%;
+}
+
+.FacebookProductDetailsPrice .OptionItemDetailsTable td
+{
+    height: 20px;
+}
+
+.FacebookProductDetailsTitle
+{
+    font-size: 110%;
+    font-weight: bold;
+}
+
+.FacebookProductDetailsText
+{
+    display: block;
+    margin-top: 10px;
+}
+
+.FacebookProductDetailsMessage
+{
+    width: 100%;
+    text-align: left;
+    padding: 3px 0px;
+}
+
+.FacebookProductDetailsQty
+{
+    padding: 5px 5% 10px;
+    display: block;
+}
+
+.FacebookProductDetailsQty .QuantityDiv
+{
+    width: 100%;
+}
+
+.FacebookProductDetailsQty .CustomPriceDiv
+{
+    width: 100%;
+    padding-bottom: 10px;
+}
+
+.FacebookProductDetailsQty .OutOfRangeQuantityDiv
+{
+    width: 100%;
+    font-style: italic;
+    color: red;
+}
+
+.FacebookProductDetailsQty .OutOfStockDiv
+{
+    width: 100%;
+    font-style: italic;
+    color: red;
+}
+
+.FacebookProductDetailsQty .ButtonDiv
+{
+    width: 100%;
+}
+
+.FacebookProductDetailsQty .AddToCart
+{
+    /*width: 97px;*/
+    height: 22px;
+    position: relative;
+    top: 5px;
+}
+
+.FacebookProductDetailsOption
+{
+    margin-top: 10px;
+    font-weight: normal;
+}
+
+.FacebookProductDetailsOption .OptionRadioItemDiv input
+{
+    width: 20px;
+    height: 20px;
+}
+/*--- begin css for custom price ---*/
+.FacebookProductDetailsQty .CustomPriceLabel
+{
+    margin-right: 5px;
+    padding: 3px 0;
+}
+
+.FacebookProductDetailsQty .CustomPriceTextbox
+{
+    width: 80px;
+}
+
+.FacebookProductDetailsQty .CustomPriceRequiredNote
+{
+    color: #ff8112;
+}
+
+.FacebookProductDetailsQty .CustomPriceNote
+{
+    font-style: italic;
+    color: #ff8112;
+    padding-bottom: 10px;
+}
+
+.FacebookProductDetailsQty .CustomPriceNote span
+{
+    margin-right: 5px;
+}
+/*--- end css for custom price ---*/
+/*Facebook Product Detail End*/
+
+/*Facebook CategoryList Begin*/
+.FacebookCategoryList
+{
+}
+
+.FacebookCategoryListPageItemControl
+{
+    padding-top: 10px;
+}
+
+.FacebookCategoryListItemPerPage
+{
+    width: 30px;
+    height: 20px;
+    float: left;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.FacebookCategoryListPagingControl
+{
+    color: #3B5998;
+    text-align: right;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.FacebookCategoryListDataList
+{
+    /*float: left;*/
+    padding-top: 20px;
+    width: 50%;
+    clear: left;
+}
+
+.FacebookCategoryListDataListHeader
+{
+    text-align: center;
+}
+
+.FacebookCategoryListDataListItem
+{
+    vertical-align: top;
+}
+
+.FacebookCategoryListItemTable
+{
+    width: 145px;
+    display: inline-block;
+    margin: 0 25px 30px 0;
+    text-align: center;
+    text-decoration: none;
+}
+
+.FacebookCategoryListItemImageColumn
+{
+    width: 145px;
+    background-color: #fff;
+    border: solid 1px #E5E5E5;
+    padding: 5px;
+}
+
+.FacebookCategoryListItemImageDiv
+{
+    text-align: center;
+    width: 100%;
+    vertical-align: top;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.FacebookCategoryListItemImageDiv img
+{
+    max-height: 100px;
+    height: auto !important;
+    height: 158px;
+    max-width: 145px;
+    width: auto !important;
+    width: 145px;
+}
+
+.FacebookCategoryListItemNameDiv
+{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.FacebookCategoryListItemNameDiv a
+{
+    color: #3B5998;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.FacebookCategoryListItemNameDiv a:hover
+{
+    color: #3B5998;
+    text-decoration: underline;
+}
+
+.FacebookCategoryListItemDescriptionColumn
+{
+    display: none;
+}
+
+/*CategoryList End*/
+
+/*CatalogBreadcrumb Begin*/
+.CatalogBreadcrumb
+{
+    font-size: 110%;
+    color: #8b000a;
+    font-weight: bold;
+    margin: 13px 10px;
+    float: left;
+    width: 500px;
+}
+
+.CatalogBreadcrumb a
+{
+    text-decoration: none;
+}
+.CatalogBreadcrumb a:hover
+{
+    /*text-decoration: underline;     color: #FF9D00;*/
+}
+
+.CatalogBreadcrumbCurrentNodeStyle
+{
+    color: #FF9D00;
+}
+
+.CatalogBreadcrumbNodeStyle
+{
+    color: #3B5998;
+}
+
+.CatalogBreadcrumbPathSeparatorStyle
+{
+    color: #3B5998;
+}
+
+.CatalogBreadcrumbRootNodeStyle
+{
+    color: #3B5998;
+}
+/*CatalogBreadcrumb End*/
+
+/*OptionGroupDetails Begin*/
+.OptionGroupDetailsTitleRight
+{
+    color: #444;
+    font-size: 12px;
+    font-weight: bold;
+	padding-top:12px;
+}
+/*OptionGroupDetails End*/
+/*OptionItemDetails Begin*/
+.OptionItemDetails
+{
+    margin-top: 10px;
+}
+
+.OptionItemDetailsTop
+{
+    font-weight: bold;
+    text-decoration: underline;
+    color: #666;
+}
+
+.OptionItemDetailsLeft
+{
+    margin-top: 5px;
+}
+.OptionItemDetailsErrorMessage
+{
+    color: #ff0000;
+}
+/*OptionItemDetails End*/
+/*OptionRadioItem Begin*/
+.OptionRadioItemDiv
+{
+    margin-left: 23px;
+}
+.OptionRadioItemRadioButtonList td
+{
+    position: relative;
+    height: 30px;
+}
+
+.OptionRadioItemRadioButtonList input
+{
+    float: left;
+}
+
+.OptionRadioItemRadioButtonList label
+{
+    position: relative;
+    float: left;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+
+.OptionRadioItemRadioButtonList label span.OptionItemName
+{
+    color: #666;
+}
+
+.OptionRadioItemRadioButtonList label img.OptionImg
+{
+    border: solid 1px #D2D1D1;
+    width: 6px;
+    left: -50px;
+    top: 3px;
+    position: absolute;
+}
+
+.OptionRadioItemRadioButtonList label span.OptionPrice
+{
+    color: #FF9D00;
+}
+/*OptionRadioItem End*/
+/*OptionTextItem Begin*/
+.OptionTextItem
+{
+    position: relative;
+}
+.OptionTextItemTable
+{
+}
+
+.OptionTextItemCheckDiv
+{
+    margin-left: 23px;
+    position: relative;
+}
+
+.OptionTextItemCheckDiv
+{
+    float: left;
+}
+
+.OptionTextItemCheckDiv span.OptionItemName
+{
+    position: absolute;
+    left: 30px;
+    top: 1px;
+}
+
+.OptionTextItemCheckDiv span img.OptionImg
+{
+    border: solid 1px #D2D1D1;
+    width: 6px;
+    left: -20px;
+    top: 3px;
+    position: absolute;
+}
+
+.OptionTextItemTable span.OptionItemName
+{
+    font-weight: bold;
+    color: #bbb;
+}
+
+.OptionTextItemTable span.OptionPrice
+{
+    float: right;
+    margin-left: 45px;
+}
+
+.OptionTextItemText
+{
+    width: 180px;
+    margin-left: 20px;
+}
+/*OptionTextItem End*/
+/*OptionInputListItem Begin*/
+.OptionInputListItem
+{
+}
+
+.OptionInputListItemDataListItemStyle
+{
+    padding-bottom: 2px;
+}
+.OptionInputListItemDataListItemDiv
+{
+    position: relative;
+    margin-left: 23px;
+}
+
+.OptionInputListItemDataListItemDiv input
+{
+    border: solid 1px #ccc;
+}
+
+.OptionInputListItemDataListItemDiv span.OptionItemName
+{
+    font-weight: bold;
+    color: #bbb;
+}
+
+.OptionInputListItemDataListItemDiv span img.OptionImg
+{
+    border: solid 1px #D2D1D1;
+    position: absolute;
+    width: 6px;
+    top: 4px;
+    left: -20px;
+}
+/*OptionInputListItem End*/
+/*OptionUploadItem Begin*/
+.OptionUploadItem .OptionUploadItemUploadLabel
+{
+    position: relative;
+    margin-left: 23px;
+    padding-bottom: 1px;
+}
+
+.OptionUploadItem .OptionUploadItemUploadLabel .OptionImg
+{
+    position: absolute;
+    left: -20px;
+    top: 3px;
+    width: 6px;
+    border: solid 1px #D2D1D1;
+}
+
+.OptionUploadItemFileUploadWidth
+{
+    width: 210px;
+}
+/*OptionUploadItem End*/
+/*OptionUploadRequireItem Begin*/
+.OptionUploadRequireItem .OptionUploadRequireItemUploadRQLabel
+{
+    position: relative;
+    margin-left: 23px;
+    padding-bottom: 1px;
+}
+
+.OptionUploadRequireItemUploadRQLabel .OptionImg
+{
+    position: absolute;
+    left: -20px;
+    top: 3px;
+    width: 6px;
+    border: solid 1px #D2D1D1;
+}
+
+.OptionUploadRequireItemFileUploadWidth
+{
+    width: 210px;
+}
+/*OptionUploadRequireItem End*/
+/*PromotionProductItem Begin*/
+.PromotionProductItem .ProductOption
+{
+	margin-top: 3px;
+	text-align: center;
+}
+.PromotionProductItem .ProductSelect
+{
+	margin-top: 3px;
+	text-align: center;
+}
+.PromotionProductItem .OptionPopup
+{
+	left: 0px; 
+	top: 0px; 
+	width: 1366px; 
+	height: 623px; 
+	position: fixed; 
+	z-index: 1001; 
+	opacity: 0.8; 
+	background-color: #fff;	
+}
+.PromotionProductItem .OptionPanel
+{
+	background-color: #fff;
+	text-align: left;
+	padding: 10px 20px 10px 20px;
+	width: auto;
+	height: auto;
+	border: solid 1px #aaa;	
+}
+.PromotionProductItem .OptionButton
+{
+	text-align: center;
+	padding: 10px 0px 10px 0px;
+}
+.PromotionProductItem .ProductPrice
+{
+	text-decoration: line-through;
+}
+.PromotionProductItem .NameLink
+{
+    color: #3B5998;
+	cursor: pointer;
+    text-decoration: none;
+}
+.PromotionProductItem .NameLink:hover
+{
+	text-decoration: underline;
+}
+
+.PromotionProductGroup .MessagePanel
+{
+    color: Red;    
+}
+
+.PromotionBuyButton
+{
+    float:right;
+    margin-right:10px;
+}
+/*PromotionProductItem End*/
+
+/* Product Kit Start */
+.FacebookProductKitDetails { margin-top: 20px; padding-left: -60px;}
+.FacebookProductKitTitle{ color: #444; font-size: 12px; font-weight: bold; padding-top:12px;}
+.ProductKitItemDetailsTop{ font-weight: bold; margin-bottom:5px; color: #666;}
+.ProductKitGroupItemStyle .ProductKitItemDetailsTop{ float: left; margin-right: 5px; margin-top: -2px;}
+.ProductKitGroupItemStyle .hidecallout{ display: none;}
+.ProductKitGroupItemStyle .showcallout{ background-color: #ccc; /*shadow color*/ color: inherit; position: absolute; z-index: 100; width: 200px; left: 100px;}
+.ProductKitGroupItemStyle .showcallout .shadow{ background-color: #666; /*shadow color*/ color: inherit; position: relative; bottom: 2px; right: 2px;}
+.ProductKitGroupItemStyle .showcallout .content{ background-color: #fff; /*background color of content*/ color: #000; /*text color of content*/ border: 1px solid #000; /*border color*/ padding: .5em 2ex; text-align: left; position: relative; bottom: 2px; right: 2px;}
+.ProductKitGroupItem tr.quantityTR{ vertical-align: top;}
+.ProductKitGroupItem td.quantityTD{ width: 54px;}
+.ProductKitGroupItem .quantityLabel{ width: 42px; text-align: right; float: left;}
+.ProductKitGroupItemQuantityText{ text-align: right; width: 40px;}
+.ProductKitGroupItem .quantityLabelRadio{ width: 42px; text-align: right; float: left; margin-top: 8px;}
+.ProductKitGroupItemQuantityTextRadio{ text-align: right; width: 40px; margin-top: 8px;}
+/* Product Kit End */
+.CommonErrorMessageDiv
+{
+    background-color: #F8F8F8;
+    border: 1px dashed #FFDDDD;
+    color: Red;
+    padding: 10px;
+    text-align: left;
+    margin-bottom: 13px;
+    padding-left: 23px;
+}
+.GoBackLinkStyle {clear: left;  display: table; margin: 10px auto; text-align: center;color:Black;}

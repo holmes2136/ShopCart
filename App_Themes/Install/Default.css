@@ -1,0 +1,506 @@
+﻿html
+{
+    height: 100%;
+}
+
+body
+{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0;
+    font-size: 11px;
+    font-weight: normal;
+    font-family: Calibri,Tahoma,Microsoft Sans Serif;
+    position: absolute;
+    background-color: #FFFFFF;
+    overflow: hidden;
+}
+
+form
+{
+    height: 100%;
+    vertical-align: middle;
+}
+
+span.Asterisk
+{
+    color: Red;
+    font-weight: bold;
+}
+span.CommonAsterisk
+{
+    color: #f57334;
+    font-size: 90%;
+    font-weight: bold;
+    padding-left: 5px;
+}
+
+.ValidateText
+{
+    color: red;
+}
+
+.Clear
+{
+    clear: both;
+}
+
+div.AdminBorder
+{
+    background-color: #fff;
+    text-align: left;
+}
+
+.Gridview1
+{
+    width: 100%;
+    line-height: 12px;
+    font-size: 13px;
+    background-color: #f1f1f1;
+}
+.Gridview1 a
+{
+    color: #444444;
+}
+.Gridview1 td a
+{
+    text-decoration: none;
+}
+.Gridview1 td a:hover
+{
+    color: #f98e00;
+}
+/* Common Style Begin */
+.CommonGridviewDiv
+{
+    clear: left;
+}
+
+.CommonDenoteDiv
+{
+    clear: left;
+    color: Red;
+    padding: 5px 0px;
+}
+
+.CommonRowStyle
+{
+    display: block;
+    clear: left;
+    padding-top: 3px;
+    line-height: 24px;
+}
+.CommonRowStyle a
+{
+}
+.CommonRowStyle .Label
+{
+    float: left;
+    vertical-align: middle;
+    width: 270px;
+    padding-left: 10px;
+}
+.CommonRowStyle .NoteLabel
+{
+    float: left;
+    vertical-align: middle;
+    padding-left: 10px;
+}
+.CommonRowStyle .BulletLabel
+{
+    background-image: url(../../Images/Design/Bullet/circle_bullet1.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 10px;
+    padding-left: 10px;
+    margin-left: 20px;
+    float: left;
+    vertical-align: middle;
+    width: 250px;
+}
+.CommonRowStyle .DropDown
+{
+    font-size: 11px;
+}
+.CommonRowStyle .TextBox
+{
+    width: 150px;
+    float: left;
+}
+.CommonErrorMessageDiv
+{
+    background-color: #f6fcfe;
+    border: 1px solid #ededed;
+    color: #f57334;
+    font-size: 13px;
+    margin-bottom: 13px;
+    padding: 10px 10px 10px 23px;
+    text-align: left;
+}
+
+.HeaderTitle
+{
+    background-color: #71c6f9;
+    color: #fff;
+    font-size: 20px;
+    text-align: left;
+    clear: left;
+    line-height: 2em;
+    padding: 0 15px;
+    border: 1px solid #f1f1f1;
+}
+
+.validator1
+{
+    color: #f85056;
+    padding-left: 5px;
+}
+
+.fl
+{
+    float: left;
+}
+.fr
+{
+    float: right;
+}
+.al
+{
+    text-align: left;
+}
+.ar
+{
+    text-align: right;
+}
+.ac
+{
+    text-align: center;
+}
+.pdl15
+{
+    padding-left: 15px;
+}
+.pdt10
+{
+    padding-top: 10px;
+}
+
+/* ------- Installation Wizard Begin --------*/
+.WizardBackground
+{
+}
+
+.WizardBorder
+{
+    background-color: #fff;
+}
+.WizardHeader
+{
+    background-color: #000;
+}
+.WizardHeaderLogo
+{
+    margin-left: 50px;
+}
+.WizardHeaderLogoText
+{
+    color: White;
+    font-size: 15px;
+    margin-left: 15px;
+    position: absolute;
+    top: 10px;
+    vertical-align: middle;
+}
+.WizardTitle
+{
+    clear: both;
+    font-size: 25px;
+    text-align: center;
+    width: 620px;
+    margin-bottom: 12px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.WizardPermissionVerifyRow
+{
+    border-left: 1px solid #F1F1F1;
+    border-right: 1px solid #F1F1F1;
+    clear: left;
+    color: #71C6F9;
+    font-size: 15px;
+    line-height: 3em;
+    padding: 0 15px;
+    text-align: left;
+}
+.WizardContentBox
+{
+    overflow: auto;
+    margin: auto;
+    padding: 15px;
+    width: 620px;
+    text-align: center;
+}
+
+.WizardStepImg
+{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.WizardSubHeaderTitle
+{
+    background-color: #F7F7F7;
+    border: 1px solid #D6D6D6;
+    clear: left;
+    font-size: 12px;
+    font-weight: bold;
+    color: #464646;
+    line-height: 2em;
+    margin-bottom: 5px;
+    padding: 0 10px;
+    text-align: left;
+}
+
+.WizarBoldText
+{
+    font-size: 12px;
+    font-weight: bold;
+    color: #464646;
+    line-height: 2em;
+}
+
+.WizardContentBox .CommonDenoteDiv
+{
+    color: #6dc3f7;
+    text-align: left;
+}
+.WizardContentBox .ValidationStyle
+{
+    text-align: left;
+}
+.WizardDetailBox
+{
+    margin: auto;
+    width: 720px;
+    height: 390px;
+    color: #444444;
+}
+.WizardContentBoxInner
+{
+    width: 588px;
+    padding-bottom: 10px;
+    text-align: left;
+    float: left;
+    clear: left;
+}
+.WizardDetailBox .CommonRowStyle .Label
+{
+    width: 280px;
+}
+.WizardDetailBox .CommonRowStyle .BulletLabel
+{
+    width: 260px;
+    background-image: url(../AdminBlueTheme/Images/Bullet/circle_bullet1.gif);
+}
+.WizardDetailBox .CommonRowStyle .TextBox
+{
+    width: 360px;
+    border: 1px solid #f1f1f1;
+}
+.WizardDetailBox .CommonRowStyle .DropDown
+{
+    background-color: #F6FCFE;
+    border: 1px solid #F1F1F1;
+    color: #626262;
+    width: 360px;
+}
+
+.DefaultGridHeadStyle
+{
+    height: 26px;
+}
+
+.PermissionGridHeadStyle
+{
+    background-color: #e9f6fd;
+    font-size: 13px;
+}
+.DefaultGridRowStyle
+{
+    height: 24px;
+    background-color: #fff;
+}
+.denote
+{
+    color: Red;
+}
+.MessagePanel
+{
+    padding: 5px 15px;
+    background-color: #fdffe0;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.MessagePanel .CssShowMessage
+{
+    background: url(../AdminBlueTheme/Images/Icon/Icon_MessageError.gif) no-repeat left top;
+    padding-left: 22px;
+    font-weight: bold;
+    color: #ff0000;
+    font-size: 12px;
+}
+.WarningMessage
+{
+    background: yellow;
+    width: 100%;
+    text-align: center;
+    padding: 3px;
+	font-weight: bold;
+	color: Gray;
+}
+
+.WarningMessage span
+{
+    text-decoration: underline; 
+    color: Black;
+}
+
+.WizardSetupDatabase
+{
+    color: #626262;
+    border: 1px solid #f1f1f1;
+    font-size: 15px;
+    padding: 15px;
+}
+.WizardSetupDatabase .CommonRowStyle
+{
+    line-height: 28px;
+}
+.WizardSetupDatabase .CommonRowStyle .MsSqlLabel
+{
+    float: left;
+    margin-left: 0px;
+}
+.WizardSetupDatabase .RadioList
+{
+    float: left;
+    margin-left: -10px;
+}
+
+.SetupDatabaseValidatorText, .SetupConfigValidatorText
+{
+    font-size: 10px;
+    margin-left:290px;
+    float:left;
+    width:250px;
+    margin-bottom:5px;
+}
+
+.SetupDatabaseValidatorDiv, .SetupConfigValidatorDiv
+{
+    width:360px;
+    margin-bottom:-3px;
+}
+
+.WizardSetupConfig
+{
+    border: 1px solid #f1f1f1;
+    height: 350px;
+}
+.WizardSetupConfig .Title1
+{
+    color: #7ACAF9;
+    font-size: 30px;
+    margin-top: 90px;
+    width: 100%;
+}
+.WizardSetupConfig .Title2
+{
+    color: #585858;
+    font-size: 25px;
+    width: 100%;
+}
+.WizardFinish
+{
+    border: 1px solid #f1f1f1;
+    height: 250px;
+}
+.WizardFinish .Title1
+{
+    color: #7ACAF9;
+    font-size: 25px;
+    margin-top: 90px;
+    width: 100%;
+}
+.WizardFinish .Title2
+{
+    color: #585858;
+    font-size: 16px;
+    width: 100%;
+}
+.WizardFinishButtonDiv
+{
+    margin-top: 15px;
+    padding: 0 30%;
+    text-align: center;
+}
+/* ------- Installation Wizard End --------*/
+.InstallBtnOrange, .InstallBtnGray
+{
+    display: block;
+    float: left;
+    font-size: 14px;
+    padding: 2px 10px;
+    text-decoration: none;
+    vertical-align: middle;  
+    margin-left: 10px;
+    text-align: center;
+}
+.InstallFinBtnOrange, .InstallFinBtnBlue
+{
+    display: block;
+    font-size: 14px;
+    padding: 2px 10px;
+    text-decoration: none;
+    vertical-align: middle;  
+    margin-left: 10px;
+    text-align: center;
+    line-height: 24px;
+}
+.InstallBtnOrange
+{
+    background-color: #f57334;
+    color: #fafafa;
+    width: 50px;
+}
+.InstallBtnGray
+{
+    background-color: #757575;
+    color: #fafafa;
+    width: 50px;
+}
+.InstallFinBtnOrange
+{
+    background-color: #f57334;
+    color: #fafafa;
+    float: left;
+    width: 110px;
+}
+.InstallFinBtnBlue
+{
+    background-color: #20b2fe;
+    color: #fafafa;
+    float: right;
+    width: 110px;
+}
+.InstallBtnGray:hover
+{
+    color: #000;
+}
+.InstallBtnOrange:hover
+{
+    color: #000!important;
+}
+.InstallFinBtnOrange:hover, .InstallFinBtnBlue:hover
+{
+    color: #000;
+}

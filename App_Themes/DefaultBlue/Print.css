@@ -1,0 +1,288 @@
+﻿body.PrintPage
+{
+    font-family: Arial, Tahoma, Trebuchet MS,Microsoft Sans Serif,Verdana ;
+    font-size: 12px;
+    font-weight: normal;
+    background-color: #fff;
+    margin: 0px;
+    padding: 0px;    
+}
+
+.PrintPage .PrintPageDiv
+{
+    width: 650px;
+    margin: 10px auto;
+}
+.PrintPage h4
+{
+    font-size: 14px;
+}
+.CheckoutCompleteCustomer
+{
+    width: 100%;
+}
+/*CheckoutComplete Begin*/
+.CheckoutCompleteHeadPanel
+{
+    text-align: center;
+}
+
+.CheckoutCompletePrintLinkButton
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+.CheckoutCompletePrintLinkDiv
+{
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+   
+}
+.CheckoutCompleteBackLinkDiv
+{
+    text-align: center;
+    text-decoration: none;
+     float: right;
+}
+
+.CheckoutCompleteOrderIDLabel
+{
+    text-align: center;
+    width: 100%;
+    margin: 15px 0;
+    font-weight: bold;
+    display: block;
+}
+
+.CheckoutCompleteTable
+{
+    border: solid 1px #ddd;
+    padding: 1px;
+    width: 100%;
+}
+
+.CheckoutCompleteGridView
+{
+    width: 100%;
+}
+
+.CheckoutCompleteGridViewHeaderStyle
+{
+    background-color: #E0E2E5;
+    border-top: solid 1px #D6D8DB;
+    border-bottom: solid 1px #D6D8DB;
+    height: 25px;
+    color: #333;
+    padding: 3px 5px;
+    font-weight: bold;
+}
+
+.CheckoutCompleteGridViewPriceHeaderStyle
+{
+    width: 18%;
+    text-align: right;
+}
+
+.CheckoutCompleteGridViewUnitPriceHeaderStyle
+{
+    width: 18%;
+    text-align: right;
+}
+
+.CheckoutCompleteGridViewQuantityHeaderStyle
+{
+    width: 15%;
+    text-align: right;
+}
+
+.CheckoutCompleteGridViewUnitPriceHeaderStyle
+{
+    width: 18%;
+    text-align: right;
+}
+
+.CheckoutCompleteGridViewPriceItemStyle
+{
+    text-align: right;
+}
+
+.CheckoutCompleteGridViewUnitPriceItemStyle
+{
+    text-align: right;
+}
+
+.CheckoutCompleteGridViewQuantityItemStyle
+{
+    text-align: right;
+}
+
+.CheckoutCompleteGridViewRowStyle td
+{
+    padding: 3px 5px;
+    color: #555;
+    line-height: 22px; 
+}
+
+.CheckoutCompleteGridViewAlternatingRowStyle td
+{
+    background-color: #F4F6F9;
+    padding: 3px 5px;
+    line-height: 22px; 
+    color: #555;
+}
+
+.CheckoutCompleteOrderSummaryTable
+{
+    width: 100%;
+}
+
+.CheckoutCompleteSubtotalTable
+{
+    margin-left: auto;
+    margin-right: 0px;
+    width: 36%;
+}
+.CheckoutCompleteSubtotalTable td
+{
+     line-height: 24px;
+}
+.CheckoutCompleteSubtotalLabel
+{
+    width: 48%;
+    padding: 3px 5px
+    color: #333;
+    text-align: right;
+    background-color:#F4F6F9;
+}
+
+.CheckoutCompleteSubtotalValue
+{
+    width: 50%;
+    padding: 3px 5px
+    color: #555;
+    text-align: right;
+}
+
+.CheckoutCompleteSubtotalTotalLabel
+{
+    padding: 3px 5px
+   color: #333;
+    text-align: right;
+    background-color: #F4F6F9;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.CheckoutCompleteSubtotalTotalPrice
+{
+    padding: 3px 5px
+    color: #555;
+    text-align: right;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+.CheckoutCompleteCustomerFormView
+{
+    width: 100%;
+}
+
+.CheckoutCompleteCustomerTable
+{
+    width: 100%;
+}
+
+.CheckoutCompleteCustomerHeaderColumn
+{
+    line-height: 25px;
+    color: #555;
+    font-weight: bold;
+    padding: 0px 3px;
+    border: solid 1px #d9d9d9;
+}
+
+.CheckoutCompleteCustomerDetailsTable
+{
+    width: 100%;
+}
+
+.CheckoutCompletePaymentTable
+{
+    width: 100%;
+}
+
+.CheckoutCompleteOrderCommentTable
+{
+    width: 100%;
+}
+
+.CheckoutCompleteShippingTable
+{
+    width: 100%;
+}
+
+.CheckoutCompleteDetailsLabelColumn
+{
+    width: 120px;
+}
+
+.CheckoutCompleteDetailsAlternateRow td
+{
+    background-color: #f1f1f1;
+}
+/*CheckoutComplete End*/
+.PrintButton,
+.CloseButton
+{
+    width: 80px;
+    cursor: pointer;
+    font-weight: bold; font-size: 11px; line-height: 20px; 
+    margin: 0px 5px 2px 0; 
+    padding: 3px 10px;
+    text-decoration: none;
+    vertical-align: middle;
+    text-align:center;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+}
+.PrintButton
+{
+    color: #fff;
+    text-shadow: 0px 1px 1px #316d1e;
+    border: solid 1px #257906;
+    background: #61a64e;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzYxYTY0ZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMzMDgyMTUiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top,  #61a64e 0%, #308215 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#61a64e), color-stop(100%,#308215));
+    background: -webkit-linear-gradient(top,  #61a64e 0%,#308215 100%);
+    background: -o-linear-gradient(top,  #61a64e 0%,#308215 100%);
+    background: -ms-linear-gradient(top,  #61a64e 0%,#308215 100%);
+    background: linear-gradient(to bottom,  #61a64e 0%,#308215 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#61a64e', endColorstr='#308215',GradientType=0 );
+}
+
+.CloseButton
+{
+     color: #fff;
+    text-shadow: 0px 1px 1px #3b72a0;
+    border: solid 1px  #438bc5;
+    background: #60a2e1;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzYwYTJlMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0NDhjYzYiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top,  #60a2e1 0%, #448cc6 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#60a2e1), color-stop(100%,#448cc6));
+    background: -webkit-linear-gradient(top,  #60a2e1 0%,#448cc6 100%);
+    background: -o-linear-gradient(top,  #60a2e1 0%,#448cc6 100%);
+    background: -ms-linear-gradient(top,  #60a2e1 0%,#448cc6 100%);
+    background: linear-gradient(to bottom,  #60a2e1 0%,#448cc6 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#60a2e1', endColorstr='#448cc6',GradientType=0 );
+
+}
+
+.PrintButton:hover,
+.CloseButton:hover
+{
+    color: #000;	
+}
