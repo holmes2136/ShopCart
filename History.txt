@@ -1,0 +1,128 @@
+VevoCart Control System
+
+==============================================================
+Update History
+==============================================================
+---------------------
+Version 6.1.0
+---------------------
+New Features:
+- New Responsive design template
+- Header menu style configuration
+- Quick search filter
+- Blog Enhancement
+	- Blog Category
+	- Blog Image
+- Product dimension
+- Google analytics with custom code
+- UPS configuration
+- FedEx configuration
+	- Insurance value
+	- Account / List rates
+	- Customs fee
+- Coupon usage per customer
+- Payment Gateway enable per store
+- Customer per store
+- New arrival per store
+- Realated product per store
+
+Improvements
+- Header menu group dropdown style
+- Bundle promotion showed incorrect option when clicking add to cart
+- Redirect missing page ( Add to cart feature was not complete by Facebook )
+- Add to cart notification showed incorrect wholesale prices
+- Import / Export customer ( Shipping address ) with comma delimeter
+- Email template menu could not be opened
+- Facebook Like button
+- Facet search was not appear if there was no any department
+- USPS service update
+- USPS contained invalid country name "Taiwan"
+- Shipping weight rate caculated incorrect price
+- Shipping address displayed incorrect city in checkout page
+- Mobile page was redirected to mobile default page on condition that entering from front direct link page
+- Content title displayed description
+- Quick search displayed white background in Chrome browser
+- Quick search text box coverd up advanced search link
+- Advanced search contained unworkable reset button
+- Google analytic search was not found at store
+- Google analytic displayed duplicated in default page
+- If commenting in blog, div tage would be disappear
+- Blog url was not encoded
+- Setting product option stock could disenable quick view
+- Coupon appication in shopping cart view
+
+---------------------
+Version 6.0.1
+---------------------
+
+Fixed Issues:
+- Gift Registry
+	- GiftRegistryItemList.aspx (product link was unworkable)
+	- Add Bundle Promotion
+	- "DefaultBlue" theme did not contain Gift Registry box
+	- Catalog mode counld purchase through Gift Registry
+	- Customer 1 requested contentSub to Gift Registry
+	  customer 2 purchased it for customer 1
+	  but customer 2 got permission not customer 1
+	- Upload option of customer 1 disappeared when customer 2 boguht through Gift Registry
+- Facebook Commerce
+	- Button disappeared
+	- "Sort by" text box contained word "Featured Product"
+	- Product option had been fixed but Bundle Promotion still needed to be selected
+	- Add to Cart (In case of uncomplete), if goods were added from another page except "Product Detail", it would occur "404 error"
+- Bundle Promotion
+	- Product with options could not be purchased
+	- Promotion Subgroup Sorting at Admin page did not work
+- affiliate
+	- Add/Edit link was not assigned correctly
+- Etc
+	- Percentage of save did not depend on "Wholesale"
+	- Language text disappeared at Advanced Search Result page
+	- Category Group Style showed only root
+	- "Product Column" could not be set in "ProductListRowandGridStyle"
+	- Admin Dashboard did not show the result of permission
+
+---------------------
+Version 6.0.0
+---------------------
+New Features:
+- New arrival product.
+- New arrival product Carousel.
+- New Category Menu Styles on Header Menu.
+- Banner Rotation.
+- Add to Cart Notification.
+- Product Quick View.
+- Shop by Manufacturer.
+- Import/Export Enhancements:
+	- Category Import.
+	- Category Export.
+	- Department Import.
+	- Department Export.
+- Blog Comment.
+- Product multiple image sliders.
+- Checkout Process Indicator.
+- Shipping Estimator.
+- New 2 Storefront Themes.
+- Mobile Improvement: 	
+	- New Storefront Theme.
+	- Support enlarging product image.
+	- Support Product Image Slider.
+- Admin Dashboard Improvement:
+	- Display Lastest Orders Information.
+	- Display New Customers Information.
+
+Features Improvement:
+- Point your mouse over the product image to zoom it automatically.
+- Product details added create date.
+- Each product can be displayed as a "Save%" when price lists are lower than retail prices.
+- When products shipping cost are free, it will be labeled as a "Free shipping".
+- Redesign the registration page.
+- Redesign the checkout process page (Shipping Address, Shipping Method, Payment Method, Order Summary, Order Completion).
+- Performance improvement:
+	- Category List.
+	- Product List.
+	- Faceted Search.
+	- Search result.
+
+Fixed Issues:
+- Anonymous user can view order detail.

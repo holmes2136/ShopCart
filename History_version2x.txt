@@ -1,0 +1,177 @@
+VevoCart Control System
+
+==============================================================
+Update History
+==============================================================
+
+---------------------
+Version 2.52
+---------------------
+New Features:
+- Added Russian language.
+- Allow setting SMTP port for outgoing emails.
+- Added captcha verification for "Tell a Friend" feature.
+- Added an option to ignore product's "Fixed Shipping Cost" for real-time shipping rate calculation.
+- Other minor fixes and cosmetic changes.
+
+Fixed Issues:
+- Bestsellers language only displayed in English.
+- eWay payment gateway might not work correctly if CVN was required.
+- "Tell a friend" images might not show up in all browsers.
+- FedEx/UPS real-time shipping rates accumulated with "Fixed Shipping Cost" of each product. 
+- Admin website calendars did not work with Ajax.
+- Admin's Product Search menu on the left did not disappear when disabled in Admin permission settings.
+- Google Checkout configuration missing "Logging" and "LogDirectory" in Web.config.
+
+---------------------
+Version 2.51
+---------------------
+New Features:
+- Added Spanish language.
+- Added Portuguese language.
+- FedEx real-time shipping calculation now uses Web Services API instead of HTML POST.
+- Other minor fixes and cosmetic changes.
+
+Fixed Issues:
+- The "The given key was not present in the dictionary" error may occur if parent categories have ID higher than their children. 
+- In Admin website, FedEx configuration page was saved correctly, but once reloaded, the checkboxes might not show correctly.
+- All review and rating options were disabled, but product detail page still showed "Add Your Reviews" button.
+- If English (en-US) culture data is deleted from the database, there might be errors in some pages of Admin website.
+- Some delete/update buttons still showed in the Admin pages even "Modify" flag is not set for the currently logged in Admin account.
+- Orders with negative quantity could go through the order process.
+- Deleting contents, cultures, or news in Admin website may delete user with same name as content title.
+- Customer reviews were not deleted if the associated product was deleted.
+- Wrong weight calculation for real-time shipping if product quantity is more than one.
+- Database upgrade might fail if English or Thai culture was deleted.
+- Printing order in Admin website did not show company information.
+
+---------------------
+Version 2.50
+---------------------
+New Features:
+- Fedex Realtime Shipping Calculation - UPS Realtime Shipping Calculation
+- eWay Payment Gateway
+- Much more ready Languages 
+- AJAX for Admin website
+- Product Cross Selling
+- Product Review & Rating
+- Product Best Selling
+- Product Feed ( Google Base )- Quantity Discount
+- Content Management for Information tab
+- Admin management with access restrictions
+- Other minor fixes and cosmetic changes.
+
+Fixed Issues:
+- A newly added category did not show in "Parent Category" drop down in Admin website.
+- A system error may occur if purchasing items with more than number in the stock. The new version provides more informative messages.
+
+---------------------
+Version 2.06
+---------------------
+New Features:
+- Minor fixes and cosmetic changes.
+
+Fixed Issues:
+- Changing names in Product Bulk Update did not affect user-friendly URL of that product.
+- "Total" filter in Admin website's order list could not be used.
+- Adding news always used default website language instead of selected language in the drop-down list.
+- Free Version: New products added did not show up in Random Product or Today's Special.
+
+---------------------
+Version 2.05
+---------------------
+New Features:
+- Better support for Medium Trust restrictions.
+- Add Dutch and Greek language translation.
+- Prevent adding the language pages with the same "Path".
+- Add "Special Request" field to order confirmation emails.
+- Other minor fixes and improvements.
+
+Fixed Issues:
+- Admin's Payment page could not be updated if only one language left in the language list.
+- The "Processed/Show All" filter in Admin's order detail list may not work correctly.
+- Updating language keywords with only case difference caused an error.
+- The words <br> may show up in order confirmation emails if product options were selected.
+- Changing CouponID in Admin website may not update correctly. 
+- Changing currency ratio did not affect the front end display until switching currency
+
+---------------------
+Version 2.04
+---------------------
+New Features:
+- Add Chinese language translation.
+- Allow updating Admin's Currency details of the currently selected currency.
+
+Fixed Issuses:
+- File downloaded with eGoods feature may have additional trailers and bigger size than the origial file.
+- TellFriend.aspx embedded image URL inside code-behind instead of the aspx file.
+- Updating entries in Admin's Multilingual Page might not affect the front-end until Cache object was cleared .
+- If a product or category does not have English name/description, the SEO-friendly URL may not work correctly.
+- If user logs in with different upper/lower case user name, order history and download link (for e-Goods) may not display.
+- Order Tracking and Merchant Notes in SQL Server does not record the date of sending messages.
+- Other cosmetic changes.
+
+---------------------
+Version 2.03
+---------------------
+New Features:
+- Language switching buttons will display language name from "Display Name" table instead of using [$...] label.
+
+Fixed Issues:
+- PayPal Website Payment Pro could not take input from SQL Server since there are four decimal places.
+- Changing PayPal Pro setting in Admin Payment menu did not affect the front-end until session expired.
+
+---------------------
+Version 2.02
+---------------------
+New Features:
+- Added more keywords for multilingual text (by using [$...] symbols).
+- Adding a new product will check "Is Enabled" option by default.
+- Email is now required in Admin Customer Add/Edit page.
+- Hit enter in the front page input boxes (newsletter, search, etc.) will activate the functions
+
+Fixed Issues:
+- Newsletter unsubscribe link may not work if administrator has switch tab between HTML and text.
+- Switching to another language the first time in Admin NewsEdit.aspx may not display non-language fields (e.g. Image File).
+- Merchant Notes input box was shown in Customer's My Account page.
+- Print Order pages in FireFox loaded indefinitely.
+
+---------------------
+Version 2.01
+---------------------
+Fixed Issues:
+- DB Script for SQL 2005 missing "ShippingAddressMode" and causing errors in Admin Website Configuration page.
+- The text [$ ... ] displaying in web pages. Fixed by adding the keyword in language database.
+- Currency with "," as decimal separator sometimes recorded wrong number in Order table.
+- Currency with "," as decimal separator causing PayPal errors.
+- PayPal account without Auto Return may return to an error page instead of an order summary page.
+
+---------------------
+Version 2.00
+---------------------
+New Features:
+- Authorize.NET Support.
+- SQL Server 2000 Support.
+- Product Options.
+- Multi-Currency.
+- Bulk Product Update.
+- Customer-Based Pricing (Wholsale Mode).
+- Language mangement (adding/editing/removing languages).
+- Tell a Friend feature.
+- Order Total summary in Admin website.
+- Products can be disabled from the product listing.
+- No shipping address mode.
+- Database tester page.
+- Ability to edit Order Item List in Admin Order Edit page.
+- Tables in Admin website can be sorted.
+- Adding more filters for the Order List page in the Admin website.
+
+Fixed Issues:
+- Adding customer comment box in Admin Order Edit page.
+- PayPal errors if the price contained more than two decimal places.
+- Diacritic symbols in product name causing catalog viewing errors.
+- Tax and shipping cost with "," as decimal separator causing wrong calculation.
+- 2Checkout might have problem with "No Shipping Address" mode.
+- State text box did not appear in AccountDetails page.
+- Other minor fixes.
+

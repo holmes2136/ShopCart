@@ -1,0 +1,115 @@
+<html>
+<head>
+    <title>Test T-HUB Service</title>
+</head>
+<body>
+    <h2>Test T-HUB Service</h2>
+    <table cellpadding="3" cellspacing="3">
+        <tr>
+            <td style="width: 33%;">
+                <form method="post" name="GetOrders" action="thubservice.aspx">
+                    <div>
+                        <h5>Get Orders</h5>
+                    </div>
+                    <div>
+                        <textarea name="request" cols="60" rows="20" style="text-align: left;">
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST Version="1.0">
+<RequestID>06012005171718</RequestID>
+<Command>GetOrders</Command>
+<UserID>admin</UserID>
+<Password>admin</Password>
+<Status>all</Status>
+<Provider>MYSITE</Provider>
+<LimitOrderCount>25</LimitOrderCount>
+<OrderStartNumber>1</OrderStartNumber>
+<NumberOfDays>20</NumberOfDays>
+<SecurityKey></SecurityKey>
+</REQUEST>
+                        </textarea>
+                    </div>
+                    <div>
+                        <input type="submit" id="button1" />
+                    </div>
+                </form>
+            </td>
+            <td style="width: 33%;">
+                <form method="post" name="UpdateShipping" action="thubservice.aspx">
+                    <div>
+                        <h5>Update Shipping Status</h5>
+                    </div>
+                    <div>
+                        <textarea name="request" cols="60" rows="20" style="text-align: left;">
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<REQUEST Version="2.8">
+<Command>UpdateOrdersShippingStatus</Command>
+<UserID>MyLoginID</UserID>
+<Password>MyPassword</Password>
+<SecurityKey>xyz</SecurityKey>
+<Orders>
+<Order>
+<HostOrderID>34088</HostOrderID>
+<LocalOrderID>4122</LocalOrderID>
+<NotifyCustomer>Yes</NotifyCustomer>
+<ShippedOn>12/05/2005</ShippedOn>
+<ShippedVia>UPS</ShippedVia>
+<ServiceUsed>Ground</ServiceUsed>
+<TrackingNumber>Z3121231213243455</TrackingNumber>
+</Order>
+<Order>
+<HostOrderID>34089</HostOrderID>
+<LocalOrderID>4123</LocalOrderID>
+<NotifyCustomer>No</NotifyCustomer>
+<ShippedOn>12/04/2005</ShippedOn>
+<ShippedVia>FEDEX</ShippedVia>
+<ServiceUsed>2nd Day Air</ServiceUsed>
+<TrackingNumber>F334523234234555</TrackingNumber>
+</Order>
+</Orders>
+</REQUEST>
+                    </textarea>
+                    </div>
+                    <div>
+                        <input type="submit" id="button2" />
+                    </div>
+                </form>
+            </td>
+            <td style="width: 34%;">
+                <form method="post" name="UpdatePayment" action="thubservice.aspx">
+                    <div>
+                        <h5>Update Payment Status</h5>
+                    </div>
+                    <div>
+                        <textarea name="request" cols="60" rows="20" style="text-align: left;">
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<REQUEST Version="2.8">
+<Command>UpdateOrdersPaymentStatus</Command>
+<UserID>MyLoginID</UserID>
+<Password>MyPassword</Password>
+<SecurityKey>zzz</SecurityKey>
+<Orders>
+<Order>
+<HostOrderID>34088</HostOrderID>
+<LocalOrderID>4122</LocalOrderID>
+<PaymentStatus>Cleared</PaymentStatus>
+<ClearedOn>12/05/2005</ClearedOn>
+</Order>
+<Order>
+<HostOrderID>34089</HostOrderID>
+<LocalOrderID>4123</LocalOrderID>
+<PaymentStatus>Pending</PaymentStatus>
+<ClearedOn />
+</Order>
+</Orders>
+</REQUEST>
+                    </textarea>
+                    </div>
+                    <div>
+                        <input type="submit" id="button3" />
+                    </div>
+                </form>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>

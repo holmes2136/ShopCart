@@ -1,0 +1,168 @@
+VevoCart Control System
+
+==============================================================
+Update History
+==============================================================
+
+---------------------
+Version 4.4.0
+---------------------
+New Features:
+- Department Menu
+- Email Template Editor
+- Facebook Like Box
+
+Fixed Issues:
+- Correct discount calculation for product option improvement
+- Currency Unit for Online Payment Gateways display incorrect improvement
+- Redirection to default page when users enter invalid link improvement
+- Best Seller product price does not changed when customer changes currency improvement
+- Category does not changed language in advanced search improvement
+- Google Checkout tax calculator improvement
+- Text editor tools improvement: can use with special characters
+- Product List improvement: go to top when change page
+- Category List improvement: go to top when change page
+- Fixed ItemPerPage error when redirect from SSL page
+- Paypal Pro Express user inteface improvement
+- FedEx checked state value improvement when shipping outside the United States 
+- FedEx display a warning message before start the shipping process improvement
+- Display performance improvement : 
+	- Advanced Search
+	- Quick Search
+	- Category List
+	- Category Detail in Admin panel
+	- Product List
+	- Product Detail in Admin panel
+	- Product Bulk Import
+	- Product Bulk Update
+
+---------------------
+Version 4.3.0
+---------------------
+Multi-Store Features:
+- News per store. 
+- Root category per store. 
+- Product price per store. 
+- Product meta information per store.
+- Order per store. 
+- SSL during checkout configuration per store. 
+
+New Features:
+- Added Visual Studio 2010 project and support ASP.NET 4.0.
+- Added Visual Web Developer Express 2010 project.
+- Shipping by order sub total.  
+- Shipping zone restriction.
+- Quick book integration (Deluxe and Multi-Store version).
+- Use Ajax Editor
+- Facebook like button
+
+Fixed Issues:
+- Paging control in product list page improvement.
+- Text editor tools improvement by changed to the Ajax Toolkit instead FCK Editor.
+- Enhanced store configuration menu functionality for single store version.
+- Paging control in product details page improvement.
+- Category tree view style display improvement.
+- Fixed confirmation email does not include the product option when customer uses Google Checkout payment.
+- Fixed invoice and packaging slip in order detail shows incorrect information.
+- Fixed downloadable product which process order with Google Checkout payment cannot process download link.
+- USPS Real Time services improvement.
+- Other minor fixes and improvements.
+
+
+---------------------
+Version 4.2.1
+---------------------
+New Features:
+- Newsletter per store (Multi-Store version only)
+- Content Manager per store (Multi-Store version only)
+- URL Canonicalization per store (Multi-Store version only)
+- Default Website Language per store (Multi-Store version only)
+- Default Display Currency per store (Multi-Store version only)  
+- Email configuration per store (Multi-Store version only)   
+
+
+Fixed Issues:
+- Custom master page get wrong theme.
+- Other minor fixes and improvements.
+
+---------------------
+Version 4.2.0
+---------------------
+New Features:
+- Store Management (Multi-Store version only)
+
+
+Fixed Issues:
+- Encode special character in query string, billing address and shipping address.
+- Cannot access AffliateMain page.
+- Product option stock cache cannot update.
+- Medium trust problem.
+- SQL time out problem during installation.
+- Other minor fixes and improvements.
+
+---------------------
+Version 4.1.0
+---------------------
+New Features:
+- PCI compliance
+- Support more currencies for PayPal Website Payments Standard.
+- Support PayFlow Pro Payment Gateway.
+- Customer Tax Exempt.
+- Limited customer download times for e-good product.
+- Buy X Discount Y coupon.
+- Policy Agreement Confirmation.
+- Social Media Marketing.
+- Live Person.
+
+
+Fixed Issues:
+- Setting "Enable Shipping Address" to no still caused validation error during checkout registration.
+- Category tree view might expand multiple categories if names were duplicated.
+- Report could not be used with Admin website that has SSL-enabled.
+- USPS real-time rates did not work when sending to UK, Guam, or Puerto Rico.
+- When logging in to Admin website, some of the website could not load History.htm.
+- If the option "Update Images and Thumbnails" was not set, bulk import would not keep secondary images of previous images.
+- Bulk import caused all images to be primary images.
+- Bulk importing products that used options for inventory had an error during "Add to Cart" if not all product option combinations were not added in the csv file.
+- Merchat rating did not display for setup correctly in admin page.
+- Other minor fixes and improvements.
+
+
+---------------------
+Version 4.0.0a
+---------------------
+New Features:
+- Added Visual Web Developer Express 2008 project.
+
+Fixed Issues:
+- PayPal Pro did not charge the correct payment amount. It did not include shipping, tax, nor discount.
+- Upgrading database from 3.x on the live server did not work due to KeyValidation page error.
+- Tax rates in SQL Server could only use integer type (no decimal points).
+- Today's Special wait time configuration did not work correctly.
+- News and Announcements background color for the text was not transparent and caused problem with some templates.
+- Disabling "Require Shipping Address" option caused validation error during customer registration.
+- Payment list language did not change in payment selection page.
+
+
+---------------------
+Version 4.0.0
+---------------------
+New Features:
+- Content Manager.
+- Orders and Customers Export.
+- Product/Category Layout Selectors.
+- Theme Selectors.
+- Google XML Sitemap.
+- Configurable meta keywords/descriptions.
+- Enhanced configuration search.
+- Allow product display sorting.
+- Restructure the source code to multi-layer architechture.
+- Allows selecting "Residential" address for real-time shipping.
+
+Fixed Issues:
+- Authorize.net did not use CVV number that was entered.
+- Could not edit subjects of some email templates.
+- Reports could not show data in December correctly.
+- Category breadcrumb may not work correctly with SSL.
+- Other minor fixes and improvements.
+

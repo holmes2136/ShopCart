@@ -1,0 +1,73 @@
+VevoCart Software License Agreement
+
+Copyright (c) 2006-2013 Vevo Systems Co., Ltd. All rights reserved.
+
+This license agreement is a legal agreement between you (Merchant or Developer) and Vevo Systems Co., Ltd. for VevoCart. By using this software you agree to be bound by the terms of this agreement. For developers, if you purchase the software for your clients, the clients are also bound by the license agreement.
+
+This software/key is protected by national and international copyright laws. 
+
+
+1. GRANT OF LICENSE
+
+1.1 SINGLE-STORE LICENSE
+This license grants you the right to install this software/key for use on a single (1) website/store for the domain specified when your key was purchased. In addition, you may use the product for local development purposes on a single (1) computer system.  
+
+1.2 MULTI-STORE LICENSE
+The multi-store license consists of a single (1) base license and one or more storefront licenses. Each storefront license ties with the base license. Storefront licenses that tie to the same base license must use the same database and administration screen. 
+
+This multi-store license grants you the right to install this software/key for use on a single (1) base license and the number of storefront licenses that you have purchased. In addition, you may use the product for local development purposes on a single (1) computer system. 
+
+
+2. RESTRICTIONS
+
+You may not reverse engineer, decompile, or disassemble VevoCart to reconstruct or discover any source code or underlying algorithms of VevoCart, if provided in object code form only.
+
+A copyright notice must be provided within the source code that specifies VevoCart as the provider of the software integrated with your applications, for example: 
+        "<<your application name>> contains VevoCart licensed; these components may only be used as part of and in connection with <<your application name>>." 
+
+You may not rent, lease, or sublicense VevoCart. 
+
+You may not create subscription-based solutions that customers pay monthly or yearly fees to use VevoCart.
+
+A VevoCart license may not be used in an ISP/Mall environment. 
+
+Resellers have to obtain a permission prior to resell. VevoCart may only be sold and distributed as an integrated part of an application or system created by you. You cannot resell the VevoCart software or key alone. Each sold/distributed site/store must have its own unique license even if hosted within a single domain. 
+
+License is not transferable except purchased by resellers to transfer to clients. License transfer is allowed only by written consent and approval of the company. A license may not be used for any domain other than that specified at the time of obtaining the key. 
+
+
+Rebranding is prohibited without a written consent.
+
+Websites/stores that use Community edition of VevoCart must include the following acknowledgement in every page of the stores:
+
+        "Powered By VevoCart" 
+
+with the link to 
+
+        "www.vevocart.com"
+
+
+3. OWNERSHIP AND COPYRIGHT
+This software/key and documentation are licensed, not sold. Vevo Systems Co., Ltd. retains ownership and the copyright of the software/key.
+
+
+4. TERMINATION
+Without prejudice to any other rights, Vevo Systems Co., Ltd. may terminate this license agreement if you fail to comply with the terms and conditions of this agreement. In such event, you must destroy all copies of VevoCart, any derivative work, all of its component parts, source code, associated documentation, and related materials. The disclaimers of warranties and damages and limitations on liability shall survive termination.
+
+
+5. COUNTRIES OF USAGE
+By installing this software/key, you acknowledge that you are located outside of Thailand. You must not install the software/key in the machines or servers located in Thailand.
+
+
+6. NO WARRANTY
+The software and source code is provided to you "AS IS." Vevo Systems Co., Ltd. disclaims all warranties, either express or implied, including, without limitation, the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. The entire risk arising out of use or performance of the software remains with you.
+
+
+7. LIMITATION OF LIABILITY
+In no event will Vevo Systems Co., Ltd. or its licensors be liable to you for any special, consequential, indirect, or similar damages, including any lost profits or lost data arising out of the use or inability to use the software/key even if Vevo Systems Co., Ltd. has been advised of the possibility of such damages.
+
+The disclaimers and limitations set forth above will apply regardless of whether you accept the software.
+
+
+8. GENERAL
+By installing this software/key you acknowledge that you have read this license agreement, understand it, and agree to be bound by its terms and conditions.

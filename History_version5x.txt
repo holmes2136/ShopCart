@@ -1,0 +1,153 @@
+VevoCart Control System
+
+==============================================================
+Update History
+==============================================================
+---------------------
+Version 5.4.0
+---------------------
+New Features:
+- Faceted Search / Narrow Product Filter
+- Product Kit for Mobile
+- Product Kit for Facebook
+
+Features Improvement:
+- Mobile View Configuration
+- Mini Cart Improvement
+- Mini Compare Improvement
+- URL Improvement (Lowercase, Localization)
+- Search Improvement (By any word, By all word, By exact phase)
+- Search mode configuration for quick search
+- SEO Improvement
+- Customer Review Improvement
+- Product List Layout Improvement
+- Category Improvement (Image Alternate Tag, Image Title Tag)
+- Product Improvement (Image Alternate Tag, Image Title Tag)
+- eBay Improvement: Support eBay in UK, Germany
+- Updated Configuration to display products in Category list
+- Updated Configuration to display products in Department list
+- Updated Category list to display with total product items
+
+Fixed Issues:
+- One page checkout with hosted payment issue
+- Payment redirect issue
+- "Add" button disappear in Create Order
+- Point system configuration missing
+- Export order display incorrect data when address contains comma 
+- Payment method section is skipped when payment method sets only PayPal payment in One page checkout
+- Missing Product sorting and Related products after running product bulk import
+- Product export data with incorrect image path 
+- Return product check account name with case sensitive 
+- Product detail on Mobile view show "Add to cart" button but VevoCart does not has to setup payments
+- Product does not has image. In "Tell a friend" page, image does not display "No Image"
+- Import Customer cannot update shipping address if alias name(s) are duplicated
+- Product detail with product specification cannot display when this product specification deleted
+- Product Kit sorting cannot save correct data by sorting order
+
+---------------------
+Version 5.3.0
+---------------------
+New Features:
+- Point System ( Loyalty System )
+- Product Kit ( Built to Order )
+- Return Merchandise Authorization ( RMA ) 
+- Content Subscription
+- Product Export 
+- Product Kit Import
+- Customer Import
+- Stock Report
+
+Features Improvement:
+- Blog Feature: commentable using Facebook comment 
+- New Design of News & Announcement section
+- Add Tell a friend, Like button, etc. in promotional product page ( product list/ product detail) 
+- Add "Total Sale" price in sale report
+- Add store configuration for setting currency symbol position 
+
+Fixed Issues:
+- Wrong email template of subscription newsletter confirmation 
+- Reorder link should not display when order contains promotional product 
+- Error when add blank quantity discount 
+- Tax exempt option not hiding in customer detail when tax exempt is disabled 
+- Category/department/product sorting list not working for IE browser when website setting with .NET4 
+- The report graph display above calendar box in Report 
+- Search result page that get error when click "Back" button from browser 
+- Customer add/edit wholesale issue 
+- Web service issue: Product list, Order list
+
+---------------------
+Version 5.2.0
+---------------------
+New Features:
+- Product Specification
+- Product Specification : Bulk Import
+- Web Service Phase 2 (All view only)
+- Customer Multiple Address
+- Promotional Product Bundle
+
+Features Improvement:
+- Error Detail in Admin
+- Shopping Cart Session Logout
+- USPS Update
+- Google Feed Support Apparel & Product Variant
+- Google Feed Time Out Prevention
+- Search Store Configuration
+- VevoPay Test Sub domain
+- Contents Blog Style
+- News Improvement
+- URL Rewrite
+- Enable/Disable News
+
+Fixed Issues:
+- No Default Image Missing
+- Show PO Textbox
+- Category Paging Control
+
+---------------------
+Version 5.1.0
+---------------------
+New Features:
+- Facebook Tab
+- Facebook Login
+- Product Page Layout
+
+Features Improvement:
+- Google Product Feed
+- Mobile Theme Per Store
+- Dashboard Per Store
+
+Fixed Issues:
+- Gift Certificate
+
+---------------------
+Version 5.0.0
+---------------------
+New Features:
+- Mobile Commerce (Deluxe and Multi-Store version).
+- eBay Integration (Deluxe and Multi-Store version).
+- One Page Checkout (Deluxe and Multi-Store version).
+- Web service API (Deluxe and Multi-Store version).
+- Create Order / Phone Order
+- Product Comparison
+- Recently View Product
+- Product Custom Price / Donation Product
+- Product Reorder
+- Price Require Login
+- Call For Price
+- Restrict Access To Shop / Required Login
+- Min/Max Quantity Purchase 
+- Purchase Order 
+- Sales Tax Exempt
+- Free Shipping Per Product
+- Free Shipping Coupon
+- Storefront Redesign 
+- Store Administration / Back Office Redesign
+- Integration To Existing Site Enhancement
+- Configuration Search Enhancement
+- Customer Registration Approval Enhancement
+- URL Rewrite Enhancement : configurable per store
+- Default Country Dropdown : configurable per store
+
+Fixed Issues:
+- Product Bulk Import Related Product Improvement.
+- Other minor fixes and improvements.

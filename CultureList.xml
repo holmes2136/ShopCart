@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rows>
+  <Row>
+    <CultureName>af</CultureName>
+    <Language-Region>Afrikaans</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>af-ZA</CultureName>
+    <Language-Region>Afrikaans - South Africa</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sq</CultureName>
+    <Language-Region>Albanian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sq-AL</CultureName>
+    <Language-Region>Albanian - Albania</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar</CultureName>
+    <Language-Region>Arabic</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-DZ</CultureName>
+    <Language-Region>Arabic - Algeria</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-BH</CultureName>
+    <Language-Region>Arabic - Bahrain</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-EG</CultureName>
+    <Language-Region>Arabic - Egypt</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-IQ</CultureName>
+    <Language-Region>Arabic - Iraq</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-JO</CultureName>
+    <Language-Region>Arabic - Jordan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-KW</CultureName>
+    <Language-Region>Arabic - Kuwait</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-LB</CultureName>
+    <Language-Region>Arabic - Lebanon</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-LY</CultureName>
+    <Language-Region>Arabic - Libya</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-MA</CultureName>
+    <Language-Region>Arabic - Morocco</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-OM</CultureName>
+    <Language-Region>Arabic - Oman</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-QA</CultureName>
+    <Language-Region>Arabic - Qatar</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-SA</CultureName>
+    <Language-Region>Arabic - Saudi Arabia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-SY</CultureName>
+    <Language-Region>Arabic - Syria</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-TN</CultureName>
+    <Language-Region>Arabic - Tunisia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-AE</CultureName>
+    <Language-Region>Arabic - United Arab Emirates</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ar-YE</CultureName>
+    <Language-Region>Arabic - Yemen</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>hy</CultureName>
+    <Language-Region>Armenian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>hy-AM</CultureName>
+    <Language-Region>Armenian - Armenia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>az</CultureName>
+    <Language-Region>Azeri</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>az-AZ-Cyrl</CultureName>
+    <Language-Region>Azeri (Cyrillic) - Azerbaijan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>az-AZ-Latn</CultureName>
+    <Language-Region>Azeri (Latin) - Azerbaijan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>eu</CultureName>
+    <Language-Region>Basque</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>eu-ES</CultureName>
+    <Language-Region>Basque - Basque</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>be</CultureName>
+    <Language-Region>Belarusian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>be-BY</CultureName>
+    <Language-Region>Belarusian - Belarus</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>bg</CultureName>
+    <Language-Region>Bulgarian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>bg-BG</CultureName>
+    <Language-Region>Bulgarian - Bulgaria</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ca</CultureName>
+    <Language-Region>Catalan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ca-ES</CultureName>
+    <Language-Region>Catalan - Catalan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>zh-HK</CultureName>
+    <Language-Region>Chinese - Hong Kong SAR</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>zh-MO</CultureName>
+    <Language-Region>Chinese - Macao SAR</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>zh-CN</CultureName>
+    <Language-Region>Chinese - China</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>zh-CHS</CultureName>
+    <Language-Region>Chinese (Simplified)</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>zh-SG</CultureName>
+    <Language-Region>Chinese - Singapore</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>zh-TW</CultureName>
+    <Language-Region>Chinese - Taiwan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>zh-CHT</CultureName>
+    <Language-Region>Chinese (Traditional)</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>hr</CultureName>
+    <Language-Region>Croatian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>hr-HR</CultureName>
+    <Language-Region>Croatian - Croatia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>cs</CultureName>
+    <Language-Region>Czech</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>cs-CZ</CultureName>
+    <Language-Region>Czech - Czech Republic</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>da</CultureName>
+    <Language-Region>Danish</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>da-DK</CultureName>
+    <Language-Region>Danish - Denmark</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>div</CultureName>
+    <Language-Region>Dhivehi</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>div-MV</CultureName>
+    <Language-Region>Dhivehi - Maldives</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>nl</CultureName>
+    <Language-Region>Dutch</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>nl-BE</CultureName>
+    <Language-Region>Dutch - Belgium</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>nl-NL</CultureName>
+    <Language-Region>Dutch - The Netherlands</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en</CultureName>
+    <Language-Region>English</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-AU</CultureName>
+    <Language-Region>English - Australia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-BZ</CultureName>
+    <Language-Region>English - Belize</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-CA</CultureName>
+    <Language-Region>English - Canada</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-CB</CultureName>
+    <Language-Region>English - Caribbean</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-IE</CultureName>
+    <Language-Region>English - Ireland</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-JM</CultureName>
+    <Language-Region>English - Jamaica</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-NZ</CultureName>
+    <Language-Region>English - New Zealand</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-PH</CultureName>
+    <Language-Region>English - Philippines</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-ZA</CultureName>
+    <Language-Region>English - South Africa</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-TT</CultureName>
+    <Language-Region>English - Trinidad and Tobago</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-GB</CultureName>
+    <Language-Region>English - United Kingdom</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-US</CultureName>
+    <Language-Region>English - United States</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>en-ZW</CultureName>
+    <Language-Region>English - Zimbabwe</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>et</CultureName>
+    <Language-Region>Estonian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>et-EE</CultureName>
+    <Language-Region>Estonian - Estonia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fo</CultureName>
+    <Language-Region>Faroese</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fo-FO</CultureName>
+    <Language-Region>Faroese - Faroe Islands</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fa</CultureName>
+    <Language-Region>Farsi</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fa-IR</CultureName>
+    <Language-Region>Farsi - Iran</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fi</CultureName>
+    <Language-Region>Finnish</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fi-FI</CultureName>
+    <Language-Region>Finnish - Finland</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fr</CultureName>
+    <Language-Region>French</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fr-BE</CultureName>
+    <Language-Region>French - Belgium</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fr-CA</CultureName>
+    <Language-Region>French - Canada</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fr-FR</CultureName>
+    <Language-Region>French - France</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fr-LU</CultureName>
+    <Language-Region>French - Luxembourg</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fr-MC</CultureName>
+    <Language-Region>French - Monaco</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>fr-CH</CultureName>
+    <Language-Region>French - Switzerland</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>gl</CultureName>
+    <Language-Region>Galician</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>gl-ES</CultureName>
+    <Language-Region>Galician - Galician</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ka</CultureName>
+    <Language-Region>Georgian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ka-GE</CultureName>
+    <Language-Region>Georgian - Georgia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>de</CultureName>
+    <Language-Region>German</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>de-AT</CultureName>
+    <Language-Region>German - Austria</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>de-DE</CultureName>
+    <Language-Region>German - Germany</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>de-LI</CultureName>
+    <Language-Region>German - Liechtenstein</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>de-LU</CultureName>
+    <Language-Region>German - Luxembourg</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>de-CH</CultureName>
+    <Language-Region>German - Switzerland</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>el</CultureName>
+    <Language-Region>Greek</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>el-GR</CultureName>
+    <Language-Region>Greek - Greece</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>gu</CultureName>
+    <Language-Region>Gujarati</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>gu-IN</CultureName>
+    <Language-Region>Gujarati - India</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>he</CultureName>
+    <Language-Region>Hebrew</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>he-IL</CultureName>
+    <Language-Region>Hebrew - Israel</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>hi</CultureName>
+    <Language-Region>Hindi</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>hi-IN</CultureName>
+    <Language-Region>Hindi - India</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>hu</CultureName>
+    <Language-Region>Hungarian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>hu-HU</CultureName>
+    <Language-Region>Hungarian - Hungary</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>is</CultureName>
+    <Language-Region>Icelandic</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>is-IS</CultureName>
+    <Language-Region>Icelandic - Iceland</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>id</CultureName>
+    <Language-Region>Indonesian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>id-ID</CultureName>
+    <Language-Region>Indonesian - Indonesia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>it</CultureName>
+    <Language-Region>Italian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>it-IT</CultureName>
+    <Language-Region>Italian - Italy</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>it-CH</CultureName>
+    <Language-Region>Italian - Switzerland</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ja</CultureName>
+    <Language-Region>Japanese</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ja-JP</CultureName>
+    <Language-Region>Japanese - Japan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>kn</CultureName>
+    <Language-Region>Kannada</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>kn-IN</CultureName>
+    <Language-Region>Kannada - India</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>kk</CultureName>
+    <Language-Region>Kazakh</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>kk-KZ</CultureName>
+    <Language-Region>Kazakh - Kazakhstan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>kok</CultureName>
+    <Language-Region>Konkani</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>kok-IN</CultureName>
+    <Language-Region>Konkani - India</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ko</CultureName>
+    <Language-Region>Korean</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ko-KR</CultureName>
+    <Language-Region>Korean - Korea</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ky</CultureName>
+    <Language-Region>Kyrgyz</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ky-KG</CultureName>
+    <Language-Region>Kyrgyz - Kyrgyzstan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>lv</CultureName>
+    <Language-Region>Latvian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>lv-LV</CultureName>
+    <Language-Region>Latvian - Latvia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>lt</CultureName>
+    <Language-Region>Lithuanian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>lt-LT</CultureName>
+    <Language-Region>Lithuanian - Lithuania</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>mk</CultureName>
+    <Language-Region>Macedonian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>mk-MK</CultureName>
+    <Language-Region>Macedonian - Former Yugoslav Republic of Macedonia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ms</CultureName>
+    <Language-Region>Malay</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ms-BN</CultureName>
+    <Language-Region>Malay - Brunei</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ms-MY</CultureName>
+    <Language-Region>Malay - Malaysia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>mr</CultureName>
+    <Language-Region>Marathi</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>mr-IN</CultureName>
+    <Language-Region>Marathi - India</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>mn</CultureName>
+    <Language-Region>Mongolian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>mn-MN</CultureName>
+    <Language-Region>Mongolian - Mongolia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>no</CultureName>
+    <Language-Region>Norwegian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>nb-NO</CultureName>
+    <Language-Region>Norwegian (Bokmål) - Norway</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>nn-NO</CultureName>
+    <Language-Region>Norwegian (Nynorsk) - Norway</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>pl</CultureName>
+    <Language-Region>Polish</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>pl-PL</CultureName>
+    <Language-Region>Polish - Poland</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>pt</CultureName>
+    <Language-Region>Portuguese</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>pt-BR</CultureName>
+    <Language-Region>Portuguese - Brazil</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>pt-PT</CultureName>
+    <Language-Region>Portuguese - Portugal</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>pa</CultureName>
+    <Language-Region>Punjabi</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>pa-IN</CultureName>
+    <Language-Region>Punjabi - India</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ro</CultureName>
+    <Language-Region>Romanian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ro-RO</CultureName>
+    <Language-Region>Romanian - Romania</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ru</CultureName>
+    <Language-Region>Russian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ru-RU</CultureName>
+    <Language-Region>Russian - Russia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sa</CultureName>
+    <Language-Region>Sanskrit</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sa-IN</CultureName>
+    <Language-Region>Sanskrit - India</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sr-SP-Cyrl</CultureName>
+    <Language-Region>Serbian (Cyrillic) - Serbia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sr-SP-Latn</CultureName>
+    <Language-Region>Serbian (Latin) - Serbia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sk</CultureName>
+    <Language-Region>Slovak</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sk-SK</CultureName>
+    <Language-Region>Slovak - Slovakia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sl</CultureName>
+    <Language-Region>Slovenian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sl-SI</CultureName>
+    <Language-Region>Slovenian - Slovenia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es</CultureName>
+    <Language-Region>Spanish</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-AR</CultureName>
+    <Language-Region>Spanish - Argentina</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-BO</CultureName>
+    <Language-Region>Spanish - Bolivia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-CL</CultureName>
+    <Language-Region>Spanish - Chile</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-CO</CultureName>
+    <Language-Region>Spanish - Colombia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-CR</CultureName>
+    <Language-Region>Spanish - Costa Rica</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-DO</CultureName>
+    <Language-Region>Spanish - Dominican Republic</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-EC</CultureName>
+    <Language-Region>Spanish - Ecuador</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-SV</CultureName>
+    <Language-Region>Spanish - El Salvador</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-GT</CultureName>
+    <Language-Region>Spanish - Guatemala</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-HN</CultureName>
+    <Language-Region>Spanish - Honduras</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-MX</CultureName>
+    <Language-Region>Spanish - Mexico</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-NI</CultureName>
+    <Language-Region>Spanish - Nicaragua</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-PA</CultureName>
+    <Language-Region>Spanish - Panama</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-PY</CultureName>
+    <Language-Region>Spanish - Paraguay</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-PE</CultureName>
+    <Language-Region>Spanish - Peru</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-PR</CultureName>
+    <Language-Region>Spanish - Puerto Rico</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-ES</CultureName>
+    <Language-Region>Spanish - Spain</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-UY</CultureName>
+    <Language-Region>Spanish - Uruguay</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>es-VE</CultureName>
+    <Language-Region>Spanish - Venezuela</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sw</CultureName>
+    <Language-Region>Swahili</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sw-KE</CultureName>
+    <Language-Region>Swahili - Kenya</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sv</CultureName>
+    <Language-Region>Swedish</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sv-FI</CultureName>
+    <Language-Region>Swedish - Finland</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>sv-SE</CultureName>
+    <Language-Region>Swedish - Sweden</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>syr</CultureName>
+    <Language-Region>Syriac</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>syr-SY</CultureName>
+    <Language-Region>Syriac - Syria</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ta</CultureName>
+    <Language-Region>Tamil</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ta-IN</CultureName>
+    <Language-Region>Tamil - India</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>tt</CultureName>
+    <Language-Region>Tatar</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>tt-RU</CultureName>
+    <Language-Region>Tatar - Russia</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>te</CultureName>
+    <Language-Region>Telugu</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>te-IN</CultureName>
+    <Language-Region>Telugu - India</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>th</CultureName>
+    <Language-Region>Thai</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>th-TH</CultureName>
+    <Language-Region>Thai - Thailand</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>tr</CultureName>
+    <Language-Region>Turkish</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>tr-TR</CultureName>
+    <Language-Region>Turkish - Turkey</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>uk</CultureName>
+    <Language-Region>Ukrainian</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>uk-UA</CultureName>
+    <Language-Region>Ukrainian - Ukraine</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ur</CultureName>
+    <Language-Region>Urdu</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>ur-PK</CultureName>
+    <Language-Region>Urdu - Pakistan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>uz</CultureName>
+    <Language-Region>Uzbek</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>uz-UZ-Cyrl</CultureName>
+    <Language-Region>Uzbek (Cyrillic) - Uzbekistan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>uz-UZ-Latn</CultureName>
+    <Language-Region>Uzbek (Latin) - Uzbekistan</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>vi</CultureName>
+    <Language-Region>Vietnamese</Language-Region>
+  </Row>
+  <Row>
+    <CultureName>vi-VN</CultureName>
+    <Language-Region>Vietnamese - Vietnam</Language-Region>
+  </Row>
+</Rows>

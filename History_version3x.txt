@@ -1,0 +1,211 @@
+VevoCart Control System
+
+==============================================================
+Update History
+==============================================================
+
+---------------------
+Version 3.1.1
+---------------------
+New Features:
+- Added more shipping options for real-time USPS shipping rates (First Class, etc.)
+
+Fixed Issues:
+- Report could not be used with Admin website that has SSL-enabled.(Deluxe Only)
+- Today's special did not rotate correctly.(Professional Only)
+- Using medium trust caused an error with BetterImageProcessorQuantization.dll
+- When disabled "Require shipping address", customer registration validatoin still showed shipping address errors.
+- Other minor fixes and improvements.
+
+
+---------------------
+Version 3.1.0
+---------------------
+Deluxe Features:
+- Advanced Tax Feature: Tax rates can be configurable per shipping destination and per product.
+
+New Features:
+- Anonymous Checkout: Customers can check out without creating a user account.
+- Support RBS WorldPay payment gateway.
+- Improve loading speed in category and product list pages.
+
+Fixed Issues:
+- Customer Review could not disable from the Admin website menu.
+- Product names with diacritics (such as in German or Turkey) had problems displaying in product list.
+- Bulk import with hugh number of products could create database transaction errors.
+
+
+---------------------
+Version 3.0.4
+---------------------
+New Features:
+- Card Holder's Name field for Offline Credit Card Payment.
+
+Fixed Issues:
+- Affiliate cookies might not work correctly if server regional settings were not English/Western characters.
+- Calendar input and search filters in back office had problems if date format were not mm/dd/yyyy.
+- Deleting products that were in customer's gift registries could create an error.
+- Clicking "Generate Affiliate Link" without selecting any category or product caused an error.
+- Newsletter Unsubcribe link did not work in FCKEditor.
+- Recurring amount was not correct if trial amount and regular amount are not the same.
+
+
+---------------------
+Version 3.0.3
+---------------------
+Deluxe Features:
+- Affiliate system.
+- Recurring payment for PayPal Website Payment Pro (US).
+- QuickBooks integration via T-HUB software.
+- Report system.
+
+New Features:
+- To avoid confusion of imcomplete orders, order history in the storefront will not be shown to customers if "Payment Complete" flag is not set.
+- Allow searching, sorting, and paging in several storefront pages such as Order History.
+- Allow enable/disable customer and affiliate accounts. Disabled accounts cannot log in.
+
+Fixed Issues:
+- FedEx Test Mode setting (Yes and No) in Advanced Admin panel was reverse.
+
+
+---------------------
+Version 3.0.2a
+---------------------
+Fixed Issues:
+- Bulk Import Overwrite option did not work correctly.
+- "More" link in News & Events section caused error if "Admin" folder was deleted.
+- Disabled "Require Shipping Address" option would cause error in Order Edit screen of Advanced Admin panel.
+- Orders with Google Checkout did not include handling fees.
+- PayPal Pro UK processed credit cards with "Authorize" instead of "Sales".
+
+
+---------------------
+Version 3.0.2
+---------------------
+New Features:
+- ProtX payment gateway.
+- Allow searching language keywords in Admin website by either keywords or values.
+- Options to show SKU/stock in the storefront product details.
+- Option to calculate tax after applying discount.
+- Option to enable/disable gift certificate.
+- Option to display stock numbers for products in the storefront.
+- "Forgot Password" feature will first send out confirmation email to prevent accidentally password reset.
+- Speeding up drop down filter in Admin website by preventing post-backs, except for "(Show All)".
+- Improved Bulk Import by adding more validations and detailed errors messages.
+- Allow using browser's "Open Link in New Window" menu for Admin Advanced.
+- Speeding up drop down filter in Admin website by preventing post-backs, except for "(Show All)".
+- Copying products no longer copy product images.
+- Weight in by-weight shipping shipping rules can use decimal points.
+- Minimum and maximum order amounts can use decimal points.
+- Added "(Tax included)" wording in shopping cart page for "Price includes tax" feature for clarification.
+- Category ID section in Coupon now allows entering higher level categories to be entered, not just the direct parent categories of products.
+- Mini Cart amount shows product subtotal with no shipping cost to be consistent with the regular shopping cart page.
+- Allow payment in full by coupon and gift certificate.
+- An option to use plain twext editor instead of HTML editor to improve newer browser compatibility/
+- The Coupon page in Admin panel does not allow adding invalid Product IDs, Category IDs, and user names.
+- Link to add coupon will be showed up in Order Summary page if shipping is disabled.
+- Ajax-enabed upload controls in Advanced Admin panel.
+- Force the base currency to always has the conversion rate of 1.0.
+- Merged Web.conig to allow using in all versions of IIS with no modification.
+- Prevent problems with some SMTP in "From" field for Contact Us and Tell-A-Friend features.
+- Gift certificates now redeem handling fees.
+- Deleting products will not delete image files that are used by other products.
+- Added "(Tax included)" wording in shopping cart page for "Price includes tax" feature for clarification.
+- Category ID section in Coupon now allows higher level categories to be entered, not just the direct parent categories of products.
+- Mini Cart amount shows product subtotal with no shipping cost to be consistent with the regular shopping cart page.
+- An option to use plain text editor instead of HTML editor to improve newer browser compatibility.
+- The Coupon page in Admin panel does not allow adding invalid Product IDs, Category IDs, and user names.
+- Link to add coupon will be showed up in Order Summary page if shipping is disabled.
+- Prevent problems with some SMTP in "From" field for Contact Us and Tell-A-Friend features.
+- Other minor fixes and cosmetic changes.
+
+Fixed Issues:
+- Related products showed Product ID instead of their prices.
+- Incorrect shipping cost calculation for shipping by weight method.
+- Multi-category products showed multiple lines in Admin order details.
+- Using bulk import with a lot of items could cause problems in SQL Server.
+- Tax might not be calculated correctly for "Price includes tax" option.
+- Deleting product images sometimes caused a file in used error.
+- Shopping Cart page showed only total from items with tax.
+- Some Admin and AdminAdvanced pages showed invalid permissions.
+- Publish command in Visual Studio failed due to duplciated class names.
+- Admin Recovery page did not save the correct parameters.
+- Invalid email address caused order processing to fail.
+- Admin View Only permissions did not disable some update buttons.
+- HTML text editor (FreeTextBox) might not work if Admin folder was removed.
+- Special Offer images was not shown up when enabled in Admin panel.
+- <br> tags in 2Checkout product name.
+- Google Checkout did not calculate tax correctly if more than one items were ordered.
+- Datafeed files had incorrect link in Admin Advanced.
+- Somes captchas did not validate correctly.
+- Incompatibility of Medium Trust with Advanced Search.
+- Disabling Merchant Rating option hid "Add Review" button even though Customer Review option was enabled.
+- Global "User Inventory" option did not prevent some products from keeping inventories.
+- Products with no inventory still showed inventory numbers in Admin Product List.
+- Renaming Culture name (e.g. from en-US to en-GB) might break existing configurations (e.g. Default Website Language).
+- Search filter in Admin might not work for some parameters.
+- Some data inconsistence between MS Access and SQL Server database data.
+- Adding products with options to wish list twice was not allowed.
+
+
+---------------------
+Version 3.0.1
+---------------------
+New Features:
+- Advanced Admin Website.
+- LinkPoint payment gateway.
+- SSL-enabled option for connecting with SMTP.
+- If there is only one payment option or shipping option, there will be no selection prompt.
+- Other minor fixes and cosmetic changes.
+
+Fixed Issues:
+- Newsletter unsubscribe link did not work.
+- Update content might not work.
+- Products & categories URL followed the last saved language instead of the setting in configuration.
+- Bulk import stock numbers by product options only imported the first option.
+- Products with multiple categories might show up multiple times in search.
+- State & Countries menu in Admin website still allow non-Modify permission admin users to edit.
+- Gift Registry Item List did not refresh when switching currency.
+
+
+---------------------
+Version 3.0.0
+---------------------
+New Features:
+- Wish List.
+- Gift Certificate.
+- Gift Registry.
+- AJAX-enabled storefront.
+- Support USPS real-time shipping rate.
+- Support weight-based shipping calculation.
+- Allow adding custom shipping methods.
+- Support handling fees.
+- UPS/FedEx/USPS tracking number entering.
+- Editing states and countries in the Admin website.
+- Each product can be in multiple categories.
+- Configurable storefront. Turn components such as Today's Special, Bestsellers visibility on/off.
+- Dynamic sitemap page.
+- Allow up to three wholesale levels.
+- More payment gateways: LinkPoint, Google Checkout UK, PayPal Pro UK, Moneris, QuickBooks Merchant Service, offline credit card processing.
+- More product comparison networks: Shopping.com, Amazon Product Ads, Yahoo! Shopping, Shopzilla, PriceGrabber.com
+- Google Analytics support.
+- Enhance Coupon feature to be able to restrict usage by products, categories, users, and order amounts.
+- Tax enhancement: can apply to shipping cost, tax can be inclusive with product price.
+- Category tree & cascade menu in the store front.
+- Category enhancement: sortable, active/inactive, and more.
+- Configurable number of items per page for using in storefront drop-down list.
+- Support SSL for Admin website.
+- Allow renaming Admin Advanced website.
+- Product enhancement: multiple images, zooming, inventory control on/off, taxable on/off, copy/quick add.
+- New product option type: Image Upload.
+- Packing slip and invoice printing in the Admin panel.
+- Product option can be used for stock keeping.
+- Email template editing in the Admin website.
+- Other minor fixes and cosmetic changes.
+
+Fixed Issues:
+- Bestselling products were always shown in English, even switching to other languages.
+- Shipping country and state may not be saved correctly in My Account update.
+- vevo:Image control's MaximumWidth may not work correctly.
+- Coupon discount by price discounted amount per product quantity, not by discount amount per order. The new version use discount per order total.
+- Quantity discount accumulated all purchases of products that have the same DiscountGroup together, instead of accumulating only within the same products.

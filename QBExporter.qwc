@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<QBWCXML>
+  <AppName>QBExporter</AppName>
+  <AppID></AppID>
+  <AppURL>http://localhost/VevoCart/QBWCServices.asmx</AppURL>
+  <AppDescription>A short description for WCWebService1</AppDescription>
+  <AppSupport>http://localhost/VevoCart/QBWCServices.asmx?wsdl</AppSupport>
+  <OwnerID>{8F581DC3-1E77-4d12-A1BA-AB7DE06FF52C}</OwnerID>
+  <FileID>{81A53159-03D5-4e62-AADE-D6035F4060F6}</FileID>
+  <UserName>admin</UserName>
+  <QBType>QBFS</QBType>
+  <Style>Document</Style>
+  <AuthFlags>0xF</AuthFlags>
+</QBWCXML>
