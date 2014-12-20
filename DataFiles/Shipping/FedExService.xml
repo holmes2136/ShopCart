@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Services>
+  <Service>
+    <Code>01</Code>
+    <Name>PRIORITY_OVERNIGHT</Name>
+    <DisplayName>FedEx Priority Overnight</DisplayName>
+  </Service>
+  <Service>
+    <Code>02</Code>
+    <Name>STANDARD_OVERNIGHT</Name>
+    <DisplayName>FedEx Standard Overnight</DisplayName>
+  </Service>
+  <Service>
+    <Code>03</Code>
+    <Name>FIRST_OVERNIGHT</Name>
+    <DisplayName>FedEx First Overnight</DisplayName>
+  </Service>
+  <Service>
+    <Code>04</Code>
+    <Name>FEDEX_2_DAY</Name>
+    <DisplayName>FedEx 2 Day</DisplayName>
+  </Service>
+  <Service>
+    <Code>05</Code>
+    <Name>FEDEX_EXPRESS_SAVER</Name>
+    <DisplayName>FedEx Express Saver</DisplayName>
+  </Service>
+  <Service>
+    <Code>06</Code>
+    <Name>INTERNATIONAL_PRIORITY</Name>
+    <DisplayName>FedEx International Priority</DisplayName>
+  </Service>
+  <Service>
+    <Code>07</Code>
+    <Name>INTERNATIONAL_ECONOMY</Name>
+    <DisplayName>FedEx International Economy</DisplayName>
+  </Service>
+  <Service>
+    <Code>08</Code>
+    <Name>INTERNATIONAL_FIRST</Name>
+    <DisplayName>FedEx International First</DisplayName>
+  </Service>
+  <Service>
+    <Code>09</Code>
+    <Name>FEDEX_1_DAY_FREIGHT</Name>
+    <DisplayName>FedEx 1 Day Freight</DisplayName>
+  </Service>
+  <Service>
+    <Code>10</Code>
+    <Name>FEDEX_2_DAY_FREIGHT</Name>
+    <DisplayName>FedEx 2 Day Freight</DisplayName>
+  </Service>
+  <Service>
+    <Code>11</Code>
+    <Name>FEDEX_3_DAY_FREIGHT</Name>
+    <DisplayName>FedEx 3 Day Freight</DisplayName>
+  </Service>
+  <Service>
+    <Code>12</Code>
+    <Name>FEDEX_GROUND</Name>
+    <DisplayName>FedEx Ground</DisplayName>
+  </Service>
+  <Service>
+    <Code>13</Code>
+    <Name>GROUND_HOME_DELIVERY</Name>
+    <DisplayName>FedEx Ground Home Delivery</DisplayName>
+  </Service>
+  <Service>
+    <Code>14</Code>
+    <Name>INTERNATIONAL_PRIORITY_FREIGHT</Name>
+    <DisplayName>FedEx International Priority Freight</DisplayName>
+  </Service>
+  <Service>
+    <Code>15</Code>
+    <Name>INTERNATIONAL_ECONOMY_FREIGHT</Name>
+    <DisplayName>FedEx Internation Economy Freight</DisplayName>
+  </Service>
+  <Service>
+    <Code>16</Code>
+    <Name>EUROPE_FIRST_INTERNATIONAL_PRIORITY</Name>
+    <DisplayName>FedEx Europe First Internation Priority</DisplayName>
+  </Service>
+</Services>

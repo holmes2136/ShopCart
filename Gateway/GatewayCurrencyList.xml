@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<GatewayCurrencyList>
+  <Currencies>
+    <Currency>
+      <Name>United Arab Emirates Dirham</Name>
+      <CurrencyCode>AED</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Argentine Peso</Name>
+      <CurrencyCode>ARS</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Austrian Schilling</Name>
+      <CurrencyCode>ATS</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Australian Dollar</Name>
+      <CurrencyCode>AUD</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Belgian Franc</Name>
+      <CurrencyCode>BEF</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Brazil Real</Name>
+      <CurrencyCode>BRL</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Canadian Dollar</Name>
+      <CurrencyCode>CAD</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Swiss Franc</Name>
+      <CurrencyCode>CHF</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Chilean Peso</Name>
+      <CurrencyCode>CLP</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Chinese Yuan</Name>
+      <CurrencyCode>CNY</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Colombian Peso</Name>
+      <CurrencyCode>COP</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Cyprus Pound</Name>
+      <CurrencyCode>CYP</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Czech Koruna</Name>
+      <CurrencyCode>CZK</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>German Mark</Name>
+      <CurrencyCode>DEM</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Danish Krone</Name>
+      <CurrencyCode>DKK</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Estonian Kroon</Name>
+      <CurrencyCode>EEK</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Spanish Peseta</Name>
+      <CurrencyCode>ESP</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Euro</Name>
+      <CurrencyCode>EUR</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Finnish Mark</Name>
+      <CurrencyCode>FIM</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>French Franc</Name>
+      <CurrencyCode>FRF</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>British Pound</Name>
+      <CurrencyCode>GBP</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Greek Drachma</Name>
+      <CurrencyCode>GRD</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Guatemalan Quetzal</Name>
+      <CurrencyCode>GTQ</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Hong Kong Dollar</Name>
+      <CurrencyCode>HKD</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Hungarian Forint</Name>
+      <CurrencyCode>HUF</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Indonesian Rupiah</Name>
+      <CurrencyCode>IDR</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Irish Pound</Name>
+      <CurrencyCode>IEP</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Israeli Shekel</Name>
+      <CurrencyCode>ILS</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Indian Rupee</Name>
+      <CurrencyCode>INR</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Iceland Krona</Name>
+      <CurrencyCode>ISK</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Italian Lire</Name>
+      <CurrencyCode>ITL</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Japanese Yen</Name>
+      <CurrencyCode>JPY</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Kenyan Shilling</Name>
+      <CurrencyCode>KES</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>South Korean Won</Name>
+      <CurrencyCode>KRW</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Kuwaiti Dinar</Name>
+      <CurrencyCode>KWD</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Luxembourgian Franc</Name>
+      <CurrencyCode>LUF</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Maltese Liri</Name>
+      <CurrencyCode>MTL</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Mexican Peso</Name>
+      <CurrencyCode>MXN</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Malaysian Ringgit</Name>
+      <CurrencyCode>MYR</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Netherlands Guilder</Name>
+      <CurrencyCode>NLG</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Norwegian Krone</Name>
+      <CurrencyCode>NOK</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>New Zealand Dollar</Name>
+      <CurrencyCode>NZD</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Peruvian Nuevo Sol</Name>
+      <CurrencyCode>PEN</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Philippine Peso</Name>
+      <CurrencyCode>PHP</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Polish Zloty</Name>
+      <CurrencyCode>PLN</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Portuguese Escudo</Name>
+      <CurrencyCode>PTE</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Saudi Riyal</Name>
+      <CurrencyCode>SAR</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Swedish Krona</Name>
+      <CurrencyCode>SEK</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Singapore Dollar</Name>
+      <CurrencyCode>SGD</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Slovak Koruna</Name>
+      <CurrencyCode>SKK</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Thai Baht</Name>
+      <CurrencyCode>THB</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Turkish Lira</Name>
+      <CurrencyCode>TRY</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Taiwan Dollar</Name>
+      <CurrencyCode>TWD</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>U.S. Dollar</Name>
+      <CurrencyCode>USD</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>Vietnamese Dong</Name>
+      <CurrencyCode>VND</CurrencyCode>
+    </Currency>
+    <Currency>
+      <Name>South African Rand</Name>
+      <CurrencyCode>ZAR</CurrencyCode>
+    </Currency>
+  </Currencies>
+</GatewayCurrencyList>

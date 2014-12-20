@@ -1,0 +1,11 @@
+ProductKitGroupID,Sku,Quantity,IsUserDefinedQuantity,IsDefault
+1,RR05531,1,No,Yes
+1,RRT0012,2,Yes,No
+1,RRT044,3,No,No
+3,RDT0023,4,Yes,No
+3,RDT0032,1,No,Yes
+4,SF0086,2,No,No
+4,SF0001,3,No,No
+4,SF0322,4,Yes,No
+4,LPD33ax,5,Yes,Yes
+4,LW000123,6,Yes,No

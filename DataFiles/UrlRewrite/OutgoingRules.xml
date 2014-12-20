@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<OutgoingRules>
+  <Domain URL="Default">
+    <CategoryRule>~/{CategoryName}-list.aspx</CategoryRule>
+    <DepartmentRule>~/{DepartmentName}-items.aspx</DepartmentRule>
+    <ManufacturerRule>~/{ManufacturerName}-products.aspx</ManufacturerRule>
+    <ProductRule>~/{ProductName}-details.aspx</ProductRule>
+    <TellFriendRule>~/TellFriend.aspx?ProductName={0}</TellFriendRule>
+    <CustomerReviewRule>~/CustomerReview.aspx?ProductName={0}</CustomerReviewRule>
+    <ContentRule>~/{ContentName}-content.aspx</ContentRule>
+    <ContentMenuRule>~/{ContentMenuItemName}-contentlist.aspx</ContentMenuRule>
+    <NewsRule>~/{NewsName}-news.aspx</NewsRule>
+    <BlogRule>~/Blog/{BlogName}-blog.aspx</BlogRule>
+    <BlogListRule>~/Blog/{BlogListName}-bloglist.aspx</BlogListRule>
+    <BlogCategoryListRule>~/Blog/{CategoryName}-categorylist.aspx</BlogCategoryListRule>
+    <PromoRule>~/{PromoName}-promo.aspx</PromoRule>
+  </Domain>
+  <!--<Domain URL="www.MyVevoCart.com/Store1">  
+	<CategoryRule>~/MyCat-{CategoryName}-MyID-{CategoryID}-list.aspx</CategoryRule>
+    <DepartmentRule>~/VevoCart-{DepartmentName}-items.aspx</DepartmentRule>
+    <ProductRule>~/MyID-{ProductID}-MyProd-{ProductName}-details.aspx</ProductRule>
+    <TellFriendRule>~/TellFriend.aspx?ProductName={0}</TellFriendRule>
+    <CustomerReviewRule>~/CustomerReview.aspx?ProductName={0}</CustomerReviewRule>
+    <ContentRule>~/{ContentName}-Hot-content.aspx</ContentRule>
+    <ContentMenuRule>~/{ContentMenuItemName}-contentlist.aspx</ContentMenuRule>
+	<NewsRule>~/{NewsID}-{NewsName}-news.aspx</NewsRule>
+	<PromoRule>~/{PromoID}-{PromoName}-promo.aspx</PromoRule>
+  </Domain>-->
+</OutgoingRules>

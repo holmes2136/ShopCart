@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Services>
+  <!-- Domestic Shipping Method-->
+  <Service>
+    <Code>0</Code>
+    <USPSCode>4</USPSCode>
+    <Name>Standard Post&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt;</Name>
+  </Service>
+  <Service>
+    <Code>1</Code>
+    <USPSCode>6</USPSCode>
+    <Name>Media Mail&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt;</Name>
+  </Service>
+  <Service>
+    <Code>2</Code>
+    <USPSCode>7</USPSCode>
+    <Name>Library Mail</Name>
+  </Service>
+  <Service>
+    <Code>3</Code>
+    <USPSCode>1</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt;</Name>
+  </Service>
+  <Service>
+    <Code>4</Code>
+    <USPSCode>16</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>5</Code>
+    <USPSCode>17</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Medium Flat Rate Box</Name>
+  </Service>
+  <Service>
+    <Code>6</Code>
+    <USPSCode>22</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Large Flat Rate Box</Name>
+  </Service>
+  <Service>
+    <Code>7</Code>
+    <USPSCode>28</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Small Flat Rate Box</Name>
+  </Service>
+  <Service>
+    <Code>8</Code>
+    <USPSCode>29</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Padded Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>9</Code>
+    <USPSCode>33</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>10</Code>
+    <USPSCode>34</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Large Flat Rate Box Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>11</Code>
+    <USPSCode>35</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Medium Flat Rate Box Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>12</Code>
+    <USPSCode>36</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Small Flat Rate Box Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>13</Code>
+    <USPSCode>37</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Flat Rate Envelope Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>14</Code>
+    <USPSCode>38</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Gift Card Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>15</Code>
+    <USPSCode>39</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Gift Card Flat Rate Envelope Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>16</Code>
+    <USPSCode>40</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Window Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>17</Code>
+    <USPSCode>41</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Window Flat Rate Envelope Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>18</Code>
+    <USPSCode>42</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Small Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>19</Code>
+    <USPSCode>43</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Small Flat Rate Envelope Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>20</Code>
+    <USPSCode>44</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Legal Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>21</Code>
+    <USPSCode>45</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Legal Flat Rate Envelope Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>22</Code>
+    <USPSCode>46</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Padded Flat Rate Envelope Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>23</Code>
+    <USPSCode>47</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Regional Rate Box A</Name>
+  </Service>
+  <Service>
+    <Code>24</Code>
+    <USPSCode>48</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Regional Rate Box A Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>25</Code>
+    <USPSCode>49</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Regional Rate Box B</Name>
+  </Service>
+  <Service>
+    <Code>26</Code>
+    <USPSCode>50</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Regional Rate Box B Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>27</Code>
+    <USPSCode>58</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Regional Rate Box C</Name>
+  </Service>
+  <Service>
+    <Code>28</Code>
+    <USPSCode>59</USPSCode>
+    <Name>Priority Mail &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Regional Rate Box C Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>29</Code>
+    <USPSCode>3</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt;</Name>
+  </Service>
+  <Service>
+    <Code>30</Code>
+    <USPSCode>2</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>31</Code>
+    <USPSCode>13</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>32</Code>
+    <USPSCode>23</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Sunday/Holiday Delivery</Name>
+  </Service>
+  <Service>
+    <Code>33</Code>
+    <USPSCode>25</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Sunday/Holiday Delivery Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>34</Code>
+    <USPSCode>27</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Flat Rate Envelope Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>35</Code>
+    <USPSCode>30</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Legal Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>36</Code>
+    <USPSCode>31</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Legal Flat Rate Envelope Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>37</Code>
+    <USPSCode>32</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Sunday/Holiday Delivery Legal Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>38</Code>
+    <USPSCode>55</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Flat Rate Boxes</Name>
+  </Service>
+  <Service>
+    <Code>39</Code>
+    <USPSCode>56</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Flat Rate Boxes Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>40</Code>
+    <USPSCode>57</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Sunday/Holiday Delivery Flat Rate Boxes</Name>
+  </Service>
+  <Service>
+    <Code>41</Code>
+    <USPSCode>62</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Padded Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>42</Code>
+    <USPSCode>63</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Padded Flat Rate Envelope Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>43</Code>
+    <USPSCode>64</USPSCode>
+    <Name>Priority Mail Express &amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Sunday/Holiday Delivery Padded Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>44</Code>
+    <USPSCode>0</USPSCode>
+    <Name>First-Class Mail&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Large Envelope</Name>
+  </Service>
+  <Service>
+    <Code>45</Code>
+    <USPSCode>0</USPSCode>
+    <Name>First-Class Mail&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Letter</Name>
+  </Service>
+  <Service>
+    <Code>46</Code>
+    <USPSCode>0</USPSCode>
+    <Name>First-Class Mail&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Parcel</Name>
+  </Service>
+  <Service>
+    <Code>47</Code>
+    <USPSCode>0</USPSCode>
+    <Name>First-Class Mail&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Postcards</Name>
+  </Service>
+  <Service>
+    <Code>48</Code>
+    <USPSCode>15</USPSCode>
+    <Name>First-Class Mail&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Large Postcards</Name>
+  </Service>
+  <Service>
+    <Code>49</Code>
+    <USPSCode>53</USPSCode>
+    <Name>First-Class&amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Package Service Hold For Pickup</Name>
+  </Service>
+  <Service>
+    <Code>50</Code>
+    <USPSCode>61</USPSCode>
+    <Name>First-Class&amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Package Service</Name>
+  </Service>
+  <!-- International Shipping Method -->
+  <Service>
+    <Code>51</Code>
+    <USPSCode>12</USPSCode>
+    <Name>USPS GXG&amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Envelopes</Name>
+  </Service>
+  <Service>
+    <Code>52</Code>
+    <USPSCode>4</USPSCode>
+    <Name>Global Express Guaranteed&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; (GXG)</Name>
+  </Service>
+  <Service>
+    <Code>53</Code>
+    <USPSCode>5</USPSCode>
+    <Name>Global Express Guaranteed&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Document</Name>
+  </Service>
+  <Service>
+    <Code>54</Code>
+    <USPSCode>6</USPSCode>
+    <Name>Global Express Guaranteed&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Non-Document Rectangular</Name>
+  </Service>
+  <Service>
+    <Code>55</Code>
+    <USPSCode>7</USPSCode>
+    <Name>Global Express Guaranteed&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Non-Document Non-Rectangular</Name>
+  </Service>
+  <Service>
+    <Code>56</Code>
+    <USPSCode>2</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt;</Name>
+  </Service>
+  <Service>
+    <Code>57</Code>
+    <USPSCode>8</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>58</Code>
+    <USPSCode>9</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Medium Flat Rate Box</Name>
+  </Service>
+  <Service>
+    <Code>59</Code>
+    <USPSCode>11</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Large Flat Rate Box</Name>
+  </Service>
+  <Service>
+    <Code>60</Code>
+    <USPSCode>16</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Small Flat Rate Box</Name>
+  </Service>
+  <Service>
+    <Code>61</Code>
+    <USPSCode>18</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Gift Card Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>62</Code>
+    <USPSCode>19</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Window Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>63</Code>
+    <USPSCode>20</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Small Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>64</Code>
+    <USPSCode>22</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Legal Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>65</Code>
+    <USPSCode>23</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Padded Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>66</Code>
+    <USPSCode>24</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; DVD Flat Rate priced box</Name>
+  </Service>
+  <Service>
+    <Code>67</Code>
+    <USPSCode>25</USPSCode>
+    <Name>Priority Mail International&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; Large Video Flat Rate priced box</Name>
+  </Service>
+  <Service>
+    <Code>68</Code>
+    <USPSCode>1</USPSCode>
+    <Name>Priority Mail Express International&amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt;</Name>
+  </Service>
+  <Service>
+    <Code>69</Code>
+    <USPSCode>10</USPSCode>
+    <Name>Priority Mail Express International&amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>70</Code>
+    <USPSCode>17</USPSCode>
+    <Name>Priority Mail Express International&amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Legal Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>71</Code>
+    <USPSCode>26</USPSCode>
+    <Name>Priority Mail Express International&amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Flat Rate Boxes</Name>
+  </Service>
+  <Service>
+    <Code>72</Code>
+    <USPSCode>27</USPSCode>
+    <Name>Priority Mail Express International&amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt; Padded Flat Rate Envelope</Name>
+  </Service>
+  <Service>
+    <Code>73</Code>
+    <USPSCode>13</USPSCode>
+    <Name>First-Class Mail&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; International Letter</Name>
+  </Service>
+  <Service>
+    <Code>74</Code>
+    <USPSCode>14</USPSCode>
+    <Name>First-Class Mail&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; International Large Envelope</Name>
+  </Service>
+  <Service>
+    <Code>75</Code>
+    <USPSCode>15</USPSCode>
+    <Name>First-Class Package International Service&amp;lt;sup&amp;gt;&amp;#8482;&amp;lt;/sup&amp;gt;</Name>
+  </Service>
+  <Service>
+    <Code>76</Code>
+    <USPSCode>21</USPSCode>
+    <Name>First-Class Mail&amp;lt;sup&amp;gt;&amp;#174;&amp;lt;/sup&amp;gt; International Postcard</Name>
+  </Service>
+</Services>

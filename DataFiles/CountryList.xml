@@ -1,0 +1,3923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CountryList>
+  <StandardCountry>
+    <SortOrder>1</SortOrder>
+    <CommonName>Afghanistan</CommonName>
+    <FormalName>Islamic State of Afghanistan</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kabul</Capital>
+    <CurrencyCode>AFN</CurrencyCode>
+    <CurrencyName>Afghani</CurrencyName>
+    <TelephoneCode>+93</TelephoneCode>
+    <CountryCode>AF</CountryCode>
+    <CountryCode3>AFG</CountryCode3>
+    <CountryNumber>004</CountryNumber>
+    <InternetCountryCode>.af</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>2</SortOrder>
+    <CommonName>Albania</CommonName>
+    <FormalName>Republic of Albania</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tirana</Capital>
+    <CurrencyCode>ALL</CurrencyCode>
+    <CurrencyName>Lek</CurrencyName>
+    <TelephoneCode>+355</TelephoneCode>
+    <CountryCode>AL</CountryCode>
+    <CountryCode3>ALB</CountryCode3>
+    <CountryNumber>008</CountryNumber>
+    <InternetCountryCode>.al</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>3</SortOrder>
+    <CommonName>Algeria</CommonName>
+    <FormalName>People&apos;s Democratic Republic of Algeria</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Algiers</Capital>
+    <CurrencyCode>DZD</CurrencyCode>
+    <CurrencyName>Dinar</CurrencyName>
+    <TelephoneCode>+213</TelephoneCode>
+    <CountryCode>DZ</CountryCode>
+    <CountryCode3>DZA</CountryCode3>
+    <CountryNumber>012</CountryNumber>
+    <InternetCountryCode>.dz</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>4</SortOrder>
+    <CommonName>Andorra</CommonName>
+    <FormalName>Principality of Andorra</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Andorra la Vella</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+376</TelephoneCode>
+    <CountryCode>AD</CountryCode>
+    <CountryCode3>AND</CountryCode3>
+    <CountryNumber>020</CountryNumber>
+    <InternetCountryCode>.ad</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>5</SortOrder>
+    <CommonName>Angola</CommonName>
+    <FormalName>Republic of Angola</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Luanda</Capital>
+    <CurrencyCode>AOA</CurrencyCode>
+    <CurrencyName>Kwanza</CurrencyName>
+    <TelephoneCode>+244</TelephoneCode>
+    <CountryCode>AO</CountryCode>
+    <CountryCode3>AGO</CountryCode3>
+    <CountryNumber>024</CountryNumber>
+    <InternetCountryCode>.ao</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>6</SortOrder>
+    <CommonName>Antigua and Barbuda</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Saint John&apos;s</Capital>
+    <CurrencyCode>XCD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-268</TelephoneCode>
+    <CountryCode>AG</CountryCode>
+    <CountryCode3>ATG</CountryCode3>
+    <CountryNumber>028</CountryNumber>
+    <InternetCountryCode>.ag</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>7</SortOrder>
+    <CommonName>Argentina</CommonName>
+    <FormalName>Argentine Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Buenos Aires</Capital>
+    <CurrencyCode>ARS</CurrencyCode>
+    <CurrencyName>Peso</CurrencyName>
+    <TelephoneCode>+54</TelephoneCode>
+    <CountryCode>AR</CountryCode>
+    <CountryCode3>ARG</CountryCode3>
+    <CountryNumber>032</CountryNumber>
+    <InternetCountryCode>.ar</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>8</SortOrder>
+    <CommonName>Armenia</CommonName>
+    <FormalName>Republic of Armenia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Yerevan</Capital>
+    <CurrencyCode>AMD</CurrencyCode>
+    <CurrencyName>Dram</CurrencyName>
+    <TelephoneCode>+374</TelephoneCode>
+    <CountryCode>AM</CountryCode>
+    <CountryCode3>ARM</CountryCode3>
+    <CountryNumber>051</CountryNumber>
+    <InternetCountryCode>.am</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>9</SortOrder>
+    <CommonName>Australia</CommonName>
+    <FormalName>Commonwealth of Australia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Canberra</Capital>
+    <CurrencyCode>AUD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+61</TelephoneCode>
+    <CountryCode>AU</CountryCode>
+    <CountryCode3>AUS</CountryCode3>
+    <CountryNumber>036</CountryNumber>
+    <InternetCountryCode>.au</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>10</SortOrder>
+    <CommonName>Austria</CommonName>
+    <FormalName>Republic of Austria</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Vienna</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+43</TelephoneCode>
+    <CountryCode>AT</CountryCode>
+    <CountryCode3>AUT</CountryCode3>
+    <CountryNumber>040</CountryNumber>
+    <InternetCountryCode>.at</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>11</SortOrder>
+    <CommonName>Azerbaijan</CommonName>
+    <FormalName>Republic of Azerbaijan</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Baku</Capital>
+    <CurrencyCode>AZN</CurrencyCode>
+    <CurrencyName>Manat</CurrencyName>
+    <TelephoneCode>+994</TelephoneCode>
+    <CountryCode>AZ</CountryCode>
+    <CountryCode3>AZE</CountryCode3>
+    <CountryNumber>031</CountryNumber>
+    <InternetCountryCode>.az</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>12</SortOrder>
+    <CommonName>Bahamas, The</CommonName>
+    <FormalName>Commonwealth of The Bahamas</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Nassau</Capital>
+    <CurrencyCode>BSD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-242</TelephoneCode>
+    <CountryCode>BS</CountryCode>
+    <CountryCode3>BHS</CountryCode3>
+    <CountryNumber>044</CountryNumber>
+    <InternetCountryCode>.bs</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>13</SortOrder>
+    <CommonName>Bahrain</CommonName>
+    <FormalName>Kingdom of Bahrain</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Manama</Capital>
+    <CurrencyCode>BHD</CurrencyCode>
+    <CurrencyName>Dinar</CurrencyName>
+    <TelephoneCode>+973</TelephoneCode>
+    <CountryCode>BH</CountryCode>
+    <CountryCode3>BHR</CountryCode3>
+    <CountryNumber>048</CountryNumber>
+    <InternetCountryCode>.bh</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>14</SortOrder>
+    <CommonName>Bangladesh</CommonName>
+    <FormalName>People&apos;s Republic of Bangladesh</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Dhaka</Capital>
+    <CurrencyCode>BDT</CurrencyCode>
+    <CurrencyName>Taka</CurrencyName>
+    <TelephoneCode>+880</TelephoneCode>
+    <CountryCode>BD</CountryCode>
+    <CountryCode3>BGD</CountryCode3>
+    <CountryNumber>050</CountryNumber>
+    <InternetCountryCode>.bd</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>15</SortOrder>
+    <CommonName>Barbados</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bridgetown</Capital>
+    <CurrencyCode>BBD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-246</TelephoneCode>
+    <CountryCode>BB</CountryCode>
+    <CountryCode3>BRB</CountryCode3>
+    <CountryNumber>052</CountryNumber>
+    <InternetCountryCode>.bb</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>16</SortOrder>
+    <CommonName>Belarus</CommonName>
+    <FormalName>Republic of Belarus</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Minsk</Capital>
+    <CurrencyCode>BYR</CurrencyCode>
+    <CurrencyName>Ruble</CurrencyName>
+    <TelephoneCode>+375</TelephoneCode>
+    <CountryCode>BY</CountryCode>
+    <CountryCode3>BLR</CountryCode3>
+    <CountryNumber>112</CountryNumber>
+    <InternetCountryCode>.by</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>17</SortOrder>
+    <CommonName>Belgium</CommonName>
+    <FormalName>Kingdom of Belgium</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Brussels</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+32</TelephoneCode>
+    <CountryCode>BE</CountryCode>
+    <CountryCode3>BEL</CountryCode3>
+    <CountryNumber>056</CountryNumber>
+    <InternetCountryCode>.be</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>18</SortOrder>
+    <CommonName>Belize</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Belmopan</Capital>
+    <CurrencyCode>BZD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+501</TelephoneCode>
+    <CountryCode>BZ</CountryCode>
+    <CountryCode3>BLZ</CountryCode3>
+    <CountryNumber>084</CountryNumber>
+    <InternetCountryCode>.bz</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>19</SortOrder>
+    <CommonName>Benin</CommonName>
+    <FormalName>Republic of Benin</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Porto-Novo</Capital>
+    <CurrencyCode>XOF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+229</TelephoneCode>
+    <CountryCode>BJ</CountryCode>
+    <CountryCode3>BEN</CountryCode3>
+    <CountryNumber>204</CountryNumber>
+    <InternetCountryCode>.bj</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>20</SortOrder>
+    <CommonName>Bhutan</CommonName>
+    <FormalName>Kingdom of Bhutan</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Thimphu</Capital>
+    <CurrencyCode>BTN</CurrencyCode>
+    <CurrencyName>Ngultrum</CurrencyName>
+    <TelephoneCode>+975</TelephoneCode>
+    <CountryCode>BT</CountryCode>
+    <CountryCode3>BTN</CountryCode3>
+    <CountryNumber>064</CountryNumber>
+    <InternetCountryCode>.bt</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>21</SortOrder>
+    <CommonName>Bolivia</CommonName>
+    <FormalName>Republic of Bolivia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>La Paz (administrative/legislative) and Sucre (judical)</Capital>
+    <CurrencyCode>BOB</CurrencyCode>
+    <CurrencyName>Boliviano</CurrencyName>
+    <TelephoneCode>+591</TelephoneCode>
+    <CountryCode>BO</CountryCode>
+    <CountryCode3>BOL</CountryCode3>
+    <CountryNumber>068</CountryNumber>
+    <InternetCountryCode>.bo</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>22</SortOrder>
+    <CommonName>Bosnia and Herzegovina</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Sarajevo</Capital>
+    <CurrencyCode>BAM</CurrencyCode>
+    <CurrencyName>Marka</CurrencyName>
+    <TelephoneCode>+387</TelephoneCode>
+    <CountryCode>BA</CountryCode>
+    <CountryCode3>BIH</CountryCode3>
+    <CountryNumber>070</CountryNumber>
+    <InternetCountryCode>.ba</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>23</SortOrder>
+    <CommonName>Botswana</CommonName>
+    <FormalName>Republic of Botswana</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Gaborone</Capital>
+    <CurrencyCode>BWP</CurrencyCode>
+    <CurrencyName>Pula</CurrencyName>
+    <TelephoneCode>+267</TelephoneCode>
+    <CountryCode>BW</CountryCode>
+    <CountryCode3>BWA</CountryCode3>
+    <CountryNumber>072</CountryNumber>
+    <InternetCountryCode>.bw</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>24</SortOrder>
+    <CommonName>Brazil</CommonName>
+    <FormalName>Federative Republic of Brazil</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Brasilia</Capital>
+    <CurrencyCode>BRL</CurrencyCode>
+    <CurrencyName>Real</CurrencyName>
+    <TelephoneCode>+55</TelephoneCode>
+    <CountryCode>BR</CountryCode>
+    <CountryCode3>BRA</CountryCode3>
+    <CountryNumber>076</CountryNumber>
+    <InternetCountryCode>.br</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>25</SortOrder>
+    <CommonName>Brunei</CommonName>
+    <FormalName>Negara Brunei Darussalam</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bandar Seri Begawan</Capital>
+    <CurrencyCode>BND</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+673</TelephoneCode>
+    <CountryCode>BN</CountryCode>
+    <CountryCode3>BRN</CountryCode3>
+    <CountryNumber>096</CountryNumber>
+    <InternetCountryCode>.bn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>26</SortOrder>
+    <CommonName>Bulgaria</CommonName>
+    <FormalName>Republic of Bulgaria</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Sofia</Capital>
+    <CurrencyCode>BGN</CurrencyCode>
+    <CurrencyName>Lev</CurrencyName>
+    <TelephoneCode>+359</TelephoneCode>
+    <CountryCode>BG</CountryCode>
+    <CountryCode3>BGR</CountryCode3>
+    <CountryNumber>100</CountryNumber>
+    <InternetCountryCode>.bg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>27</SortOrder>
+    <CommonName>Burkina Faso</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Ouagadougou</Capital>
+    <CurrencyCode>XOF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+226</TelephoneCode>
+    <CountryCode>BF</CountryCode>
+    <CountryCode3>BFA</CountryCode3>
+    <CountryNumber>854</CountryNumber>
+    <InternetCountryCode>.bf</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>28</SortOrder>
+    <CommonName>Burundi</CommonName>
+    <FormalName>Republic of Burundi</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bujumbura</Capital>
+    <CurrencyCode>BIF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+257</TelephoneCode>
+    <CountryCode>BI</CountryCode>
+    <CountryCode3>BDI</CountryCode3>
+    <CountryNumber>108</CountryNumber>
+    <InternetCountryCode>.bi</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>29</SortOrder>
+    <CommonName>Cambodia</CommonName>
+    <FormalName>Kingdom of Cambodia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Phnom Penh</Capital>
+    <CurrencyCode>KHR</CurrencyCode>
+    <CurrencyName>Riels</CurrencyName>
+    <TelephoneCode>+855</TelephoneCode>
+    <CountryCode>KH</CountryCode>
+    <CountryCode3>KHM</CountryCode3>
+    <CountryNumber>116</CountryNumber>
+    <InternetCountryCode>.kh</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>30</SortOrder>
+    <CommonName>Cameroon</CommonName>
+    <FormalName>Republic of Cameroon</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Yaounde</Capital>
+    <CurrencyCode>XAF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+237</TelephoneCode>
+    <CountryCode>CM</CountryCode>
+    <CountryCode3>CMR</CountryCode3>
+    <CountryNumber>120</CountryNumber>
+    <InternetCountryCode>.cm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>31</SortOrder>
+    <CommonName>Canada</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Ottawa</Capital>
+    <CurrencyCode>CAD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1</TelephoneCode>
+    <CountryCode>CA</CountryCode>
+    <CountryCode3>CAN</CountryCode3>
+    <CountryNumber>124</CountryNumber>
+    <InternetCountryCode>.ca</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>32</SortOrder>
+    <CommonName>Cape Verde</CommonName>
+    <FormalName>Republic of Cape Verde</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Praia</Capital>
+    <CurrencyCode>CVE</CurrencyCode>
+    <CurrencyName>Escudo</CurrencyName>
+    <TelephoneCode>+238</TelephoneCode>
+    <CountryCode>CV</CountryCode>
+    <CountryCode3>CPV</CountryCode3>
+    <CountryNumber>132</CountryNumber>
+    <InternetCountryCode>.cv</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>33</SortOrder>
+    <CommonName>Central African Republic</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bangui</Capital>
+    <CurrencyCode>XAF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+236</TelephoneCode>
+    <CountryCode>CF</CountryCode>
+    <CountryCode3>CAF</CountryCode3>
+    <CountryNumber>140</CountryNumber>
+    <InternetCountryCode>.cf</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>34</SortOrder>
+    <CommonName>Chad</CommonName>
+    <FormalName>Republic of Chad</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>N&apos;Djamena</Capital>
+    <CurrencyCode>XAF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+235</TelephoneCode>
+    <CountryCode>TD</CountryCode>
+    <CountryCode3>TCD</CountryCode3>
+    <CountryNumber>148</CountryNumber>
+    <InternetCountryCode>.td</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>35</SortOrder>
+    <CommonName>Chile</CommonName>
+    <FormalName>Republic of Chile</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Santiago (administrative/judical) and Valparaiso (legislative)</Capital>
+    <CurrencyCode>CLP</CurrencyCode>
+    <CurrencyName>Peso</CurrencyName>
+    <TelephoneCode>+56</TelephoneCode>
+    <CountryCode>CL</CountryCode>
+    <CountryCode3>CHL</CountryCode3>
+    <CountryNumber>152</CountryNumber>
+    <InternetCountryCode>.cl</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>36</SortOrder>
+    <CommonName>China, People&apos;s Republic of</CommonName>
+    <FormalName>People&apos;s Republic of China</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Beijing</Capital>
+    <CurrencyCode>CNY</CurrencyCode>
+    <CurrencyName>Yuan Renminbi</CurrencyName>
+    <TelephoneCode>+86</TelephoneCode>
+    <CountryCode>CN</CountryCode>
+    <CountryCode3>CHN</CountryCode3>
+    <CountryNumber>156</CountryNumber>
+    <InternetCountryCode>.cn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>37</SortOrder>
+    <CommonName>Colombia</CommonName>
+    <FormalName>Republic of Colombia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bogota</Capital>
+    <CurrencyCode>COP</CurrencyCode>
+    <CurrencyName>Peso</CurrencyName>
+    <TelephoneCode>+57</TelephoneCode>
+    <CountryCode>CO</CountryCode>
+    <CountryCode3>COL</CountryCode3>
+    <CountryNumber>170</CountryNumber>
+    <InternetCountryCode>.co</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>38</SortOrder>
+    <CommonName>Comoros</CommonName>
+    <FormalName>Union of Comoros</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Moroni</Capital>
+    <CurrencyCode>KMF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+269</TelephoneCode>
+    <CountryCode>KM</CountryCode>
+    <CountryCode3>COM</CountryCode3>
+    <CountryNumber>174</CountryNumber>
+    <InternetCountryCode>.km</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>39</SortOrder>
+    <CommonName>Congo &#150; Kinshasa</CommonName>
+    <FormalName>Democratic Republic of the Congo</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kinshasa</Capital>
+    <CurrencyCode>CDF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+243</TelephoneCode>
+    <CountryCode>CD</CountryCode>
+    <CountryCode3>COD</CountryCode3>
+    <CountryNumber>180</CountryNumber>
+    <InternetCountryCode>.cd</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>40</SortOrder>
+    <CommonName>Congo &#150; Brazzaville</CommonName>
+    <FormalName>Republic of the Congo</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Brazzaville</Capital>
+    <CurrencyCode>XAF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+242</TelephoneCode>
+    <CountryCode>CG</CountryCode>
+    <CountryCode3>COG</CountryCode3>
+    <CountryNumber>178</CountryNumber>
+    <InternetCountryCode>.cg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>41</SortOrder>
+    <CommonName>Costa Rica</CommonName>
+    <FormalName>Republic of Costa Rica</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>San Jose</Capital>
+    <CurrencyCode>CRC</CurrencyCode>
+    <CurrencyName>Colon</CurrencyName>
+    <TelephoneCode>+506</TelephoneCode>
+    <CountryCode>CR</CountryCode>
+    <CountryCode3>CRI</CountryCode3>
+    <CountryNumber>188</CountryNumber>
+    <InternetCountryCode>.cr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>42</SortOrder>
+    <CommonName>Cote d&apos;Ivoire (Ivory Coast)</CommonName>
+    <FormalName>Republic of Cote d&apos;Ivoire</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Yamoussoukro</Capital>
+    <CurrencyCode>XOF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+225</TelephoneCode>
+    <CountryCode>CI</CountryCode>
+    <CountryCode3>CIV</CountryCode3>
+    <CountryNumber>384</CountryNumber>
+    <InternetCountryCode>.ci</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>43</SortOrder>
+    <CommonName>Croatia</CommonName>
+    <FormalName>Republic of Croatia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Zagreb</Capital>
+    <CurrencyCode>HRK</CurrencyCode>
+    <CurrencyName>Kuna</CurrencyName>
+    <TelephoneCode>+385</TelephoneCode>
+    <CountryCode>HR</CountryCode>
+    <CountryCode3>HRV</CountryCode3>
+    <CountryNumber>191</CountryNumber>
+    <InternetCountryCode>.hr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>44</SortOrder>
+    <CommonName>Cuba</CommonName>
+    <FormalName>Republic of Cuba</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Havana</Capital>
+    <CurrencyCode>CUP</CurrencyCode>
+    <CurrencyName>Peso</CurrencyName>
+    <TelephoneCode>+53</TelephoneCode>
+    <CountryCode>CU</CountryCode>
+    <CountryCode3>CUB</CountryCode3>
+    <CountryNumber>192</CountryNumber>
+    <InternetCountryCode>.cu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>45</SortOrder>
+    <CommonName>Cyprus</CommonName>
+    <FormalName>Republic of Cyprus</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Nicosia</Capital>
+    <CurrencyCode>CYP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+357</TelephoneCode>
+    <CountryCode>CY</CountryCode>
+    <CountryCode3>CYP</CountryCode3>
+    <CountryNumber>196</CountryNumber>
+    <InternetCountryCode>.cy</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>46</SortOrder>
+    <CommonName>Czech Republic</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Prague</Capital>
+    <CurrencyCode>CZK</CurrencyCode>
+    <CurrencyName>Koruna</CurrencyName>
+    <TelephoneCode>+420</TelephoneCode>
+    <CountryCode>CZ</CountryCode>
+    <CountryCode3>CZE</CountryCode3>
+    <CountryNumber>203</CountryNumber>
+    <InternetCountryCode>.cz</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>47</SortOrder>
+    <CommonName>Denmark</CommonName>
+    <FormalName>Kingdom of Denmark</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Copenhagen</Capital>
+    <CurrencyCode>DKK</CurrencyCode>
+    <CurrencyName>Krone</CurrencyName>
+    <TelephoneCode>+45</TelephoneCode>
+    <CountryCode>DK</CountryCode>
+    <CountryCode3>DNK</CountryCode3>
+    <CountryNumber>208</CountryNumber>
+    <InternetCountryCode>.dk</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>48</SortOrder>
+    <CommonName>Djibouti</CommonName>
+    <FormalName>Republic of Djibouti</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Djibouti</Capital>
+    <CurrencyCode>DJF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+253</TelephoneCode>
+    <CountryCode>DJ</CountryCode>
+    <CountryCode3>DJI</CountryCode3>
+    <CountryNumber>262</CountryNumber>
+    <InternetCountryCode>.dj</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>49</SortOrder>
+    <CommonName>Dominica</CommonName>
+    <FormalName>Commonwealth of Dominica</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Roseau</Capital>
+    <CurrencyCode>XCD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-767</TelephoneCode>
+    <CountryCode>DM</CountryCode>
+    <CountryCode3>DMA</CountryCode3>
+    <CountryNumber>212</CountryNumber>
+    <InternetCountryCode>.dm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>50</SortOrder>
+    <CommonName>Dominican Republic</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Santo Domingo</Capital>
+    <CurrencyCode>DOP</CurrencyCode>
+    <CurrencyName>Peso</CurrencyName>
+    <TelephoneCode>+1-809 and 1-829</TelephoneCode>
+    <CountryCode>DO</CountryCode>
+    <CountryCode3>DOM</CountryCode3>
+    <CountryNumber>214</CountryNumber>
+    <InternetCountryCode>.do</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>51</SortOrder>
+    <CommonName>Ecuador</CommonName>
+    <FormalName>Republic of Ecuador</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Quito</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+593</TelephoneCode>
+    <CountryCode>EC</CountryCode>
+    <CountryCode3>ECU</CountryCode3>
+    <CountryNumber>218</CountryNumber>
+    <InternetCountryCode>.ec</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>52</SortOrder>
+    <CommonName>Egypt</CommonName>
+    <FormalName>Arab Republic of Egypt</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Cairo</Capital>
+    <CurrencyCode>EGP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+20</TelephoneCode>
+    <CountryCode>EG</CountryCode>
+    <CountryCode3>EGY</CountryCode3>
+    <CountryNumber>818</CountryNumber>
+    <InternetCountryCode>.eg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>53</SortOrder>
+    <CommonName>El Salvador</CommonName>
+    <FormalName>Republic of El Salvador</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>San Salvador</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+503</TelephoneCode>
+    <CountryCode>SV</CountryCode>
+    <CountryCode3>SLV</CountryCode3>
+    <CountryNumber>222</CountryNumber>
+    <InternetCountryCode>.sv</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>54</SortOrder>
+    <CommonName>Equatorial Guinea</CommonName>
+    <FormalName>Republic of Equatorial Guinea</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Malabo</Capital>
+    <CurrencyCode>XAF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+240</TelephoneCode>
+    <CountryCode>GQ</CountryCode>
+    <CountryCode3>GNQ</CountryCode3>
+    <CountryNumber>226</CountryNumber>
+    <InternetCountryCode>.gq</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>55</SortOrder>
+    <CommonName>Eritrea</CommonName>
+    <FormalName>State of Eritrea</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Asmara</Capital>
+    <CurrencyCode>ERN</CurrencyCode>
+    <CurrencyName>Nakfa</CurrencyName>
+    <TelephoneCode>+291</TelephoneCode>
+    <CountryCode>ER</CountryCode>
+    <CountryCode3>ERI</CountryCode3>
+    <CountryNumber>232</CountryNumber>
+    <InternetCountryCode>.er</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>56</SortOrder>
+    <CommonName>Estonia</CommonName>
+    <FormalName>Republic of Estonia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tallinn</Capital>
+    <CurrencyCode>EEK</CurrencyCode>
+    <CurrencyName>Kroon</CurrencyName>
+    <TelephoneCode>+372</TelephoneCode>
+    <CountryCode>EE</CountryCode>
+    <CountryCode3>EST</CountryCode3>
+    <CountryNumber>233</CountryNumber>
+    <InternetCountryCode>.ee</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>57</SortOrder>
+    <CommonName>Ethiopia</CommonName>
+    <FormalName>Federal Democratic Republic of Ethiopia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Addis Ababa</Capital>
+    <CurrencyCode>ETB</CurrencyCode>
+    <CurrencyName>Birr</CurrencyName>
+    <TelephoneCode>+251</TelephoneCode>
+    <CountryCode>ET</CountryCode>
+    <CountryCode3>ETH</CountryCode3>
+    <CountryNumber>231</CountryNumber>
+    <InternetCountryCode>.et</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>58</SortOrder>
+    <CommonName>Fiji</CommonName>
+    <FormalName>Republic of the Fiji Islands</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Suva</Capital>
+    <CurrencyCode>FJD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+679</TelephoneCode>
+    <CountryCode>FJ</CountryCode>
+    <CountryCode3>FJI</CountryCode3>
+    <CountryNumber>242</CountryNumber>
+    <InternetCountryCode>.fj</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>59</SortOrder>
+    <CommonName>Finland</CommonName>
+    <FormalName>Republic of Finland</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Helsinki</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+358</TelephoneCode>
+    <CountryCode>FI</CountryCode>
+    <CountryCode3>FIN</CountryCode3>
+    <CountryNumber>246</CountryNumber>
+    <InternetCountryCode>.fi</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>60</SortOrder>
+    <CommonName>France</CommonName>
+    <FormalName>French Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Paris</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+33</TelephoneCode>
+    <CountryCode>FR</CountryCode>
+    <CountryCode3>FRA</CountryCode3>
+    <CountryNumber>250</CountryNumber>
+    <InternetCountryCode>.fr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>61</SortOrder>
+    <CommonName>Gabon</CommonName>
+    <FormalName>Gabonese Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Libreville</Capital>
+    <CurrencyCode>XAF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+241</TelephoneCode>
+    <CountryCode>GA</CountryCode>
+    <CountryCode3>GAB</CountryCode3>
+    <CountryNumber>266</CountryNumber>
+    <InternetCountryCode>.ga</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>62</SortOrder>
+    <CommonName>Gambia, The</CommonName>
+    <FormalName>Republic of The Gambia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Banjul</Capital>
+    <CurrencyCode>GMD</CurrencyCode>
+    <CurrencyName>Dalasi</CurrencyName>
+    <TelephoneCode>+220</TelephoneCode>
+    <CountryCode>GM</CountryCode>
+    <CountryCode3>GMB</CountryCode3>
+    <CountryNumber>270</CountryNumber>
+    <InternetCountryCode>.gm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>63</SortOrder>
+    <CommonName>Georgia</CommonName>
+    <FormalName>Republic of Georgia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tbilisi</Capital>
+    <CurrencyCode>GEL</CurrencyCode>
+    <CurrencyName>Lari</CurrencyName>
+    <TelephoneCode>+995</TelephoneCode>
+    <CountryCode>GE</CountryCode>
+    <CountryCode3>GEO</CountryCode3>
+    <CountryNumber>268</CountryNumber>
+    <InternetCountryCode>.ge</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>64</SortOrder>
+    <CommonName>Germany</CommonName>
+    <FormalName>Federal Republic of Germany</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Berlin</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+49</TelephoneCode>
+    <CountryCode>DE</CountryCode>
+    <CountryCode3>DEU</CountryCode3>
+    <CountryNumber>276</CountryNumber>
+    <InternetCountryCode>.de</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>65</SortOrder>
+    <CommonName>Ghana</CommonName>
+    <FormalName>Republic of Ghana</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Accra</Capital>
+    <CurrencyCode>GHC</CurrencyCode>
+    <CurrencyName>Cedi</CurrencyName>
+    <TelephoneCode>+233</TelephoneCode>
+    <CountryCode>GH</CountryCode>
+    <CountryCode3>GHA</CountryCode3>
+    <CountryNumber>288</CountryNumber>
+    <InternetCountryCode>.gh</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>66</SortOrder>
+    <CommonName>Greece</CommonName>
+    <FormalName>Hellenic Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Athens</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+30</TelephoneCode>
+    <CountryCode>GR</CountryCode>
+    <CountryCode3>GRC</CountryCode3>
+    <CountryNumber>300</CountryNumber>
+    <InternetCountryCode>.gr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>67</SortOrder>
+    <CommonName>Grenada</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Saint George&apos;s</Capital>
+    <CurrencyCode>XCD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-473</TelephoneCode>
+    <CountryCode>GD</CountryCode>
+    <CountryCode3>GRD</CountryCode3>
+    <CountryNumber>308</CountryNumber>
+    <InternetCountryCode>.gd</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>68</SortOrder>
+    <CommonName>Guatemala</CommonName>
+    <FormalName>Republic of Guatemala</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Guatemala</Capital>
+    <CurrencyCode>GTQ</CurrencyCode>
+    <CurrencyName>Quetzal</CurrencyName>
+    <TelephoneCode>+502</TelephoneCode>
+    <CountryCode>GT</CountryCode>
+    <CountryCode3>GTM</CountryCode3>
+    <CountryNumber>320</CountryNumber>
+    <InternetCountryCode>.gt</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>69</SortOrder>
+    <CommonName>Guinea</CommonName>
+    <FormalName>Republic of Guinea</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Conakry</Capital>
+    <CurrencyCode>GNF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+224</TelephoneCode>
+    <CountryCode>GN</CountryCode>
+    <CountryCode3>GIN</CountryCode3>
+    <CountryNumber>324</CountryNumber>
+    <InternetCountryCode>.gn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>70</SortOrder>
+    <CommonName>Guinea-Bissau</CommonName>
+    <FormalName>Republic of Guinea-Bissau</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bissau</Capital>
+    <CurrencyCode>XOF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+245</TelephoneCode>
+    <CountryCode>GW</CountryCode>
+    <CountryCode3>GNB</CountryCode3>
+    <CountryNumber>624</CountryNumber>
+    <InternetCountryCode>.gw</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>71</SortOrder>
+    <CommonName>Guyana</CommonName>
+    <FormalName>Co-operative Republic of Guyana</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Georgetown</Capital>
+    <CurrencyCode>GYD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+592</TelephoneCode>
+    <CountryCode>GY</CountryCode>
+    <CountryCode3>GUY</CountryCode3>
+    <CountryNumber>328</CountryNumber>
+    <InternetCountryCode>.gy</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>72</SortOrder>
+    <CommonName>Haiti</CommonName>
+    <FormalName>Republic of Haiti</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Port-au-Prince</Capital>
+    <CurrencyCode>HTG</CurrencyCode>
+    <CurrencyName>Gourde</CurrencyName>
+    <TelephoneCode>+509</TelephoneCode>
+    <CountryCode>HT</CountryCode>
+    <CountryCode3>HTI</CountryCode3>
+    <CountryNumber>332</CountryNumber>
+    <InternetCountryCode>.ht</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>73</SortOrder>
+    <CommonName>Honduras</CommonName>
+    <FormalName>Republic of Honduras</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tegucigalpa</Capital>
+    <CurrencyCode>HNL</CurrencyCode>
+    <CurrencyName>Lempira</CurrencyName>
+    <TelephoneCode>+504</TelephoneCode>
+    <CountryCode>HN</CountryCode>
+    <CountryCode3>HND</CountryCode3>
+    <CountryNumber>340</CountryNumber>
+    <InternetCountryCode>.hn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>74</SortOrder>
+    <CommonName>Hungary</CommonName>
+    <FormalName>Republic of Hungary</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Budapest</Capital>
+    <CurrencyCode>HUF</CurrencyCode>
+    <CurrencyName>Forint</CurrencyName>
+    <TelephoneCode>+36</TelephoneCode>
+    <CountryCode>HU</CountryCode>
+    <CountryCode3>HUN</CountryCode3>
+    <CountryNumber>348</CountryNumber>
+    <InternetCountryCode>.hu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>75</SortOrder>
+    <CommonName>Iceland</CommonName>
+    <FormalName>Republic of Iceland</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Reykjavik</Capital>
+    <CurrencyCode>ISK</CurrencyCode>
+    <CurrencyName>Krona</CurrencyName>
+    <TelephoneCode>+354</TelephoneCode>
+    <CountryCode>IS</CountryCode>
+    <CountryCode3>ISL</CountryCode3>
+    <CountryNumber>352</CountryNumber>
+    <InternetCountryCode>.is</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>76</SortOrder>
+    <CommonName>India</CommonName>
+    <FormalName>Republic of India</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>New Delhi</Capital>
+    <CurrencyCode>INR</CurrencyCode>
+    <CurrencyName>Rupee</CurrencyName>
+    <TelephoneCode>+91</TelephoneCode>
+    <CountryCode>IN</CountryCode>
+    <CountryCode3>IND</CountryCode3>
+    <CountryNumber>356</CountryNumber>
+    <InternetCountryCode>.in</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>77</SortOrder>
+    <CommonName>Indonesia</CommonName>
+    <FormalName>Republic of Indonesia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Jakarta</Capital>
+    <CurrencyCode>IDR</CurrencyCode>
+    <CurrencyName>Rupiah</CurrencyName>
+    <TelephoneCode>+62</TelephoneCode>
+    <CountryCode>ID</CountryCode>
+    <CountryCode3>IDN</CountryCode3>
+    <CountryNumber>360</CountryNumber>
+    <InternetCountryCode>.id</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>78</SortOrder>
+    <CommonName>Iran</CommonName>
+    <FormalName>Islamic Republic of Iran</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tehran</Capital>
+    <CurrencyCode>IRR</CurrencyCode>
+    <CurrencyName>Rial</CurrencyName>
+    <TelephoneCode>+98</TelephoneCode>
+    <CountryCode>IR</CountryCode>
+    <CountryCode3>IRN</CountryCode3>
+    <CountryNumber>364</CountryNumber>
+    <InternetCountryCode>.ir</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>79</SortOrder>
+    <CommonName>Iraq</CommonName>
+    <FormalName>Republic of Iraq</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Baghdad</Capital>
+    <CurrencyCode>IQD</CurrencyCode>
+    <CurrencyName>Dinar</CurrencyName>
+    <TelephoneCode>+964</TelephoneCode>
+    <CountryCode>IQ</CountryCode>
+    <CountryCode3>IRQ</CountryCode3>
+    <CountryNumber>368</CountryNumber>
+    <InternetCountryCode>.iq</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>80</SortOrder>
+    <CommonName>Ireland</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Dublin</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+353</TelephoneCode>
+    <CountryCode>IE</CountryCode>
+    <CountryCode3>IRL</CountryCode3>
+    <CountryNumber>372</CountryNumber>
+    <InternetCountryCode>.ie</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>81</SortOrder>
+    <CommonName>Israel</CommonName>
+    <FormalName>State of Israel</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Jerusalem</Capital>
+    <CurrencyCode>ILS</CurrencyCode>
+    <CurrencyName>Shekel</CurrencyName>
+    <TelephoneCode>+972</TelephoneCode>
+    <CountryCode>IL</CountryCode>
+    <CountryCode3>ISR</CountryCode3>
+    <CountryNumber>376</CountryNumber>
+    <InternetCountryCode>.il</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>82</SortOrder>
+    <CommonName>Italy</CommonName>
+    <FormalName>Italian Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Rome</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+39</TelephoneCode>
+    <CountryCode>IT</CountryCode>
+    <CountryCode3>ITA</CountryCode3>
+    <CountryNumber>380</CountryNumber>
+    <InternetCountryCode>.it</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>83</SortOrder>
+    <CommonName>Jamaica</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kingston</Capital>
+    <CurrencyCode>JMD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-876</TelephoneCode>
+    <CountryCode>JM</CountryCode>
+    <CountryCode3>JAM</CountryCode3>
+    <CountryNumber>388</CountryNumber>
+    <InternetCountryCode>.jm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>84</SortOrder>
+    <CommonName>Japan</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tokyo</Capital>
+    <CurrencyCode>JPY</CurrencyCode>
+    <CurrencyName>Yen</CurrencyName>
+    <TelephoneCode>+81</TelephoneCode>
+    <CountryCode>JP</CountryCode>
+    <CountryCode3>JPN</CountryCode3>
+    <CountryNumber>392</CountryNumber>
+    <InternetCountryCode>.jp</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>85</SortOrder>
+    <CommonName>Jordan</CommonName>
+    <FormalName>Hashemite Kingdom of Jordan</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Amman</Capital>
+    <CurrencyCode>JOD</CurrencyCode>
+    <CurrencyName>Dinar</CurrencyName>
+    <TelephoneCode>+962</TelephoneCode>
+    <CountryCode>JO</CountryCode>
+    <CountryCode3>JOR</CountryCode3>
+    <CountryNumber>400</CountryNumber>
+    <InternetCountryCode>.jo</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>86</SortOrder>
+    <CommonName>Kazakhstan</CommonName>
+    <FormalName>Republic of Kazakhstan</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Astana</Capital>
+    <CurrencyCode>KZT</CurrencyCode>
+    <CurrencyName>Tenge</CurrencyName>
+    <TelephoneCode>+7</TelephoneCode>
+    <CountryCode>KZ</CountryCode>
+    <CountryCode3>KAZ</CountryCode3>
+    <CountryNumber>398</CountryNumber>
+    <InternetCountryCode>.kz</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>87</SortOrder>
+    <CommonName>Kenya</CommonName>
+    <FormalName>Republic of Kenya</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Nairobi</Capital>
+    <CurrencyCode>KES</CurrencyCode>
+    <CurrencyName>Shilling</CurrencyName>
+    <TelephoneCode>+254</TelephoneCode>
+    <CountryCode>KE</CountryCode>
+    <CountryCode3>KEN</CountryCode3>
+    <CountryNumber>404</CountryNumber>
+    <InternetCountryCode>.ke</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>88</SortOrder>
+    <CommonName>Kiribati</CommonName>
+    <FormalName>Republic of Kiribati</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tarawa</Capital>
+    <CurrencyCode>AUD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+686</TelephoneCode>
+    <CountryCode>KI</CountryCode>
+    <CountryCode3>KIR</CountryCode3>
+    <CountryNumber>296</CountryNumber>
+    <InternetCountryCode>.ki</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>89</SortOrder>
+    <CommonName>Korea(North Korea)</CommonName>
+    <FormalName>Democratic People&apos;s Republic of Korea</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Pyongyang</Capital>
+    <CurrencyCode>KPW</CurrencyCode>
+    <CurrencyName>Won</CurrencyName>
+    <TelephoneCode>+850</TelephoneCode>
+    <CountryCode>KP</CountryCode>
+    <CountryCode3>PRK</CountryCode3>
+    <CountryNumber>408</CountryNumber>
+    <InternetCountryCode>.kp</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>90</SortOrder>
+    <CommonName>Korea(South Korea)</CommonName>
+    <FormalName>Republic of Korea</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Seoul</Capital>
+    <CurrencyCode>KRW</CurrencyCode>
+    <CurrencyName>Won</CurrencyName>
+    <TelephoneCode>+82</TelephoneCode>
+    <CountryCode>KR</CountryCode>
+    <CountryCode3>KOR</CountryCode3>
+    <CountryNumber>410</CountryNumber>
+    <InternetCountryCode>.kr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>91</SortOrder>
+    <CommonName>Kuwait</CommonName>
+    <FormalName>State of Kuwait</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kuwait</Capital>
+    <CurrencyCode>KWD</CurrencyCode>
+    <CurrencyName>Dinar</CurrencyName>
+    <TelephoneCode>+965</TelephoneCode>
+    <CountryCode>KW</CountryCode>
+    <CountryCode3>KWT</CountryCode3>
+    <CountryNumber>414</CountryNumber>
+    <InternetCountryCode>.kw</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>92</SortOrder>
+    <CommonName>Kyrgyzstan</CommonName>
+    <FormalName>Kyrgyz Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bishkek</Capital>
+    <CurrencyCode>KGS</CurrencyCode>
+    <CurrencyName>Som</CurrencyName>
+    <TelephoneCode>+996</TelephoneCode>
+    <CountryCode>KG</CountryCode>
+    <CountryCode3>KGZ</CountryCode3>
+    <CountryNumber>417</CountryNumber>
+    <InternetCountryCode>.kg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>93</SortOrder>
+    <CommonName>Laos</CommonName>
+    <FormalName>Lao People&apos;s Democratic Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Vientiane</Capital>
+    <CurrencyCode>LAK</CurrencyCode>
+    <CurrencyName>Kip</CurrencyName>
+    <TelephoneCode>+856</TelephoneCode>
+    <CountryCode>LA</CountryCode>
+    <CountryCode3>LAO</CountryCode3>
+    <CountryNumber>418</CountryNumber>
+    <InternetCountryCode>.la</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>94</SortOrder>
+    <CommonName>Latvia</CommonName>
+    <FormalName>Republic of Latvia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Riga</Capital>
+    <CurrencyCode>LVL</CurrencyCode>
+    <CurrencyName>Lat</CurrencyName>
+    <TelephoneCode>+371</TelephoneCode>
+    <CountryCode>LV</CountryCode>
+    <CountryCode3>LVA</CountryCode3>
+    <CountryNumber>428</CountryNumber>
+    <InternetCountryCode>.lv</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>95</SortOrder>
+    <CommonName>Lebanon</CommonName>
+    <FormalName>Lebanese Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Beirut</Capital>
+    <CurrencyCode>LBP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+961</TelephoneCode>
+    <CountryCode>LB</CountryCode>
+    <CountryCode3>LBN</CountryCode3>
+    <CountryNumber>422</CountryNumber>
+    <InternetCountryCode>.lb</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>96</SortOrder>
+    <CommonName>Lesotho</CommonName>
+    <FormalName>Kingdom of Lesotho</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Maseru</Capital>
+    <CurrencyCode>LSL</CurrencyCode>
+    <CurrencyName>Loti</CurrencyName>
+    <TelephoneCode>+266</TelephoneCode>
+    <CountryCode>LS</CountryCode>
+    <CountryCode3>LSO</CountryCode3>
+    <CountryNumber>426</CountryNumber>
+    <InternetCountryCode>.ls</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>97</SortOrder>
+    <CommonName>Liberia</CommonName>
+    <FormalName>Republic of Liberia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Monrovia</Capital>
+    <CurrencyCode>LRD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+231</TelephoneCode>
+    <CountryCode>LR</CountryCode>
+    <CountryCode3>LBR</CountryCode3>
+    <CountryNumber>430</CountryNumber>
+    <InternetCountryCode>.lr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>98</SortOrder>
+    <CommonName>Libya</CommonName>
+    <FormalName>Great Socialist People&apos;s Libyan Arab Jamahiriya</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tripoli</Capital>
+    <CurrencyCode>LYD</CurrencyCode>
+    <CurrencyName>Dinar</CurrencyName>
+    <TelephoneCode>+218</TelephoneCode>
+    <CountryCode>LY</CountryCode>
+    <CountryCode3>LBY</CountryCode3>
+    <CountryNumber>434</CountryNumber>
+    <InternetCountryCode>.ly</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>99</SortOrder>
+    <CommonName>Liechtenstein</CommonName>
+    <FormalName>Principality of Liechtenstein</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Vaduz</Capital>
+    <CurrencyCode>CHF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+423</TelephoneCode>
+    <CountryCode>LI</CountryCode>
+    <CountryCode3>LIE</CountryCode3>
+    <CountryNumber>438</CountryNumber>
+    <InternetCountryCode>.li</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>100</SortOrder>
+    <CommonName>Lithuania</CommonName>
+    <FormalName>Republic of Lithuania</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Vilnius</Capital>
+    <CurrencyCode>LTL</CurrencyCode>
+    <CurrencyName>Litas</CurrencyName>
+    <TelephoneCode>+370</TelephoneCode>
+    <CountryCode>LT</CountryCode>
+    <CountryCode3>LTU</CountryCode3>
+    <CountryNumber>440</CountryNumber>
+    <InternetCountryCode>.lt</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>101</SortOrder>
+    <CommonName>Luxembourg</CommonName>
+    <FormalName>Grand Duchy of Luxembourg</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Luxembourg</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+352</TelephoneCode>
+    <CountryCode>LU</CountryCode>
+    <CountryCode3>LUX</CountryCode3>
+    <CountryNumber>442</CountryNumber>
+    <InternetCountryCode>.lu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>102</SortOrder>
+    <CommonName>Macedonia</CommonName>
+    <FormalName>Republic of Macedonia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Skopje</Capital>
+    <CurrencyCode>MKD</CurrencyCode>
+    <CurrencyName>Denar</CurrencyName>
+    <TelephoneCode>+389</TelephoneCode>
+    <CountryCode>MK</CountryCode>
+    <CountryCode3>MKD</CountryCode3>
+    <CountryNumber>807</CountryNumber>
+    <InternetCountryCode>.mk</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>103</SortOrder>
+    <CommonName>Madagascar</CommonName>
+    <FormalName>Republic of Madagascar</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Antananarivo</Capital>
+    <CurrencyCode>MGA</CurrencyCode>
+    <CurrencyName>Ariary</CurrencyName>
+    <TelephoneCode>+261</TelephoneCode>
+    <CountryCode>MG</CountryCode>
+    <CountryCode3>MDG</CountryCode3>
+    <CountryNumber>450</CountryNumber>
+    <InternetCountryCode>.mg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>104</SortOrder>
+    <CommonName>Malawi</CommonName>
+    <FormalName>Republic of Malawi</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Lilongwe</Capital>
+    <CurrencyCode>MWK</CurrencyCode>
+    <CurrencyName>Kwacha</CurrencyName>
+    <TelephoneCode>+265</TelephoneCode>
+    <CountryCode>MW</CountryCode>
+    <CountryCode3>MWI</CountryCode3>
+    <CountryNumber>454</CountryNumber>
+    <InternetCountryCode>.mw</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>105</SortOrder>
+    <CommonName>Malaysia</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kuala Lumpur (legislative/judical) and Putrajaya (administrative)</Capital>
+    <CurrencyCode>MYR</CurrencyCode>
+    <CurrencyName>Ringgit</CurrencyName>
+    <TelephoneCode>+60</TelephoneCode>
+    <CountryCode>MY</CountryCode>
+    <CountryCode3>MYS</CountryCode3>
+    <CountryNumber>458</CountryNumber>
+    <InternetCountryCode>.my</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>106</SortOrder>
+    <CommonName>Maldives</CommonName>
+    <FormalName>Republic of Maldives</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Male</Capital>
+    <CurrencyCode>MVR</CurrencyCode>
+    <CurrencyName>Rufiyaa</CurrencyName>
+    <TelephoneCode>+960</TelephoneCode>
+    <CountryCode>MV</CountryCode>
+    <CountryCode3>MDV</CountryCode3>
+    <CountryNumber>462</CountryNumber>
+    <InternetCountryCode>.mv</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>107</SortOrder>
+    <CommonName>Mali</CommonName>
+    <FormalName>Republic of Mali</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bamako</Capital>
+    <CurrencyCode>XOF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+223</TelephoneCode>
+    <CountryCode>ML</CountryCode>
+    <CountryCode3>MLI</CountryCode3>
+    <CountryNumber>466</CountryNumber>
+    <InternetCountryCode>.ml</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>108</SortOrder>
+    <CommonName>Malta</CommonName>
+    <FormalName>Republic of Malta</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Valletta</Capital>
+    <CurrencyCode>MTL</CurrencyCode>
+    <CurrencyName>Lira</CurrencyName>
+    <TelephoneCode>+356</TelephoneCode>
+    <CountryCode>MT</CountryCode>
+    <CountryCode3>MLT</CountryCode3>
+    <CountryNumber>470</CountryNumber>
+    <InternetCountryCode>.mt</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>109</SortOrder>
+    <CommonName>Marshall Islands</CommonName>
+    <FormalName>Republic of the Marshall Islands</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Majuro</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+692</TelephoneCode>
+    <CountryCode>MH</CountryCode>
+    <CountryCode3>MHL</CountryCode3>
+    <CountryNumber>584</CountryNumber>
+    <InternetCountryCode>.mh</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>110</SortOrder>
+    <CommonName>Mauritania</CommonName>
+    <FormalName>Islamic Republic of Mauritania</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Nouakchott</Capital>
+    <CurrencyCode>MRO</CurrencyCode>
+    <CurrencyName>Ouguiya</CurrencyName>
+    <TelephoneCode>+222</TelephoneCode>
+    <CountryCode>MR</CountryCode>
+    <CountryCode3>MRT</CountryCode3>
+    <CountryNumber>478</CountryNumber>
+    <InternetCountryCode>.mr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>111</SortOrder>
+    <CommonName>Mauritius</CommonName>
+    <FormalName>Republic of Mauritius</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Port Louis</Capital>
+    <CurrencyCode>MUR</CurrencyCode>
+    <CurrencyName>Rupee</CurrencyName>
+    <TelephoneCode>+230</TelephoneCode>
+    <CountryCode>MU</CountryCode>
+    <CountryCode3>MUS</CountryCode3>
+    <CountryNumber>480</CountryNumber>
+    <InternetCountryCode>.mu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>112</SortOrder>
+    <CommonName>Mexico</CommonName>
+    <FormalName>United Mexican States</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Mexico</Capital>
+    <CurrencyCode>MXN</CurrencyCode>
+    <CurrencyName>Peso</CurrencyName>
+    <TelephoneCode>+52</TelephoneCode>
+    <CountryCode>MX</CountryCode>
+    <CountryCode3>MEX</CountryCode3>
+    <CountryNumber>484</CountryNumber>
+    <InternetCountryCode>.mx</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>113</SortOrder>
+    <CommonName>Micronesia</CommonName>
+    <FormalName>Federated States of Micronesia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Palikir</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+691</TelephoneCode>
+    <CountryCode>FM</CountryCode>
+    <CountryCode3>FSM</CountryCode3>
+    <CountryNumber>583</CountryNumber>
+    <InternetCountryCode>.fm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>114</SortOrder>
+    <CommonName>Moldova</CommonName>
+    <FormalName>Republic of Moldova</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Chisinau</Capital>
+    <CurrencyCode>MDL</CurrencyCode>
+    <CurrencyName>Leu</CurrencyName>
+    <TelephoneCode>+373</TelephoneCode>
+    <CountryCode>MD</CountryCode>
+    <CountryCode3>MDA</CountryCode3>
+    <CountryNumber>498</CountryNumber>
+    <InternetCountryCode>.md</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>115</SortOrder>
+    <CommonName>Monaco</CommonName>
+    <FormalName>Principality of Monaco</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Monaco</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+377</TelephoneCode>
+    <CountryCode>MC</CountryCode>
+    <CountryCode3>MCO</CountryCode3>
+    <CountryNumber>492</CountryNumber>
+    <InternetCountryCode>.mc</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>116</SortOrder>
+    <CommonName>Mongolia</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Ulaanbaatar</Capital>
+    <CurrencyCode>MNT</CurrencyCode>
+    <CurrencyName>Tugrik</CurrencyName>
+    <TelephoneCode>+976</TelephoneCode>
+    <CountryCode>MN</CountryCode>
+    <CountryCode3>MNG</CountryCode3>
+    <CountryNumber>496</CountryNumber>
+    <InternetCountryCode>.mn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>117</SortOrder>
+    <CommonName>Montenegro</CommonName>
+    <FormalName>Republic of Montenegro</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Podgorica</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+382</TelephoneCode>
+    <CountryCode>ME</CountryCode>
+    <CountryCode3>MNE</CountryCode3>
+    <CountryNumber>499</CountryNumber>
+    <InternetCountryCode>.me and .yu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>118</SortOrder>
+    <CommonName>Morocco</CommonName>
+    <FormalName>Kingdom of Morocco</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Rabat</Capital>
+    <CurrencyCode>MAD</CurrencyCode>
+    <CurrencyName>Dirham</CurrencyName>
+    <TelephoneCode>+212</TelephoneCode>
+    <CountryCode>MA</CountryCode>
+    <CountryCode3>MAR</CountryCode3>
+    <CountryNumber>504</CountryNumber>
+    <InternetCountryCode>.ma</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>119</SortOrder>
+    <CommonName>Mozambique</CommonName>
+    <FormalName>Republic of Mozambique</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Maputo</Capital>
+    <CurrencyCode>MZM</CurrencyCode>
+    <CurrencyName>Meticail</CurrencyName>
+    <TelephoneCode>+258</TelephoneCode>
+    <CountryCode>MZ</CountryCode>
+    <CountryCode3>MOZ</CountryCode3>
+    <CountryNumber>508</CountryNumber>
+    <InternetCountryCode>.mz</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>120</SortOrder>
+    <CommonName>Myanmar (Burma)</CommonName>
+    <FormalName>Union of Myanmar</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Naypyidaw</Capital>
+    <CurrencyCode>MMK</CurrencyCode>
+    <CurrencyName>Kyat</CurrencyName>
+    <TelephoneCode>+95</TelephoneCode>
+    <CountryCode>MM</CountryCode>
+    <CountryCode3>MMR</CountryCode3>
+    <CountryNumber>104</CountryNumber>
+    <InternetCountryCode>.mm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>121</SortOrder>
+    <CommonName>Namibia</CommonName>
+    <FormalName>Republic of Namibia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Windhoek</Capital>
+    <CurrencyCode>NAD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+264</TelephoneCode>
+    <CountryCode>NA</CountryCode>
+    <CountryCode3>NAM</CountryCode3>
+    <CountryNumber>516</CountryNumber>
+    <InternetCountryCode>.na</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>122</SortOrder>
+    <CommonName>Nauru</CommonName>
+    <FormalName>Republic of Nauru</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Yaren</Capital>
+    <CurrencyCode>AUD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+674</TelephoneCode>
+    <CountryCode>NR</CountryCode>
+    <CountryCode3>NRU</CountryCode3>
+    <CountryNumber>520</CountryNumber>
+    <InternetCountryCode>.nr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>123</SortOrder>
+    <CommonName>Nepal</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kathmandu</Capital>
+    <CurrencyCode>NPR</CurrencyCode>
+    <CurrencyName>Rupee</CurrencyName>
+    <TelephoneCode>+977</TelephoneCode>
+    <CountryCode>NP</CountryCode>
+    <CountryCode3>NPL</CountryCode3>
+    <CountryNumber>524</CountryNumber>
+    <InternetCountryCode>.np</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>124</SortOrder>
+    <CommonName>Netherlands</CommonName>
+    <FormalName>Kingdom of the Netherlands</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Amsterdam (administrative) and The Hague (legislative/judical)</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+31</TelephoneCode>
+    <CountryCode>NL</CountryCode>
+    <CountryCode3>NLD</CountryCode3>
+    <CountryNumber>528</CountryNumber>
+    <InternetCountryCode>.nl</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>125</SortOrder>
+    <CommonName>New Zealand</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Wellington</Capital>
+    <CurrencyCode>NZD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+64</TelephoneCode>
+    <CountryCode>NZ</CountryCode>
+    <CountryCode3>NZL</CountryCode3>
+    <CountryNumber>554</CountryNumber>
+    <InternetCountryCode>.nz</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>126</SortOrder>
+    <CommonName>Nicaragua</CommonName>
+    <FormalName>Republic of Nicaragua</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Managua</Capital>
+    <CurrencyCode>NIO</CurrencyCode>
+    <CurrencyName>Cordoba</CurrencyName>
+    <TelephoneCode>+505</TelephoneCode>
+    <CountryCode>NI</CountryCode>
+    <CountryCode3>NIC</CountryCode3>
+    <CountryNumber>558</CountryNumber>
+    <InternetCountryCode>.ni</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>127</SortOrder>
+    <CommonName>Niger</CommonName>
+    <FormalName>Republic of Niger</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Niamey</Capital>
+    <CurrencyCode>XOF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+227</TelephoneCode>
+    <CountryCode>NE</CountryCode>
+    <CountryCode3>NER</CountryCode3>
+    <CountryNumber>562</CountryNumber>
+    <InternetCountryCode>.ne</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>128</SortOrder>
+    <CommonName>Nigeria</CommonName>
+    <FormalName>Federal Republic of Nigeria</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Abuja</Capital>
+    <CurrencyCode>NGN</CurrencyCode>
+    <CurrencyName>Naira</CurrencyName>
+    <TelephoneCode>+234</TelephoneCode>
+    <CountryCode>NG</CountryCode>
+    <CountryCode3>NGA</CountryCode3>
+    <CountryNumber>566</CountryNumber>
+    <InternetCountryCode>.ng</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>129</SortOrder>
+    <CommonName>Norway</CommonName>
+    <FormalName>Kingdom of Norway</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Oslo</Capital>
+    <CurrencyCode>NOK</CurrencyCode>
+    <CurrencyName>Krone</CurrencyName>
+    <TelephoneCode>+47</TelephoneCode>
+    <CountryCode>NO</CountryCode>
+    <CountryCode3>NOR</CountryCode3>
+    <CountryNumber>578</CountryNumber>
+    <InternetCountryCode>.no</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>130</SortOrder>
+    <CommonName>Oman</CommonName>
+    <FormalName>Sultanate of Oman</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Muscat</Capital>
+    <CurrencyCode>OMR</CurrencyCode>
+    <CurrencyName>Rial</CurrencyName>
+    <TelephoneCode>+968</TelephoneCode>
+    <CountryCode>OM</CountryCode>
+    <CountryCode3>OMN</CountryCode3>
+    <CountryNumber>512</CountryNumber>
+    <InternetCountryCode>.om</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>131</SortOrder>
+    <CommonName>Pakistan</CommonName>
+    <FormalName>Islamic Republic of Pakistan</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Islamabad</Capital>
+    <CurrencyCode>PKR</CurrencyCode>
+    <CurrencyName>Rupee</CurrencyName>
+    <TelephoneCode>+92</TelephoneCode>
+    <CountryCode>PK</CountryCode>
+    <CountryCode3>PAK</CountryCode3>
+    <CountryNumber>586</CountryNumber>
+    <InternetCountryCode>.pk</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>132</SortOrder>
+    <CommonName>Palau</CommonName>
+    <FormalName>Republic of Palau</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Melekeok</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+680</TelephoneCode>
+    <CountryCode>PW</CountryCode>
+    <CountryCode3>PLW</CountryCode3>
+    <CountryNumber>585</CountryNumber>
+    <InternetCountryCode>.pw</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>133</SortOrder>
+    <CommonName>Panama</CommonName>
+    <FormalName>Republic of Panama</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Panama</Capital>
+    <CurrencyCode>PAB</CurrencyCode>
+    <CurrencyName>Balboa</CurrencyName>
+    <TelephoneCode>+507</TelephoneCode>
+    <CountryCode>PA</CountryCode>
+    <CountryCode3>PAN</CountryCode3>
+    <CountryNumber>591</CountryNumber>
+    <InternetCountryCode>.pa</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>134</SortOrder>
+    <CommonName>Papua New Guinea</CommonName>
+    <FormalName>Independent State of Papua New Guinea</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Port Moresby</Capital>
+    <CurrencyCode>PGK</CurrencyCode>
+    <CurrencyName>Kina</CurrencyName>
+    <TelephoneCode>+675</TelephoneCode>
+    <CountryCode>PG</CountryCode>
+    <CountryCode3>PNG</CountryCode3>
+    <CountryNumber>598</CountryNumber>
+    <InternetCountryCode>.pg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>135</SortOrder>
+    <CommonName>Paraguay</CommonName>
+    <FormalName>Republic of Paraguay</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Asuncion</Capital>
+    <CurrencyCode>PYG</CurrencyCode>
+    <CurrencyName>Guarani</CurrencyName>
+    <TelephoneCode>+595</TelephoneCode>
+    <CountryCode>PY</CountryCode>
+    <CountryCode3>PRY</CountryCode3>
+    <CountryNumber>600</CountryNumber>
+    <InternetCountryCode>.py</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>136</SortOrder>
+    <CommonName>Peru</CommonName>
+    <FormalName>Republic of Peru</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Lima</Capital>
+    <CurrencyCode>PEN</CurrencyCode>
+    <CurrencyName>Sol</CurrencyName>
+    <TelephoneCode>+51</TelephoneCode>
+    <CountryCode>PE</CountryCode>
+    <CountryCode3>PER</CountryCode3>
+    <CountryNumber>604</CountryNumber>
+    <InternetCountryCode>.pe</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>137</SortOrder>
+    <CommonName>Philippines</CommonName>
+    <FormalName>Republic of the Philippines</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Manila</Capital>
+    <CurrencyCode>PHP</CurrencyCode>
+    <CurrencyName>Peso</CurrencyName>
+    <TelephoneCode>+63</TelephoneCode>
+    <CountryCode>PH</CountryCode>
+    <CountryCode3>PHL</CountryCode3>
+    <CountryNumber>608</CountryNumber>
+    <InternetCountryCode>.ph</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>138</SortOrder>
+    <CommonName>Poland</CommonName>
+    <FormalName>Republic of Poland</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Warsaw</Capital>
+    <CurrencyCode>PLN</CurrencyCode>
+    <CurrencyName>Zloty</CurrencyName>
+    <TelephoneCode>+48</TelephoneCode>
+    <CountryCode>PL</CountryCode>
+    <CountryCode3>POL</CountryCode3>
+    <CountryNumber>616</CountryNumber>
+    <InternetCountryCode>.pl</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>139</SortOrder>
+    <CommonName>Portugal</CommonName>
+    <FormalName>Portuguese Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Lisbon</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+351</TelephoneCode>
+    <CountryCode>PT</CountryCode>
+    <CountryCode3>PRT</CountryCode3>
+    <CountryNumber>620</CountryNumber>
+    <InternetCountryCode>.pt</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>140</SortOrder>
+    <CommonName>Qatar</CommonName>
+    <FormalName>State of Qatar</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Doha</Capital>
+    <CurrencyCode>QAR</CurrencyCode>
+    <CurrencyName>Rial</CurrencyName>
+    <TelephoneCode>+974</TelephoneCode>
+    <CountryCode>QA</CountryCode>
+    <CountryCode3>QAT</CountryCode3>
+    <CountryNumber>634</CountryNumber>
+    <InternetCountryCode>.qa</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>141</SortOrder>
+    <CommonName>Romania</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bucharest</Capital>
+    <CurrencyCode>RON</CurrencyCode>
+    <CurrencyName>Leu</CurrencyName>
+    <TelephoneCode>+40</TelephoneCode>
+    <CountryCode>RO</CountryCode>
+    <CountryCode3>ROU</CountryCode3>
+    <CountryNumber>642</CountryNumber>
+    <InternetCountryCode>.ro</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>142</SortOrder>
+    <CommonName>Russia</CommonName>
+    <FormalName>Russian Federation</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Moscow</Capital>
+    <CurrencyCode>RUB</CurrencyCode>
+    <CurrencyName>Ruble</CurrencyName>
+    <TelephoneCode>+7</TelephoneCode>
+    <CountryCode>RU</CountryCode>
+    <CountryCode3>RUS</CountryCode3>
+    <CountryNumber>643</CountryNumber>
+    <InternetCountryCode>.ru and .su</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>143</SortOrder>
+    <CommonName>Rwanda</CommonName>
+    <FormalName>Republic of Rwanda</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kigali</Capital>
+    <CurrencyCode>RWF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+250</TelephoneCode>
+    <CountryCode>RW</CountryCode>
+    <CountryCode3>RWA</CountryCode3>
+    <CountryNumber>646</CountryNumber>
+    <InternetCountryCode>.rw</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>144</SortOrder>
+    <CommonName>Saint Kitts and Nevis</CommonName>
+    <FormalName>Federation of Saint Kitts and Nevis</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Basseterre</Capital>
+    <CurrencyCode>XCD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-869</TelephoneCode>
+    <CountryCode>KN</CountryCode>
+    <CountryCode3>KNA</CountryCode3>
+    <CountryNumber>659</CountryNumber>
+    <InternetCountryCode>.kn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>145</SortOrder>
+    <CommonName>Saint Lucia</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Castries</Capital>
+    <CurrencyCode>XCD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-758</TelephoneCode>
+    <CountryCode>LC</CountryCode>
+    <CountryCode3>LCA</CountryCode3>
+    <CountryNumber>662</CountryNumber>
+    <InternetCountryCode>.lc</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>146</SortOrder>
+    <CommonName>St. Vincent and the Grenadines</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kingstown</Capital>
+    <CurrencyCode>XCD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-784</TelephoneCode>
+    <CountryCode>VC</CountryCode>
+    <CountryCode3>VCT</CountryCode3>
+    <CountryNumber>670</CountryNumber>
+    <InternetCountryCode>.vc</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>147</SortOrder>
+    <CommonName>Samoa</CommonName>
+    <FormalName>Independent State of Samoa</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Apia</Capital>
+    <CurrencyCode>WST</CurrencyCode>
+    <CurrencyName>Tala</CurrencyName>
+    <TelephoneCode>+685</TelephoneCode>
+    <CountryCode>WS</CountryCode>
+    <CountryCode3>WSM</CountryCode3>
+    <CountryNumber>882</CountryNumber>
+    <InternetCountryCode>.ws</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>148</SortOrder>
+    <CommonName>San Marino</CommonName>
+    <FormalName>Republic of San Marino</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>San Marino</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+378</TelephoneCode>
+    <CountryCode>SM</CountryCode>
+    <CountryCode3>SMR</CountryCode3>
+    <CountryNumber>674</CountryNumber>
+    <InternetCountryCode>.sm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>149</SortOrder>
+    <CommonName>Sao Tome and Principe</CommonName>
+    <FormalName>Democratic Republic of Sao Tome and Principe</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Sao Tome</Capital>
+    <CurrencyCode>STD</CurrencyCode>
+    <CurrencyName>Dobra</CurrencyName>
+    <TelephoneCode>+239</TelephoneCode>
+    <CountryCode>ST</CountryCode>
+    <CountryCode3>STP</CountryCode3>
+    <CountryNumber>678</CountryNumber>
+    <InternetCountryCode>.st</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>150</SortOrder>
+    <CommonName>Saudi Arabia</CommonName>
+    <FormalName>Kingdom of Saudi Arabia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Riyadh</Capital>
+    <CurrencyCode>SAR</CurrencyCode>
+    <CurrencyName>Rial</CurrencyName>
+    <TelephoneCode>+966</TelephoneCode>
+    <CountryCode>SA</CountryCode>
+    <CountryCode3>SAU</CountryCode3>
+    <CountryNumber>682</CountryNumber>
+    <InternetCountryCode>.sa</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>151</SortOrder>
+    <CommonName>Senegal</CommonName>
+    <FormalName>Republic of Senegal</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Dakar</Capital>
+    <CurrencyCode>XOF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+221</TelephoneCode>
+    <CountryCode>SN</CountryCode>
+    <CountryCode3>SEN</CountryCode3>
+    <CountryNumber>686</CountryNumber>
+    <InternetCountryCode>.sn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>152</SortOrder>
+    <CommonName>Serbia</CommonName>
+    <FormalName>Republic of Serbia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Belgrade</Capital>
+    <CurrencyCode>RSD</CurrencyCode>
+    <CurrencyName>Dinar</CurrencyName>
+    <TelephoneCode>+381</TelephoneCode>
+    <CountryCode>RS</CountryCode>
+    <CountryCode3>SRB</CountryCode3>
+    <CountryNumber>688</CountryNumber>
+    <InternetCountryCode>.rs and .yu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>153</SortOrder>
+    <CommonName>Seychelles</CommonName>
+    <FormalName>Republic of Seychelles</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Victoria</Capital>
+    <CurrencyCode>SCR</CurrencyCode>
+    <CurrencyName>Rupee</CurrencyName>
+    <TelephoneCode>+248</TelephoneCode>
+    <CountryCode>SC</CountryCode>
+    <CountryCode3>SYC</CountryCode3>
+    <CountryNumber>690</CountryNumber>
+    <InternetCountryCode>.sc</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>154</SortOrder>
+    <CommonName>Sierra Leone</CommonName>
+    <FormalName>Republic of Sierra Leone</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Freetown</Capital>
+    <CurrencyCode>SLL</CurrencyCode>
+    <CurrencyName>Leone</CurrencyName>
+    <TelephoneCode>+232</TelephoneCode>
+    <CountryCode>SL</CountryCode>
+    <CountryCode3>SLE</CountryCode3>
+    <CountryNumber>694</CountryNumber>
+    <InternetCountryCode>.sl</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>155</SortOrder>
+    <CommonName>Singapore</CommonName>
+    <FormalName>Republic of Singapore</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Singapore</Capital>
+    <CurrencyCode>SGD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+65</TelephoneCode>
+    <CountryCode>SG</CountryCode>
+    <CountryCode3>SGP</CountryCode3>
+    <CountryNumber>702</CountryNumber>
+    <InternetCountryCode>.sg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>156</SortOrder>
+    <CommonName>Slovakia</CommonName>
+    <FormalName>Slovak Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bratislava</Capital>
+    <CurrencyCode>SKK</CurrencyCode>
+    <CurrencyName>Koruna</CurrencyName>
+    <TelephoneCode>+421</TelephoneCode>
+    <CountryCode>SK</CountryCode>
+    <CountryCode3>SVK</CountryCode3>
+    <CountryNumber>703</CountryNumber>
+    <InternetCountryCode>.sk</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>157</SortOrder>
+    <CommonName>Slovenia</CommonName>
+    <FormalName>Republic of Slovenia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Ljubljana</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+386</TelephoneCode>
+    <CountryCode>SI</CountryCode>
+    <CountryCode3>SVN</CountryCode3>
+    <CountryNumber>705</CountryNumber>
+    <InternetCountryCode>.si</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>158</SortOrder>
+    <CommonName>Solomon Islands</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Honiara</Capital>
+    <CurrencyCode>SBD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+677</TelephoneCode>
+    <CountryCode>SB</CountryCode>
+    <CountryCode3>SLB</CountryCode3>
+    <CountryNumber>090</CountryNumber>
+    <InternetCountryCode>.sb</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>159</SortOrder>
+    <CommonName>Somalia</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Mogadishu</Capital>
+    <CurrencyCode>SOS</CurrencyCode>
+    <CurrencyName>Shilling</CurrencyName>
+    <TelephoneCode>+252</TelephoneCode>
+    <CountryCode>SO</CountryCode>
+    <CountryCode3>SOM</CountryCode3>
+    <CountryNumber>706</CountryNumber>
+    <InternetCountryCode>.so</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>160</SortOrder>
+    <CommonName>South Africa</CommonName>
+    <FormalName>Republic of South Africa</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Pretoria (administrative), Cape Town (legislative), and Bloemfontein (judical)</Capital>
+    <CurrencyCode>ZAR</CurrencyCode>
+    <CurrencyName>Rand</CurrencyName>
+    <TelephoneCode>+27</TelephoneCode>
+    <CountryCode>ZA</CountryCode>
+    <CountryCode3>ZAF</CountryCode3>
+    <CountryNumber>710</CountryNumber>
+    <InternetCountryCode>.za</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>161</SortOrder>
+    <CommonName>Spain</CommonName>
+    <FormalName>Kingdom of Spain</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Madrid</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+34</TelephoneCode>
+    <CountryCode>ES</CountryCode>
+    <CountryCode3>ESP</CountryCode3>
+    <CountryNumber>724</CountryNumber>
+    <InternetCountryCode>.es</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>162</SortOrder>
+    <CommonName>Sri Lanka</CommonName>
+    <FormalName>Democratic Socialist Republic of Sri Lanka</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Colombo (administrative/judical) and Sri Jayewardenepura Kotte (legislative)</Capital>
+    <CurrencyCode>LKR</CurrencyCode>
+    <CurrencyName>Rupee</CurrencyName>
+    <TelephoneCode>+94</TelephoneCode>
+    <CountryCode>LK</CountryCode>
+    <CountryCode3>LKA</CountryCode3>
+    <CountryNumber>144</CountryNumber>
+    <InternetCountryCode>.lk</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>163</SortOrder>
+    <CommonName>Sudan</CommonName>
+    <FormalName>Republic of the Sudan</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Khartoum</Capital>
+    <CurrencyCode>SDD</CurrencyCode>
+    <CurrencyName>Dinar</CurrencyName>
+    <TelephoneCode>+249</TelephoneCode>
+    <CountryCode>SD</CountryCode>
+    <CountryCode3>SDN</CountryCode3>
+    <CountryNumber>736</CountryNumber>
+    <InternetCountryCode>.sd</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>164</SortOrder>
+    <CommonName>Suriname</CommonName>
+    <FormalName>Republic of Suriname</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Paramaribo</Capital>
+    <CurrencyCode>SRD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+597</TelephoneCode>
+    <CountryCode>SR</CountryCode>
+    <CountryCode3>SUR</CountryCode3>
+    <CountryNumber>740</CountryNumber>
+    <InternetCountryCode>.sr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>165</SortOrder>
+    <CommonName>Swaziland</CommonName>
+    <FormalName>Kingdom of Swaziland</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Mbabane (administrative) and Lobamba (legislative)</Capital>
+    <CurrencyCode>SZL</CurrencyCode>
+    <CurrencyName>Lilangeni</CurrencyName>
+    <TelephoneCode>+268</TelephoneCode>
+    <CountryCode>SZ</CountryCode>
+    <CountryCode3>SWZ</CountryCode3>
+    <CountryNumber>748</CountryNumber>
+    <InternetCountryCode>.sz</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>166</SortOrder>
+    <CommonName>Sweden</CommonName>
+    <FormalName>Kingdom of Sweden</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Stockholm</Capital>
+    <CurrencyCode>SEK</CurrencyCode>
+    <CurrencyName>Kronoa</CurrencyName>
+    <TelephoneCode>+46</TelephoneCode>
+    <CountryCode>SE</CountryCode>
+    <CountryCode3>SWE</CountryCode3>
+    <CountryNumber>752</CountryNumber>
+    <InternetCountryCode>.se</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>167</SortOrder>
+    <CommonName>Switzerland</CommonName>
+    <FormalName>Swiss Confederation</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bern</Capital>
+    <CurrencyCode>CHF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+41</TelephoneCode>
+    <CountryCode>CH</CountryCode>
+    <CountryCode3>CHE</CountryCode3>
+    <CountryNumber>756</CountryNumber>
+    <InternetCountryCode>.ch</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>168</SortOrder>
+    <CommonName>Syria</CommonName>
+    <FormalName>Syrian Arab Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Damascus</Capital>
+    <CurrencyCode>SYP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+963</TelephoneCode>
+    <CountryCode>SY</CountryCode>
+    <CountryCode3>SYR</CountryCode3>
+    <CountryNumber>760</CountryNumber>
+    <InternetCountryCode>.sy</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>169</SortOrder>
+    <CommonName>Tajikistan</CommonName>
+    <FormalName>Republic of Tajikistan</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Dushanbe</Capital>
+    <CurrencyCode>TJS</CurrencyCode>
+    <CurrencyName>Somoni</CurrencyName>
+    <TelephoneCode>+992</TelephoneCode>
+    <CountryCode>TJ</CountryCode>
+    <CountryCode3>TJK</CountryCode3>
+    <CountryNumber>762</CountryNumber>
+    <InternetCountryCode>.tj</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>170</SortOrder>
+    <CommonName>Tanzania</CommonName>
+    <FormalName>United Republic of Tanzania</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Dar es Salaam (administrative/judical) and Dodoma (legislative)</Capital>
+    <CurrencyCode>TZS</CurrencyCode>
+    <CurrencyName>Shilling</CurrencyName>
+    <TelephoneCode>+255</TelephoneCode>
+    <CountryCode>TZ</CountryCode>
+    <CountryCode3>TZA</CountryCode3>
+    <CountryNumber>834</CountryNumber>
+    <InternetCountryCode>.tz</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>171</SortOrder>
+    <CommonName>Thailand</CommonName>
+    <FormalName>Kingdom of Thailand</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Bangkok</Capital>
+    <CurrencyCode>THB</CurrencyCode>
+    <CurrencyName>Baht</CurrencyName>
+    <TelephoneCode>+66</TelephoneCode>
+    <CountryCode>TH</CountryCode>
+    <CountryCode3>THA</CountryCode3>
+    <CountryNumber>764</CountryNumber>
+    <InternetCountryCode>.th</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>172</SortOrder>
+    <CommonName>Timor-Leste (East Timor)</CommonName>
+    <FormalName>Democratic Republic of Timor-Leste</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Dili</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+670</TelephoneCode>
+    <CountryCode>TL</CountryCode>
+    <CountryCode3>TLS</CountryCode3>
+    <CountryNumber>626</CountryNumber>
+    <InternetCountryCode>.tp and .tl</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>173</SortOrder>
+    <CommonName>Togo</CommonName>
+    <FormalName>Togolese Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Lome</Capital>
+    <CurrencyCode>XOF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+228</TelephoneCode>
+    <CountryCode>TG</CountryCode>
+    <CountryCode3>TGO</CountryCode3>
+    <CountryNumber>768</CountryNumber>
+    <InternetCountryCode>.tg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>174</SortOrder>
+    <CommonName>Tonga</CommonName>
+    <FormalName>Kingdom of Tonga</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Nuku&apos;alofa</Capital>
+    <CurrencyCode>TOP</CurrencyCode>
+    <CurrencyName>Pa&apos;anga</CurrencyName>
+    <TelephoneCode>+676</TelephoneCode>
+    <CountryCode>TO</CountryCode>
+    <CountryCode3>TON</CountryCode3>
+    <CountryNumber>776</CountryNumber>
+    <InternetCountryCode>.to</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>175</SortOrder>
+    <CommonName>Trinidad and Tobago</CommonName>
+    <FormalName>Republic of Trinidad and Tobago</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Port-of-Spain</Capital>
+    <CurrencyCode>TTD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-868</TelephoneCode>
+    <CountryCode>TT</CountryCode>
+    <CountryCode3>TTO</CountryCode3>
+    <CountryNumber>780</CountryNumber>
+    <InternetCountryCode>.tt</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>176</SortOrder>
+    <CommonName>Tunisia</CommonName>
+    <FormalName>Tunisian Republic</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tunis</Capital>
+    <CurrencyCode>TND</CurrencyCode>
+    <CurrencyName>Dinar</CurrencyName>
+    <TelephoneCode>+216</TelephoneCode>
+    <CountryCode>TN</CountryCode>
+    <CountryCode3>TUN</CountryCode3>
+    <CountryNumber>788</CountryNumber>
+    <InternetCountryCode>.tn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>177</SortOrder>
+    <CommonName>Turkey</CommonName>
+    <FormalName>Republic of Turkey</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Ankara</Capital>
+    <CurrencyCode>TRY</CurrencyCode>
+    <CurrencyName>Lira</CurrencyName>
+    <TelephoneCode>+90</TelephoneCode>
+    <CountryCode>TR</CountryCode>
+    <CountryCode3>TUR</CountryCode3>
+    <CountryNumber>792</CountryNumber>
+    <InternetCountryCode>.tr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>178</SortOrder>
+    <CommonName>Turkmenistan</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Ashgabat</Capital>
+    <CurrencyCode>TMM</CurrencyCode>
+    <CurrencyName>Manat</CurrencyName>
+    <TelephoneCode>+993</TelephoneCode>
+    <CountryCode>TM</CountryCode>
+    <CountryCode3>TKM</CountryCode3>
+    <CountryNumber>795</CountryNumber>
+    <InternetCountryCode>.tm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>179</SortOrder>
+    <CommonName>Tuvalu</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Funafuti</Capital>
+    <CurrencyCode>AUD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+688</TelephoneCode>
+    <CountryCode>TV</CountryCode>
+    <CountryCode3>TUV</CountryCode3>
+    <CountryNumber>798</CountryNumber>
+    <InternetCountryCode>.tv</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>180</SortOrder>
+    <CommonName>Uganda</CommonName>
+    <FormalName>Republic of Uganda</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kampala</Capital>
+    <CurrencyCode>UGX</CurrencyCode>
+    <CurrencyName>Shilling</CurrencyName>
+    <TelephoneCode>+256</TelephoneCode>
+    <CountryCode>UG</CountryCode>
+    <CountryCode3>UGA</CountryCode3>
+    <CountryNumber>800</CountryNumber>
+    <InternetCountryCode>.ug</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>181</SortOrder>
+    <CommonName>Ukraine</CommonName>
+    <FormalName></FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Kiev</Capital>
+    <CurrencyCode>UAH</CurrencyCode>
+    <CurrencyName>Hryvnia</CurrencyName>
+    <TelephoneCode>+380</TelephoneCode>
+    <CountryCode>UA</CountryCode>
+    <CountryCode3>UKR</CountryCode3>
+    <CountryNumber>804</CountryNumber>
+    <InternetCountryCode>.ua</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>182</SortOrder>
+    <CommonName>United Arab Emirates</CommonName>
+    <FormalName>United Arab Emirates</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Abu Dhabi</Capital>
+    <CurrencyCode>AED</CurrencyCode>
+    <CurrencyName>Dirham</CurrencyName>
+    <TelephoneCode>+971</TelephoneCode>
+    <CountryCode>AE</CountryCode>
+    <CountryCode3>ARE</CountryCode3>
+    <CountryNumber>784</CountryNumber>
+    <InternetCountryCode>.ae</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>183</SortOrder>
+    <CommonName>United Kingdom</CommonName>
+    <FormalName>United Kingdom of Great Britain and Northern Ireland</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>London</Capital>
+    <CurrencyCode>GBP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+44</TelephoneCode>
+    <CountryCode>GB</CountryCode>
+    <CountryCode3>GBR</CountryCode3>
+    <CountryNumber>826</CountryNumber>
+    <InternetCountryCode>.uk</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>184</SortOrder>
+    <CommonName>United States</CommonName>
+    <FormalName>United States of America</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Washington</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1</TelephoneCode>
+    <CountryCode>US</CountryCode>
+    <CountryCode3>USA</CountryCode3>
+    <CountryNumber>840</CountryNumber>
+    <InternetCountryCode>.us</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>185</SortOrder>
+    <CommonName>Uruguay</CommonName>
+    <FormalName>Oriental Republic of Uruguay</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Montevideo</Capital>
+    <CurrencyCode>UYU</CurrencyCode>
+    <CurrencyName>Peso</CurrencyName>
+    <TelephoneCode>+598</TelephoneCode>
+    <CountryCode>UY</CountryCode>
+    <CountryCode3>URY</CountryCode3>
+    <CountryNumber>858</CountryNumber>
+    <InternetCountryCode>.uy</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>186</SortOrder>
+    <CommonName>Uzbekistan</CommonName>
+    <FormalName>Republic of Uzbekistan</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Tashkent</Capital>
+    <CurrencyCode>UZS</CurrencyCode>
+    <CurrencyName>Som</CurrencyName>
+    <TelephoneCode>+998</TelephoneCode>
+    <CountryCode>UZ</CountryCode>
+    <CountryCode3>UZB</CountryCode3>
+    <CountryNumber>860</CountryNumber>
+    <InternetCountryCode>.uz</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>187</SortOrder>
+    <CommonName>Vanuatu</CommonName>
+    <FormalName>Republic of Vanuatu</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Port-Vila</Capital>
+    <CurrencyCode>VUV</CurrencyCode>
+    <CurrencyName>Vatu</CurrencyName>
+    <TelephoneCode>+678</TelephoneCode>
+    <CountryCode>VU</CountryCode>
+    <CountryCode3>VUT</CountryCode3>
+    <CountryNumber>548</CountryNumber>
+    <InternetCountryCode>.vu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>188</SortOrder>
+    <CommonName>Vatican City</CommonName>
+    <FormalName>State of the Vatican City</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Vatican City</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+379</TelephoneCode>
+    <CountryCode>VA</CountryCode>
+    <CountryCode3>VAT</CountryCode3>
+    <CountryNumber>336</CountryNumber>
+    <InternetCountryCode>.va</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>189</SortOrder>
+    <CommonName>Venezuela</CommonName>
+    <FormalName>Bolivarian Republic of Venezuela</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Caracas</Capital>
+    <CurrencyCode>VEB</CurrencyCode>
+    <CurrencyName>Bolivar</CurrencyName>
+    <TelephoneCode>+58</TelephoneCode>
+    <CountryCode>VE</CountryCode>
+    <CountryCode3>VEN</CountryCode3>
+    <CountryNumber>862</CountryNumber>
+    <InternetCountryCode>.ve</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>190</SortOrder>
+    <CommonName>Vietnam</CommonName>
+    <FormalName>Socialist Republic of Vietnam</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Hanoi</Capital>
+    <CurrencyCode>VND</CurrencyCode>
+    <CurrencyName>Dong</CurrencyName>
+    <TelephoneCode>+84</TelephoneCode>
+    <CountryCode>VN</CountryCode>
+    <CountryCode3>VNM</CountryCode3>
+    <CountryNumber>704</CountryNumber>
+    <InternetCountryCode>.vn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>191</SortOrder>
+    <CommonName>Yemen</CommonName>
+    <FormalName>Republic of Yemen</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Sanaa</Capital>
+    <CurrencyCode>YER</CurrencyCode>
+    <CurrencyName>Rial</CurrencyName>
+    <TelephoneCode>+967</TelephoneCode>
+    <CountryCode>YE</CountryCode>
+    <CountryCode3>YEM</CountryCode3>
+    <CountryNumber>887</CountryNumber>
+    <InternetCountryCode>.ye</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>192</SortOrder>
+    <CommonName>Zambia</CommonName>
+    <FormalName>Republic of Zambia</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Lusaka</Capital>
+    <CurrencyCode>ZMK</CurrencyCode>
+    <CurrencyName>Kwacha</CurrencyName>
+    <TelephoneCode>+260</TelephoneCode>
+    <CountryCode>ZM</CountryCode>
+    <CountryCode3>ZMB</CountryCode3>
+    <CountryNumber>894</CountryNumber>
+    <InternetCountryCode>.zm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>193</SortOrder>
+    <CommonName>Zimbabwe</CommonName>
+    <FormalName>Republic of Zimbabwe</FormalName>
+    <Type>Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Harare</Capital>
+    <CurrencyCode>ZWD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+263</TelephoneCode>
+    <CountryCode>ZW</CountryCode>
+    <CountryCode3>ZWE</CountryCode3>
+    <CountryNumber>716</CountryNumber>
+    <InternetCountryCode>.zw</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>195</SortOrder>
+    <CommonName>China, Republic of (Taiwan)</CommonName>
+    <FormalName>Republic of China</FormalName>
+    <Type>Proto Independent State</Type>
+    <SubType></SubType>
+    <Sovereignty></Sovereignty>
+    <Capital>Taipei</Capital>
+    <CurrencyCode>TWD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+886</TelephoneCode>
+    <CountryCode>TW</CountryCode>
+    <CountryCode3>TWN</CountryCode3>
+    <CountryNumber>158</CountryNumber>
+    <InternetCountryCode>.tw</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>202</SortOrder>
+    <CommonName>Christmas Island</CommonName>
+    <FormalName>Territory of Christmas Island</FormalName>
+    <Type>Dependency</Type>
+    <SubType>External Territory</SubType>
+    <Sovereignty>Australia</Sovereignty>
+    <Capital>The Settlement (Flying Fish Cove)</Capital>
+    <CurrencyCode>AUD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+61</TelephoneCode>
+    <CountryCode>CX</CountryCode>
+    <CountryCode3>CXR</CountryCode3>
+    <CountryNumber>162</CountryNumber>
+    <InternetCountryCode>.cx</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>203</SortOrder>
+    <CommonName>Cocos (Keeling) Islands</CommonName>
+    <FormalName>Territory of Cocos (Keeling) Islands</FormalName>
+    <Type>Dependency</Type>
+    <SubType>External Territory</SubType>
+    <Sovereignty>Australia</Sovereignty>
+    <Capital>West Island</Capital>
+    <CurrencyCode>AUD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+61</TelephoneCode>
+    <CountryCode>CC</CountryCode>
+    <CountryCode3>CCK</CountryCode3>
+    <CountryNumber>166</CountryNumber>
+    <InternetCountryCode>.cc</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>205</SortOrder>
+    <CommonName>Heard and McDonald Islands</CommonName>
+    <FormalName>Territory of Heard Island and McDonald Islands</FormalName>
+    <Type>Dependency</Type>
+    <SubType>External Territory</SubType>
+    <Sovereignty>Australia</Sovereignty>
+    <Capital></Capital>
+    <CurrencyCode></CurrencyCode>
+    <CurrencyName></CurrencyName>
+    <TelephoneCode></TelephoneCode>
+    <CountryCode>HM</CountryCode>
+    <CountryCode3>HMD</CountryCode3>
+    <CountryNumber>334</CountryNumber>
+    <InternetCountryCode>.hm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>206</SortOrder>
+    <CommonName>Norfolk Island</CommonName>
+    <FormalName>Territory of Norfolk Island</FormalName>
+    <Type>Dependency</Type>
+    <SubType>External Territory</SubType>
+    <Sovereignty>Australia</Sovereignty>
+    <Capital>Kingston</Capital>
+    <CurrencyCode>AUD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+672</TelephoneCode>
+    <CountryCode>NF</CountryCode>
+    <CountryCode3>NFK</CountryCode3>
+    <CountryNumber>574</CountryNumber>
+    <InternetCountryCode>.nf</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>207</SortOrder>
+    <CommonName>New Caledonia</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Sui generis Collectivity</SubType>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Noumea</Capital>
+    <CurrencyCode>XPF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+687</TelephoneCode>
+    <CountryCode>NC</CountryCode>
+    <CountryCode3>NCL</CountryCode3>
+    <CountryNumber>540</CountryNumber>
+    <InternetCountryCode>.nc</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>208</SortOrder>
+    <CommonName>French Polynesia</CommonName>
+    <FormalName>Overseas Country of French Polynesia</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Collectivity</SubType>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Papeete</Capital>
+    <CurrencyCode>XPF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+689</TelephoneCode>
+    <CountryCode>PF</CountryCode>
+    <CountryCode3>PYF</CountryCode3>
+    <CountryNumber>258</CountryNumber>
+    <InternetCountryCode>.pf</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>209</SortOrder>
+    <CommonName>Mayotte</CommonName>
+    <FormalName>Departmental Collectivity of Mayotte</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Collectivity</SubType>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Mamoudzou</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+262</TelephoneCode>
+    <CountryCode>YT</CountryCode>
+    <CountryCode3>MYT</CountryCode3>
+    <CountryNumber>175</CountryNumber>
+    <InternetCountryCode>.yt</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>212</SortOrder>
+    <CommonName>Saint Pierre and Miquelon</CommonName>
+    <FormalName>Territorial Collectivity of Saint Pierre and Miquelon</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Collectivity</SubType>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Saint-Pierre</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+508</TelephoneCode>
+    <CountryCode>PM</CountryCode>
+    <CountryCode3>SPM</CountryCode3>
+    <CountryNumber>666</CountryNumber>
+    <InternetCountryCode>.pm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>213</SortOrder>
+    <CommonName>Wallis and Futuna</CommonName>
+    <FormalName>Collectivity of the Wallis and Futuna Islands</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Collectivity</SubType>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Mata&apos;utu</Capital>
+    <CurrencyCode>XPF</CurrencyCode>
+    <CurrencyName>Franc</CurrencyName>
+    <TelephoneCode>+681</TelephoneCode>
+    <CountryCode>WF</CountryCode>
+    <CountryCode3>WLF</CountryCode3>
+    <CountryNumber>876</CountryNumber>
+    <InternetCountryCode>.wf</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>214</SortOrder>
+    <CommonName>French Southern Territories</CommonName>
+    <FormalName>Territory of the French Southern and Antarctic Lands</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Martin-de-Vivi&#232;s</Capital>
+    <CurrencyCode></CurrencyCode>
+    <CurrencyName></CurrencyName>
+    <TelephoneCode></TelephoneCode>
+    <CountryCode>TF</CountryCode>
+    <CountryCode3>ATF</CountryCode3>
+    <CountryNumber>260</CountryNumber>
+    <InternetCountryCode>.tf</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>216</SortOrder>
+    <CommonName>Bouvet Island</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Territory</SubType>
+    <Sovereignty>Norway</Sovereignty>
+    <Capital></Capital>
+    <CurrencyCode></CurrencyCode>
+    <CurrencyName></CurrencyName>
+    <TelephoneCode></TelephoneCode>
+    <CountryCode>BV</CountryCode>
+    <CountryCode3>BVT</CountryCode3>
+    <CountryNumber>074</CountryNumber>
+    <InternetCountryCode>.bv</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>217</SortOrder>
+    <CommonName>Cook Islands</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Self-Governing in Free Association</SubType>
+    <Sovereignty>New Zealand</Sovereignty>
+    <Capital>Avarua</Capital>
+    <CurrencyCode>NZD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+682</TelephoneCode>
+    <CountryCode>CK</CountryCode>
+    <CountryCode3>COK</CountryCode3>
+    <CountryNumber>184</CountryNumber>
+    <InternetCountryCode>.ck</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>218</SortOrder>
+    <CommonName>Niue</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Self-Governing in Free Association</SubType>
+    <Sovereignty>New Zealand</Sovereignty>
+    <Capital>Alofi</Capital>
+    <CurrencyCode>NZD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+683</TelephoneCode>
+    <CountryCode>NU</CountryCode>
+    <CountryCode3>NIU</CountryCode3>
+    <CountryNumber>570</CountryNumber>
+    <InternetCountryCode>.nu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>219</SortOrder>
+    <CommonName>Tokelau</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Territory</SubType>
+    <Sovereignty>New Zealand</Sovereignty>
+    <Capital></Capital>
+    <CurrencyCode>NZD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+690</TelephoneCode>
+    <CountryCode>TK</CountryCode>
+    <CountryCode3>TKL</CountryCode3>
+    <CountryNumber>772</CountryNumber>
+    <InternetCountryCode>.tk</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>220</SortOrder>
+    <CommonName>Guernsey</CommonName>
+    <FormalName>Bailiwick of Guernsey</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Crown Dependency</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Saint Peter Port</Capital>
+    <CurrencyCode>GGP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+44</TelephoneCode>
+    <CountryCode>GG</CountryCode>
+    <CountryCode3>GGY</CountryCode3>
+    <CountryNumber>831</CountryNumber>
+    <InternetCountryCode>.gg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>221</SortOrder>
+    <CommonName>Isle of Man</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Crown Dependency</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Douglas</Capital>
+    <CurrencyCode>IMP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+44</TelephoneCode>
+    <CountryCode>IM</CountryCode>
+    <CountryCode3>IMN</CountryCode3>
+    <CountryNumber>833</CountryNumber>
+    <InternetCountryCode>.im</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>222</SortOrder>
+    <CommonName>Jersey</CommonName>
+    <FormalName>Bailiwick of Jersey</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Crown Dependency</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Saint Helier</Capital>
+    <CurrencyCode>JEP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+44</TelephoneCode>
+    <CountryCode>JE</CountryCode>
+    <CountryCode3>JEY</CountryCode3>
+    <CountryNumber>832</CountryNumber>
+    <InternetCountryCode>.je</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>223</SortOrder>
+    <CommonName>Anguilla</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>The Valley</Capital>
+    <CurrencyCode>XCD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-264</TelephoneCode>
+    <CountryCode>AI</CountryCode>
+    <CountryCode3>AIA</CountryCode3>
+    <CountryNumber>660</CountryNumber>
+    <InternetCountryCode>.ai</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>224</SortOrder>
+    <CommonName>Bermuda</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Hamilton</Capital>
+    <CurrencyCode>BMD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-441</TelephoneCode>
+    <CountryCode>BM</CountryCode>
+    <CountryCode3>BMU</CountryCode3>
+    <CountryNumber>060</CountryNumber>
+    <InternetCountryCode>.bm</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>225</SortOrder>
+    <CommonName>British Indian Ocean Territory</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital></Capital>
+    <CurrencyCode></CurrencyCode>
+    <CurrencyName></CurrencyName>
+    <TelephoneCode>+246</TelephoneCode>
+    <CountryCode>IO</CountryCode>
+    <CountryCode3>IOT</CountryCode3>
+    <CountryNumber>086</CountryNumber>
+    <InternetCountryCode>.io</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>227</SortOrder>
+    <CommonName>British Virgin Islands</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Road Town</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-284</TelephoneCode>
+    <CountryCode>VG</CountryCode>
+    <CountryCode3>VGB</CountryCode3>
+    <CountryNumber>092</CountryNumber>
+    <InternetCountryCode>.vg</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>228</SortOrder>
+    <CommonName>Cayman Islands</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>George Town</Capital>
+    <CurrencyCode>KYD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-345</TelephoneCode>
+    <CountryCode>KY</CountryCode>
+    <CountryCode3>CYM</CountryCode3>
+    <CountryNumber>136</CountryNumber>
+    <InternetCountryCode>.ky</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>229</SortOrder>
+    <CommonName>Falkland Islands</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Stanley</Capital>
+    <CurrencyCode>FKP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+500</TelephoneCode>
+    <CountryCode>FK</CountryCode>
+    <CountryCode3>FLK</CountryCode3>
+    <CountryNumber>238</CountryNumber>
+    <InternetCountryCode>.fk</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>230</SortOrder>
+    <CommonName>Gibraltar</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Gibraltar</Capital>
+    <CurrencyCode>GIP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+350</TelephoneCode>
+    <CountryCode>GI</CountryCode>
+    <CountryCode3>GIB</CountryCode3>
+    <CountryNumber>292</CountryNumber>
+    <InternetCountryCode>.gi</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>231</SortOrder>
+    <CommonName>Montserrat</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Plymouth</Capital>
+    <CurrencyCode>XCD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-664</TelephoneCode>
+    <CountryCode>MS</CountryCode>
+    <CountryCode3>MSR</CountryCode3>
+    <CountryNumber>500</CountryNumber>
+    <InternetCountryCode>.ms</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>232</SortOrder>
+    <CommonName>Pitcairn Islands</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Adamstown</Capital>
+    <CurrencyCode>NZD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode></TelephoneCode>
+    <CountryCode>PN</CountryCode>
+    <CountryCode3>PCN</CountryCode3>
+    <CountryNumber>612</CountryNumber>
+    <InternetCountryCode>.pn</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>233</SortOrder>
+    <CommonName>Saint Helena</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Jamestown</Capital>
+    <CurrencyCode>SHP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+290</TelephoneCode>
+    <CountryCode>SH</CountryCode>
+    <CountryCode3>SHN</CountryCode3>
+    <CountryNumber>654</CountryNumber>
+    <InternetCountryCode>.sh</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>234</SortOrder>
+    <CommonName>South Georgia Island</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital></Capital>
+    <CurrencyCode></CurrencyCode>
+    <CurrencyName></CurrencyName>
+    <TelephoneCode></TelephoneCode>
+    <CountryCode>GS</CountryCode>
+    <CountryCode3>SGS</CountryCode3>
+    <CountryNumber>239</CountryNumber>
+    <InternetCountryCode>.gs</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>235</SortOrder>
+    <CommonName>Turks and Caicos Islands</CommonName>
+    <FormalName></FormalName>
+    <Type>Dependency</Type>
+    <SubType>Overseas Territory</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Grand Turk</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-649</TelephoneCode>
+    <CountryCode>TC</CountryCode>
+    <CountryCode3>TCA</CountryCode3>
+    <CountryNumber>796</CountryNumber>
+    <InternetCountryCode>.tc</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>236</SortOrder>
+    <CommonName>Northern Mariana Islands</CommonName>
+    <FormalName>Commonwealth of The Northern Mariana Islands</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Commonwealth</SubType>
+    <Sovereignty>United States</Sovereignty>
+    <Capital>Saipan</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-670</TelephoneCode>
+    <CountryCode>MP</CountryCode>
+    <CountryCode3>MNP</CountryCode3>
+    <CountryNumber>580</CountryNumber>
+    <InternetCountryCode>.mp</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>237</SortOrder>
+    <CommonName>Puerto Rico</CommonName>
+    <FormalName>Commonwealth of Puerto Rico</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Commonwealth</SubType>
+    <Sovereignty>United States</Sovereignty>
+    <Capital>San Juan</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-787 and 1-939</TelephoneCode>
+    <CountryCode>PR</CountryCode>
+    <CountryCode3>PRI</CountryCode3>
+    <CountryNumber>630</CountryNumber>
+    <InternetCountryCode>.pr</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>238</SortOrder>
+    <CommonName>American Samoa</CommonName>
+    <FormalName>Territory of American Samoa</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Territory</SubType>
+    <Sovereignty>United States</Sovereignty>
+    <Capital>Pago Pago</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-684</TelephoneCode>
+    <CountryCode>AS</CountryCode>
+    <CountryCode3>ASM</CountryCode3>
+    <CountryNumber>016</CountryNumber>
+    <InternetCountryCode>.as</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>240</SortOrder>
+    <CommonName>Guam</CommonName>
+    <FormalName>Territory of Guam</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Territory</SubType>
+    <Sovereignty>United States</Sovereignty>
+    <Capital>Hagatna</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-671</TelephoneCode>
+    <CountryCode>GU</CountryCode>
+    <CountryCode3>GUM</CountryCode3>
+    <CountryNumber>316</CountryNumber>
+    <InternetCountryCode>.gu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>248</SortOrder>
+    <CommonName>U.S. Virgin Islands</CommonName>
+    <FormalName>United States Virgin Islands</FormalName>
+    <Type>Dependency</Type>
+    <SubType>Territory</SubType>
+    <Sovereignty>United States</Sovereignty>
+    <Capital>Charlotte Amalie</Capital>
+    <CurrencyCode>USD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+1-340</TelephoneCode>
+    <CountryCode>VI</CountryCode>
+    <CountryCode3>VIR</CountryCode3>
+    <CountryNumber>850</CountryNumber>
+    <InternetCountryCode>.vi</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>250</SortOrder>
+    <CommonName>Hong Kong</CommonName>
+    <FormalName>Hong Kong Special Administrative Region</FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType>Special Administrative Region</SubType>
+    <Sovereignty>China</Sovereignty>
+    <Capital></Capital>
+    <CurrencyCode>HKD</CurrencyCode>
+    <CurrencyName>Dollar</CurrencyName>
+    <TelephoneCode>+852</TelephoneCode>
+    <CountryCode>HK</CountryCode>
+    <CountryCode3>HKG</CountryCode3>
+    <CountryNumber>344</CountryNumber>
+    <InternetCountryCode>.hk</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>251</SortOrder>
+    <CommonName>Macau</CommonName>
+    <FormalName>Macau Special Administrative Region</FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType>Special Administrative Region</SubType>
+    <Sovereignty>China</Sovereignty>
+    <Capital>Macau</Capital>
+    <CurrencyCode>MOP</CurrencyCode>
+    <CurrencyName>Pataca</CurrencyName>
+    <TelephoneCode>+853</TelephoneCode>
+    <CountryCode>MO</CountryCode>
+    <CountryCode3>MAC</CountryCode3>
+    <CountryNumber>446</CountryNumber>
+    <InternetCountryCode>.mo</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>252</SortOrder>
+    <CommonName>Faroe Islands</CommonName>
+    <FormalName></FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType></SubType>
+    <Sovereignty>Denmark</Sovereignty>
+    <Capital>Torshavn</Capital>
+    <CurrencyCode>DKK</CurrencyCode>
+    <CurrencyName>Krone</CurrencyName>
+    <TelephoneCode>+298</TelephoneCode>
+    <CountryCode>FO</CountryCode>
+    <CountryCode3>FRO</CountryCode3>
+    <CountryNumber>234</CountryNumber>
+    <InternetCountryCode>.fo</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>253</SortOrder>
+    <CommonName>Greenland</CommonName>
+    <FormalName></FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType></SubType>
+    <Sovereignty>Denmark</Sovereignty>
+    <Capital>Nuuk (Godthab)</Capital>
+    <CurrencyCode>DKK</CurrencyCode>
+    <CurrencyName>Krone</CurrencyName>
+    <TelephoneCode>+299</TelephoneCode>
+    <CountryCode>GL</CountryCode>
+    <CountryCode3>GRL</CountryCode3>
+    <CountryNumber>304</CountryNumber>
+    <InternetCountryCode>.gl</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>254</SortOrder>
+    <CommonName>French Guiana</CommonName>
+    <FormalName>Overseas Region of Guiana</FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType>Overseas Region</SubType>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Cayenne</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+594</TelephoneCode>
+    <CountryCode>GF</CountryCode>
+    <CountryCode3>GUF</CountryCode3>
+    <CountryNumber>254</CountryNumber>
+    <InternetCountryCode>.gf</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>256</SortOrder>
+    <CommonName>Martinique</CommonName>
+    <FormalName>Overseas Region of Martinique</FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType>Overseas Region</SubType>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Fort-de-France</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+596</TelephoneCode>
+    <CountryCode>MQ</CountryCode>
+    <CountryCode3>MTQ</CountryCode3>
+    <CountryNumber>474</CountryNumber>
+    <InternetCountryCode>.mq</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>257</SortOrder>
+    <CommonName>Reunion</CommonName>
+    <FormalName>Overseas Region of Reunion</FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType>Overseas Region</SubType>
+    <Sovereignty>France</Sovereignty>
+    <Capital>Saint-Denis</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+262</TelephoneCode>
+    <CountryCode>RE</CountryCode>
+    <CountryCode3>REU</CountryCode3>
+    <CountryNumber>638</CountryNumber>
+    <InternetCountryCode>.re</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>258</SortOrder>
+    <CommonName>Aland</CommonName>
+    <FormalName></FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType></SubType>
+    <Sovereignty>Finland</Sovereignty>
+    <Capital>Mariehamn</Capital>
+    <CurrencyCode>EUR</CurrencyCode>
+    <CurrencyName>Euro</CurrencyName>
+    <TelephoneCode>+358-18</TelephoneCode>
+    <CountryCode>AX</CountryCode>
+    <CountryCode3>ALA</CountryCode3>
+    <CountryNumber>248</CountryNumber>
+    <InternetCountryCode>.ax</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>259</SortOrder>
+    <CommonName>Aruba</CommonName>
+    <FormalName></FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType></SubType>
+    <Sovereignty>Netherlands</Sovereignty>
+    <Capital>Oranjestad</Capital>
+    <CurrencyCode>AWG</CurrencyCode>
+    <CurrencyName>Guilder</CurrencyName>
+    <TelephoneCode>+297</TelephoneCode>
+    <CountryCode>AW</CountryCode>
+    <CountryCode3>ABW</CountryCode3>
+    <CountryNumber>533</CountryNumber>
+    <InternetCountryCode>.aw</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>260</SortOrder>
+    <CommonName>Netherlands Antilles</CommonName>
+    <FormalName></FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType></SubType>
+    <Sovereignty>Netherlands</Sovereignty>
+    <Capital>Willemstad</Capital>
+    <CurrencyCode>ANG</CurrencyCode>
+    <CurrencyName>Guilder</CurrencyName>
+    <TelephoneCode>+599</TelephoneCode>
+    <CountryCode>AN</CountryCode>
+    <CountryCode3>ANT</CountryCode3>
+    <CountryNumber>530</CountryNumber>
+    <InternetCountryCode>.an</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>261</SortOrder>
+    <CommonName>Svalbard</CommonName>
+    <FormalName></FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType></SubType>
+    <Sovereignty>Norway</Sovereignty>
+    <Capital>Longyearbyen</Capital>
+    <CurrencyCode>NOK</CurrencyCode>
+    <CurrencyName>Krone</CurrencyName>
+    <TelephoneCode>+47</TelephoneCode>
+    <CountryCode>SJ</CountryCode>
+    <CountryCode3>SJM</CountryCode3>
+    <CountryNumber>744</CountryNumber>
+    <InternetCountryCode>.sj</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>262</SortOrder>
+    <CommonName>Ascension</CommonName>
+    <FormalName></FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType>Dependency of Saint Helena</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Georgetown</Capital>
+    <CurrencyCode>SHP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+247</TelephoneCode>
+    <CountryCode>AC</CountryCode>
+    <CountryCode3>ASC</CountryCode3>
+    <CountryNumber></CountryNumber>
+    <InternetCountryCode>.ac</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>263</SortOrder>
+    <CommonName>Tristan da Cunha</CommonName>
+    <FormalName></FormalName>
+    <Type>Proto Dependency</Type>
+    <SubType>Dependency of Saint Helena</SubType>
+    <Sovereignty>United Kingdom</Sovereignty>
+    <Capital>Edinburgh</Capital>
+    <CurrencyCode>SHP</CurrencyCode>
+    <CurrencyName>Pound</CurrencyName>
+    <TelephoneCode>+290</TelephoneCode>
+    <CountryCode>TA</CountryCode>
+    <CountryCode3>TAA</CountryCode3>
+    <CountryNumber></CountryNumber>
+    <InternetCountryCode></InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>264</SortOrder>
+    <CommonName>Antarctica</CommonName>
+    <FormalName></FormalName>
+    <Type>Disputed Territory</Type>
+    <SubType></SubType>
+    <Sovereignty>Undetermined</Sovereignty>
+    <Capital></Capital>
+    <CurrencyCode></CurrencyCode>
+    <CurrencyName></CurrencyName>
+    <TelephoneCode></TelephoneCode>
+    <CountryCode>AQ</CountryCode>
+    <CountryCode3>ATA</CountryCode3>
+    <CountryNumber>010</CountryNumber>
+    <InternetCountryCode>.aq</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>265</SortOrder>
+    <CommonName>Kosovo</CommonName>
+    <FormalName></FormalName>
+    <Type>Disputed Territory</Type>
+    <SubType></SubType>
+    <Sovereignty>Administrated by the UN</Sovereignty>
+    <Capital>Pristina</Capital>
+    <CurrencyCode>CSD and EUR</CurrencyCode>
+    <CurrencyName>Dinar and Euro</CurrencyName>
+    <TelephoneCode>+381</TelephoneCode>
+    <CountryCode>CS</CountryCode>
+    <CountryCode3>SCG</CountryCode3>
+    <CountryNumber>891</CountryNumber>
+    <InternetCountryCode>.cs and .yu</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>266</SortOrder>
+    <CommonName>Palestinian Territories</CommonName>
+    <FormalName></FormalName>
+    <Type>Disputed Territory</Type>
+    <SubType></SubType>
+    <Sovereignty>Administrated by Israel</Sovereignty>
+    <Capital>Gaza City (Gaza Strip) and Ramallah (West Bank)</Capital>
+    <CurrencyCode>ILS</CurrencyCode>
+    <CurrencyName>Shekel</CurrencyName>
+    <TelephoneCode>+970</TelephoneCode>
+    <CountryCode>PS</CountryCode>
+    <CountryCode3>PSE</CountryCode3>
+    <CountryNumber>275</CountryNumber>
+    <InternetCountryCode>.ps</InternetCountryCode>
+  </StandardCountry>
+  <StandardCountry>
+    <SortOrder>267</SortOrder>
+    <CommonName>Western Sahara</CommonName>
+    <FormalName></FormalName>
+    <Type>Disputed Territory</Type>
+    <SubType></SubType>
+    <Sovereignty>Administrated by Morocco</Sovereignty>
+    <Capital>El-Aaiun</Capital>
+    <CurrencyCode>MAD</CurrencyCode>
+    <CurrencyName>Dirham</CurrencyName>
+    <TelephoneCode>+212</TelephoneCode>
+    <CountryCode>EH</CountryCode>
+    <CountryCode3>ESH</CountryCode3>
+    <CountryNumber>732</CountryNumber>
+    <InternetCountryCode>.eh</InternetCountryCode>
+  </StandardCountry>
+</CountryList>

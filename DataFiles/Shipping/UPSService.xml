@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Services>
+  <Service>
+    <Code>01</Code>
+    <Name>UPS Next Day Air</Name>
+  </Service>
+  <Service>
+    <Code>02</Code>
+    <Name>UPS Second Day Air</Name>
+  </Service>
+  <Service>
+    <Code>03</Code>
+    <Name>UPS Ground</Name>
+  </Service>
+  <Service>
+    <Code>07</Code>
+    <Name>UPS Worldwide Express</Name>
+  </Service>
+  <Service>
+    <Code>08</Code>
+    <Name>UPS Worldwide Expedited</Name>
+  </Service>
+  <Service>
+    <Code>11</Code>
+    <Name>UPS Standard</Name>
+  </Service>
+  <Service>
+    <Code>12</Code>
+    <Name>UPS Three-Day Select</Name>
+  </Service>
+  <Service>
+    <Code>13</Code>
+    <Name>UPS Next Day Air Saver</Name>
+  </Service>
+  <Service>
+    <Code>14</Code>
+    <Name>UPS Next Day Air Early A.M.</Name>
+  </Service>
+  <Service>
+    <Code>54</Code>
+    <Name>UPS Worldwide Express Plus</Name>
+  </Service>
+  <Service>
+    <Code>59</Code>
+    <Name>UPS Second Day Air A.M.</Name>
+  </Service>
+  <Service>
+    <Code>65</Code>
+    <Name>UPS Saver</Name>
+  </Service>
+</Services>
