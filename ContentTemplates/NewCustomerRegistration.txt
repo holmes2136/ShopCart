@@ -1,0 +1,15 @@
+Dear Customer,
+
+Thank you for applying to our  program. 
+
+======================
+Your information:
+
+User Name: [UserName] 
+Email: [Email]
+    
+
+======================
+
+Regards,
+Sales Team

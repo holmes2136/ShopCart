@@ -1,0 +1,16 @@
+Dear Affiliate,
+
+Thank you for applying to our affiliate program. 
+
+We will review your application within a few days. Once it is approved, we will send you a notification email.
+
+
+======================
+Your information:
+
+User Name: [UserName] 
+Email: [Email]
+======================
+
+Regards,
+Sales Team

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Theme>
+  <Name>ResponsiveGreen</Name>
+  <Author>VevoCart</Author>
+  <AuthorUrl>http://www.vevocart.com</AuthorUrl>
+  <Description>This is a bundle skin</Description>
+  <Version>1.0</Version>
+  <VersionUrl>http://www.vevocart.com</VersionUrl>
+  <DefaultMaster FileName="Blog.master" />
+  <MasterPages>
+    <!-- To use custom master page, please specify the master file 
+         that you would like to use below along with the pages that use
+         this master file. Below is one example for using "Custom.master" file,
+         which resides in the same folder as the Theme folder. -->
+  </MasterPages>
+</Theme>

@@ -1,0 +1,45 @@
+<!-- Please put only HTML for displaying Gift Certificate Coupon here. Do not put "html", "head", or "body" tags in this file. -->
+ <table align="center" style="width: 700px;  border-right: #D0D0D0 1px solid;border-top: #D0D0D0 1px solid; border-left: #D0D0D0 1px solid; border-bottom: #D0D0D0 1px solid;border-collapse: collapse;" cellspacing="0" border="0">
+ <tr style="font-size:5px;"><td colspan="2">&nbsp;</td></tr>
+	<tr >		
+		<td width="510px">
+			<table width="480px" border="0" cellpadding="0" cellspacing="0" style="margin-left:30px; margin-top:80px;line-height:26px;">
+				<tr>
+					<td style="font-weight:bold;" >A Gift For</td>
+					<td style="font-style:Italic;color:#666666;" >[TO]</td>
+				</tr>
+				<tr>
+					<td width="20%" style="font-weight:bold;" >From</td>
+					<td style="font-style:Italic;color:#666666;" >[FROM]</td>
+				</tr>
+				<tr>
+					<td width="20%" style="font-weight:bold;" >Note</td>
+					<td style="font-style:Italic;color:#666666;" >[NOTE]</td>
+				</tr>
+			</table>
+		</td>
+		<td width="190px" valign="top" align="left" style="line-height:16px;">		
+			<span style="font-weight: bold; font-size: 12px; margin-left: 5px;">[HeadCompany]</span>
+			<br>
+			<span style="font-size: 12px; margin-left: 5px;">[HeadAddress]</span>
+			<br>
+			<span style="font-size: 12px; margin-left: 5px;">[HeadCity] [HeadState] </span>
+			<br>
+			<span style="font-size: 12px; margin-left: 5px;">[HeadCountry] [HeadZipCode] </span>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2" style="padding-bottom:5px;">		
+			<table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px; margin-left:30px;width: 670px;line-height:20px;">
+				<tr style="font-size: 10px;">
+					<td align="right" style="font-weight:bold; width:40px;text-align:left;">Code:</td>
+					<td style="border-bottom:dotted 1 gray;" width="200px">[CODE]</td>				
+					<td align="right" style="font-weight:bold; width:60px;text-align:left;">Amount:</td>
+					<td style="border-bottom:dotted 1 gray;" width="190px">[AMOUNT]</td>
+					<td align="right" style="font-weight:bold;text-align:left;width:80px;">Expire Date:</td>
+					<td style="border-bottom:dotted 1 gray;">[EXPIREDATE]</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+ </table>

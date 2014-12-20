@@ -1,0 +1,14 @@
+Dear Affiliate,
+
+We have paid your commission for this period. The details are below.
+
+======================
+Your information:
+
+Paid Date: [PaidDate] 
+Amount: [Amount]
+Order IDs: [OrderID]
+======================
+
+Regards,
+Sales Team

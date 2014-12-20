@@ -1,0 +1,20 @@
+Hello,
+<br/>
+<br/>
+This following product has been recommended by your friend.
+<br />
+<br />
+Name: <span style="color: blue;">[Name]</span>
+<br />
+Description: [ShortDescription]
+<br />
+<br />
+[ImageSecondary]
+<br />
+Retail Price: 
+<span style='text-decoration: line-through;'>[RetailPrice]</span>
+<br />
+Our Price: 
+<span style='text-decoration: none; color: #ff0000'>[Price]</span>
+<br />
+<br />

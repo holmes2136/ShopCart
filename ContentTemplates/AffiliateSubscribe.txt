@@ -1,0 +1,21 @@
+Dear Webmaster,
+
+This is an automatic email. There is a new application for our affiliate program.
+
+If you did not set "Auto Approve" option, you will need to approve this application manually.
+
+You can review the application with the link below. 
+
+	[AffiliateViewUrl]
+
+
+======================
+Affiliate information:
+
+User Name: [UserName] 
+Email: [Email]
+======================
+
+Regards,
+Support Team
+

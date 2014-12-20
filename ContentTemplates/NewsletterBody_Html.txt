@@ -1,0 +1,11 @@
+<br/>
+Your newsletter content here.<br/>
+<br/>
+<br/>
+<br/>
+
+[UnsubscribeLink Text="Click here to unsubscribe our newsletter."]<br/>
+<br/>
+If the above link does not work for you, please follow this URL instead to unsubscribe:<br/>
+<br/>
+[UnsubscribeUrl]<br/>

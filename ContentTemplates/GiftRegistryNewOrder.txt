@@ -1,0 +1,6 @@
+Dear Customer,
+
+One or more item(s) in your gift registry has been purchased. Please see details below:
+
+
+[OrderDetails]

@@ -1,0 +1,8 @@
+Hello,
+
+[Name] would like to invite you to the event "[EventName]" on [EventDate]. Please visit the gift registry list in the link below.
+
+[GiftRegistryLink]
+
+Regard,
+[StoreName]

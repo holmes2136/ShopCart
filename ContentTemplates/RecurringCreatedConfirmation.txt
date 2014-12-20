@@ -1,0 +1,12 @@
+Dear Customer,
+    
+You have subscribed for a recurring payment. Please see the details below:
+
+Order ID: [OrderID]
+
+Product:
+[ProductName]
+
+Next Payment Date: [NextPaymentDate]
+
+Thank you

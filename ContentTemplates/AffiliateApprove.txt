@@ -1,0 +1,18 @@
+Dear Customer,
+
+Your Affiliate application has been approved.
+
+You are now able to login to our Affiliate portal at 
+
+    [AffiliateLink]
+
+
+======================
+Your information:
+
+User Name: [UserName] 
+Email: [Email]
+======================
+
+Regards,
+Support Team

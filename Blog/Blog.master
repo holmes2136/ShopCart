@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Blog.master.cs" Inherits="Blog_Blog" %>
+
+<%--<%@ Register Src="Themes/ResponsiveGreen/LayoutControls/Left.ascx" TagName="Left" TagPrefix="uc4" %>--%>
+<%@ Register Src="Themes/ResponsiveGreen/LayoutControls/Footer.ascx" TagName="Footer" TagPrefix="uc3" %>
+<%@ Register Src="Themes/ResponsiveGreen/LayoutControls/Right.ascx" TagName="Right" TagPrefix="uc2" %>
+<%@ Register Src="Themes/ResponsiveGreen/LayoutControls/Header.ascx" TagName="Header" TagPrefix="uc1" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <%--<link media="handheld, only screen and (min-width: 235px), only screen and (min-device-width: 235px)"
+        href="../App_Themes/ResponsiveGreen/Default.css" type="text/css" rel="stylesheet" />--%>
+    <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="screen" href="../App_Themes/FacebookTheme/Default.css" />
+    <![endif]-->
+</head>
+<body>
+    <!-- *************************** NOTE ***************************
+         This page is not used in actual store display. It is just a placeholder
+         to allow adding a new aspx page. The actual default master layout is inside 
+         "Themes\Default\Front.master". 
+         
+         If you define a new Theme, you can create your own Front.master by 
+         coying "Themes\Default\Front.master" to your theme folder. The configuration
+         can be set in "Themes\(YourThemeNaem)\ThemeInfo.xml".
+     -->
+    <form id="blogForm" runat="server">
+    <ajaxToolkit:ToolkitScriptManager ID="uxScriptManager" EnableHistory="true" AsyncPostBackTimeout="300"
+        EnableSecureHistoryState="false" runat="server">
+    </ajaxToolkit:ToolkitScriptManager>
+    <asp:UpdatePanel ID="uxContentUpdatePanel" runat="server" UpdateMode="Always">
+        <ContentTemplate>
+            <asp:ContentPlaceHolder ID="uxPlaceHolder" runat="server">
+            </asp:ContentPlaceHolder>
+        </ContentTemplate>
+    </asp:UpdatePanel>
+    <asp:UpdateProgress DynamicLayout="false" ID="uxUpdateProgress" runat="server">
+        <ProgressTemplate>
+            <img src="../Images/Design/Background/ajax-loader-big.gif" alt="Progress.." />
+        </ProgressTemplate>
+    </asp:UpdateProgress>
+    <ajaxToolkit:AlwaysVisibleControlExtender ID="uxAlwaysVisibleControlExtender" runat="server"
+        TargetControlID="uxUpdateProgress" HorizontalSide="Center" VerticalSide="Middle">
+    </ajaxToolkit:AlwaysVisibleControlExtender>
+    </form>
+</body>
+</html>

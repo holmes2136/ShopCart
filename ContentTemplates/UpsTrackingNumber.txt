@@ -1,0 +1,9 @@
+Dear Customer,
+
+This is your tracking number
+
+Orderno : [OrderNo]
+Tracking No : [TrackingNumber]
+
+Please follow the link below to view your tracking status.
+[TrackUrl]

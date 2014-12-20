@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<EmailTemplates>
+  <EmailTemplate>
+    <FileName>OrderConfirmationSubject.txt|OrderConfirmation.txt</FileName>
+    <FileTitle>Order Confirmation</FileTitle>
+    <Description>Sent when an order is placed by a customer.</Description>
+    <IsLite>True</IsLite>
+    <IsFree>True</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>NewCustomerRegistrationSubject.txt|NewCustomerRegistration.txt</FileName>
+    <FileTitle>New Customer Registration</FileTitle>
+    <Description>Sent to customers after new user registrations are completed.</Description>
+    <IsLite>True</IsLite>
+    <IsFree>True</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>TellFriendSubject.txt|TellFriendBody_Html.txt|TellFriendLinkText.txt</FileName>
+    <FileTitle>Tell A Friend</FileTitle>
+    <Description>A default email that appears when a customer click "Tell A Friend".</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>DownloadFileLinksSubject.txt|DownloadFileLinksBody.txt</FileName>
+    <FileTitle>e-Good Download Link</FileTitle>
+    <Description>Sent to customers when e-Goods are purchased to provide download links.</Description>
+    <IsLite>True</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>GiftCertificateCodeSubject.txt|GiftCertificateCode.txt</FileName>
+    <FileTitle>Gift Certificate Code</FileTitle>
+    <Description>Sending a link to view gift certificate code on the storefront.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>GiftCertificateLayout_Html.txt</FileName>
+    <FileTitle>Gift Certificate Layout</FileTitle>
+    <Description>Layout for  gift certificates</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>Invoice_Html.txt</FileName>
+    <FileTitle>Classic Invoice Layout</FileTitle>
+    <Description>Layout for invoices in Classic Admin panel.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>InvoiceAdvanced_Html.txt</FileName>
+    <FileTitle>Advanced Invoice Layout</FileTitle>
+    <Description>Layout for invoices in Advanced Admin panel.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>GiftRegistryInvitationSubject.txt|GiftRegistryInvitationBody.txt</FileName>
+    <FileTitle>Gift Registry Invitation</FileTitle>
+    <Description>A default email template for the gift registry owner to invite visitors to his gift registry.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>GiftRegistryNewOrderSubject.txt|GiftRegistryNewOrder.txt</FileName>
+    <FileTitle>Gift Registry Purchase Notification</FileTitle>
+    <Description>Sent to gift registry owner when a visitor has purchased items in his gift registry.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>FedExTrackingNumberSubject.txt|FedExTrackingNumber.txt</FileName>
+    <FileTitle>FedEx Tracking</FileTitle>
+    <Description>Click 'Send Tracking Number' button inside Admin's Order Edit menu to send this email.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>NewsletterBody_Html.txt</FileName>
+    <FileTitle>Newsletter Layout</FileTitle>
+    <Description>Default newsletter layout.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>ConfirmSubscribeTitle.txt|ConfirmSubscribeBody.txt</FileName>
+    <FileTitle>Subscribe Newsletter Confirmation</FileTitle>
+    <Description>Sent to customer after subscribe newsletter.</Description>
+    <IsLite>True</IsLite>
+    <IsFree>True</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>UpsTrackingNumberSubject.txt|UpsTrackingNumber.txt</FileName>
+    <FileTitle>Ups Tracking</FileTitle>
+    <Description>Click 'Send Tracking Number' button inside Admin's Order Edit menu to send this email.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>UspsTrackingNumberSubject.txt|UspsTrackingNumber.txt</FileName>
+    <FileTitle>USPS Tracking</FileTitle>
+    <Description>Click 'Send Tracking Number' button inside Admin's Order Edit menu to send this email.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>OtherTrackingNumberSubject.txt|OtherTrackingNumber.txt</FileName>
+    <FileTitle>Other Tracking</FileTitle>
+    <Description>Click 'Send Tracking Number' button inside Admin's Order Edit menu to send this email.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>ConfirmResetPasswordTitle.txt|ConfirmResetPasswordBody.txt</FileName>
+    <FileTitle>Reset Password Confirmation</FileTitle>
+    <Description>Sent to customers when customer request to reset password.</Description>
+    <IsLite>True</IsLite>
+    <IsFree>True</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>ResetPasswordTitle.txt|ResetPasswordBody.txt</FileName>
+    <FileTitle>Reset Password</FileTitle>
+    <Description>Sent to customers when customer click submit button to reset password.</Description>
+    <IsLite>True</IsLite>
+    <IsFree>True</IsFree>
+  </EmailTemplate>
+    <EmailTemplate>
+    <FileName>AffiliateSubscribeSubject.txt|AffiliateSubscribe.txt</FileName>
+    <FileTitle>Affiliate Subscribe</FileTitle>
+    <Description>Automatically send this email to Web Master when new affiliate register.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>AffiliateApproveSubject.txt|AffiliateApprove.txt</FileName>
+    <FileTitle>Affiliate Approve</FileTitle>
+    <Description>Click 'Send Approve Mail' button inside Admin's Affiliate Edit menu to send this email.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>NewAffiliateRegistrationSubject.txt|NewAffiliateRegistration.txt</FileName>
+    <FileTitle>New Affiliate Registration</FileTitle>
+    <Description>Automatically send this email to affiliate when new affiliate register.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>AffiliatePaymentSubject.txt|AffiliatePayment.txt</FileName>
+    <FileTitle>Affiliate Payment Commission</FileTitle>
+    <Description>Click 'Send Mail' link inside Admin's Affiliate Payment List menu to edit and send this email.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+  <EmailTemplate>
+    <FileName>AffiliateAgreementSubject.txt|AffiliateAgreement.txt</FileName>
+    <FileTitle>Affiliate Agreement</FileTitle>
+    <Description>Affiliate agreement posed during affiliate registration.</Description>
+    <IsLite>False</IsLite>
+    <IsFree>False</IsFree>
+  </EmailTemplate>
+</EmailTemplates>

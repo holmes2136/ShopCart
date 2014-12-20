@@ -1,0 +1,393 @@
+<html>
+<head><title>Invoice</title></head>
+<body style="font-size: 12px;font-family: Microsoft Sans Serif;" >
+<table align="center" style="width: 767px; background-color: #F9F9F9; border-right: #D0D0D0 1px solid;border-top: #D0D0D0 1px solid; border-left: #D0D0D0 1px solid; border-bottom: #D0D0D0 1px solid;border-collapse: collapse;font-size: 12px;" cellspacing="0" border="0">
+                <tr>
+                    <td colspan="2">
+                        <table cellspacing="0" cellpadding="0" width="100%" border="0">
+                            <tr>
+                                <td style="font-weight: bold; font-size: larger; padding-bottom: 10px; padding-top: 10px;
+                                    text-align: center">
+                                    Invoice
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table cellspacing="0" cellpadding="3" border="0">
+                                        <tr>
+                                            <td>
+                                                <img src="[Logo]"></td>
+                                            <td >
+                                                <span style="font-weight: bold; font-size: x-large;">[HeadCompany]</span>
+                                                <br>
+                                                <span style="font-size: 12px;">[HeadAddress]</span>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                    <div style="padding-right: 5px; padding-left: 5px; padding-bottom: 5px; padding-top: 5px;
+                                        text-align: right">
+                                        <table style="text-align: left; border-right: #D0D0D0 1px solid; border-top: #D0D0D0 1px solid;
+                                            border-left: #D0D0D0 1px solid; border-bottom: #D0D0D0 1px solid; margin: 0px 0px 0px auto;font-size: 12px;"
+                                            cellspacing="0" cellpadding="5" border="1">
+                                            <tr>
+                                                <td>
+                                                    <span >Order Number :</span>
+                                                </td>
+                                                <td>
+                                                    [OrderID]
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <span>Date :</span>
+                                                </td>
+                                                <td>
+                                                    [Date]
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-right: 5px; padding-left: 5px; padding-bottom: 5px; padding-top: 5px;font-size: 12px;">
+                                    <table cellspacing="0" cellpadding="5" width="100%" border="0">
+                                        <tr>
+                                            <td style="border-right: #D0D0D0 1px solid; border-top: #D0D0D0 1px solid; border-left: #D0D0D0 1px solid;
+                                                border-bottom: #D0D0D0 1px solid;" valign="top">
+                                                <table cellspacing="0" cellpadding="5" width="100%" border="0" style="font-size: 12px;">
+                                                    <tr>
+                                                        <td style="color: #808080; font-weight: bold; text-align: center;" colspan="2">
+                                                            <span>Bill To</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="background-color: #FFEFD5; font-weight: bold;" colspan="2">
+                                                            <span>Address</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>First Name :</span></td>
+                                                        <td>
+                                                            [FirstName]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Last Name :</span></td>
+                                                        <td>
+                                                            [LastName]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Company :</span></td>
+                                                        <td>
+                                                            [Company]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Address :</span></td>
+                                                        <td>
+                                                            [Address1]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                        </td>
+                                                        <td>
+                                                            [Address2]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>City :</span></td>
+                                                        <td>
+                                                            [City]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>State :</span></td>
+                                                        <td>
+                                                            [State]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Country :</span></td>
+                                                        <td>
+                                                            [Country]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Zip :</span></td>
+                                                        <td>
+                                                            [Zip]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Phone :</span></td>
+                                                        <td>
+                                                            [Phone]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Fax :</span></td>
+                                                        <td>
+                                                            [Fax]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Email :</span></td>
+                                                        <td>
+                                                            [Email]
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td style="width: 2px">
+                                            </td>
+                                            <td style="border-right: #D0D0D0 1px solid; border-top: #D0D0D0 1px solid; border-left: #D0D0D0 1px solid;
+                                                border-bottom: #D0D0D0 1px solid;" valign="top">
+                                                <table cellspacing="0" cellpadding="5" width="100%" border="0" style="font-size: 12px;">
+                                                    <tr>
+                                                        <td style="color: #808080; font-weight: bold; text-align: center;" colspan="2">
+                                                            <span>Ship To</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="background-color: #FFEFD5; font-weight: bold;" colspan="2">
+                                                            <span>Shipping Address</span></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>First Name :</span></td>
+                                                        <td>
+                                                            [ShippingFirstName]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Last Name :</span></td>
+                                                        <td>
+                                                            [ShippingLastName]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Company :</span></td>
+                                                        <td>
+                                                            [ShippingCompany]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Address :</span></td>
+                                                        <td>
+                                                            [ShippingAddress1]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                        </td>
+                                                        <td>
+                                                            [ShippingAddress2]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>City :</span></td>
+                                                        <td>
+                                                            [ShippingCity]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>State :</span></td>
+                                                        <td>
+                                                            [ShippingState]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Country :</span></td>
+                                                        <td>
+                                                            [ShippingCountry]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Zip :</span></td>
+                                                        <td>
+                                                            [ShippingZip]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Phone :</span></td>
+                                                        <td>
+                                                            [ShippingPhone]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td>
+                                                            <span>Fax :</span></td>
+                                                        <td>
+                                                            [ShippingFax]
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td style="padding-right: 5px; padding-left: 5px; padding-bottom: 0px; padding-top: 5px">
+                                    <div>
+                                        <table style="width: 100%; color: #333333; border-collapse: collapse; border-right: #D0D0D0 1px solid;
+                                            border-top: #D0D0D0 1px solid; border-left: #D0D0D0 1px solid; border-bottom: #D0D0D0 1px solid;font-size: 12px;"
+                                            cellspacing="0" cellpadding="4" border="0">
+                                            <tr style="font-weight: bold; background-color: #FECD96; font-weight: bold; color: black;
+                                                font-size: 12px;">
+                                                <th scope="col" align="center">
+                                                    Product ID</th>
+                                                <th scope="col" align="left">
+                                                    Name</th>
+                                                <th scope="col" align="right">
+                                                    Quantity</th>
+                                                <th scope="col" align="right">
+                                                    Unit Price</th>
+                                                <th scope="col" align="right">
+                                                    Subtotal</th>
+                                            </tr>
+                                            [OrderItem]
+                                        </table>
+                                    </div>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>
+                                    <table style="margin-bottom: 10px; width: 100%" cellspacing="0" cellpadding="0" border="0">
+                                        <tr>
+                                            <td style="width: 5px">
+                                            </td>
+                                            <td>
+                                                <table width="100%">
+                                                    <tr>
+                                                        <td style="border-right: #D0D0D0 1px solid; border-top: #D0D0D0 1px solid; border-left: #D0D0D0 1px solid;
+                                                            border-bottom: #D0D0D0 1px solid; width: 50%;">
+                                                            <table width="100%" >
+                                                                <tr>
+                                                                    <td style="font-weight: bold; background-color: #ffefd5; text-align: center; text-decoration: none;font-size: 12px;">
+                                                                        <span>Merchant Note</span></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        <table>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <div style="width: 1px; height: 20px">
+                                                                                    </div>
+                                                                                </td>
+                                                                                <td style="font-size: 12px;">
+                                                                                    [InvoiceNotes]
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                        <td style="width: 5px">
+                                                        </td>
+                                                        <td style="border-right: #D0D0D0 1px solid; border-top: #D0D0D0 1px solid; border-left: #D0D0D0 1px solid;
+                                                            border-bottom: #D0D0D0 1px solid; width: 50%;">
+                                                            <table width="100%" >
+                                                                <tr>
+                                                                    <td style="font-weight: bold; background-color: #ffefd5; text-align: center; text-decoration: none;font-size: 12px;">
+                                                                        <span >Customer Note</span></td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>
+                                                                        <table>
+                                                                            <tr>
+                                                                                <td>
+                                                                                    <div style="width: 1px; height: 20px">
+                                                                                    </div>
+                                                                                </td>
+                                                                                <td style="font-size: 12px;">
+                                                                                    [CustomerNote]
+                                                                                </td>
+                                                                            </tr>
+                                                                        </table>
+                                                                    </td>
+                                                                </tr>
+                                                            </table>
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td style="width: 5px">
+                                            </td>
+                                            <td style="width: 180px" valign="top" align="right">
+                                                <table style="border-right: #D0D0D0 1px solid; border-left: #D0D0D0 1px solid; border-bottom: #D0D0D0 1px solid;
+                                                    width: 100%;font-size: 12px;">
+                                                    <tr>
+                                                        <td style="text-align: right">
+                                                            <span id="ctl00_uxPlaceHolder_uxInvoiceForm_uxSubTotalLabel">Subtotal :</span></td>
+                                                        <td align="right">
+                                                            [SubTotal]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right">
+                                                            <span>Discount :</span></td>
+                                                        <td align="right">
+                                                            [Discount]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right">
+                                                            <span>Tax :</span></td>
+                                                        <td align="right">
+                                                            [Tax]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right">
+                                                            <span>Shipping Cost :</span></td>
+                                                        <td align="right">
+                                                            [ShippingCost]
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right">
+                                                            <strong><span>Total :</span></strong></td>
+                                                        <td align="right">
+                                                            <strong>[Total]</strong>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td style="width: 70%">
+                                                        </td>
+                                                        <td style="width: 30%">
+                                                        </td>
+                                                    </tr>
+                                                </table>
+                                            </td>
+                                            <td style="width: 5px">
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+</body></html>

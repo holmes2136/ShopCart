@@ -1,0 +1,63 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Blog.master.cs" Inherits="Blog_Themes_DefaultBlue_Blog" %>
+
+<%@ Register Src="LayoutControls/Footer.ascx" TagName="Footer" TagPrefix="uc3" %>
+<%@ Register Src="LayoutControls/Right.ascx" TagName="Right" TagPrefix="uc2" %>
+<%@ Register Src="LayoutControls/Header.ascx" TagName="Header" TagPrefix="uc1" %>
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="ajaxToolkit" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <%--<link media="handheld, only screen and (min-width: 235px), only screen and (min-device-width: 235px)"
+        href="~/App_Themes/BlogTheme/Default.css" type="text/css" rel="stylesheet" />--%>
+    <!--[if IE]>
+        <link type="text/css" rel="stylesheet" media="screen" href="../App_Themes/FacebookTheme/Default.css" />
+    <![endif]-->
+</head>
+<body>
+    <form id="blogForm" runat="server">
+    <ajaxToolkit:ToolkitScriptManager ID="uxScriptManager" EnableHistory="true" AsyncPostBackTimeout="300"
+        EnableSecureHistoryState="false" runat="server">
+    </ajaxToolkit:ToolkitScriptManager>
+    <asp:Panel ID="uxBlogMasterPanel" runat="server" CssClass="BlogMaster">
+        <div class="BlogMasterTop">
+            <uc1:Header ID="uxHeader" runat="server" />
+        </div>
+        <div class="BlogMasterMiddle">
+            <div class="BlogMainDiv">
+                <div runat="server" id="MainDivCenter" class="BlogMainDivCenter">
+                    <asp:UpdatePanel ID="uxContentUpdatePanel" runat="server" UpdateMode="Always">
+                        <ContentTemplate>
+                            <asp:ContentPlaceHolder ID="uxPlaceHolder" runat="server">
+                            </asp:ContentPlaceHolder>
+                            <asp:Button ID="Button1" runat="server" Text="Button" Visible="false" />
+                            <div class="Clear">
+                            </div>
+                        </ContentTemplate>
+                        <Triggers>
+                            <asp:PostBackTrigger ControlID="Button1" />
+                        </Triggers>
+                    </asp:UpdatePanel>
+                </div>
+                <div class="BlogMainDivRight">
+                    <uc2:Right ID="uxRight" runat="server" />
+                </div>
+            </div>
+        </div>
+        <div class="BlogMasterBottom">
+            <uc3:Footer ID="uxFooter" runat="server" />
+        </div>
+    </asp:Panel>
+    <asp:UpdateProgress DynamicLayout="false" ID="uxUpdateProgress" runat="server" AssociatedUpdatePanelID="uxContentUpdatePanel">
+        <ProgressTemplate>
+            <div class="ajaxProgress">
+                <img src="Images/Design/Background/ajax-loader-big.gif" alt="Progress.." />
+            </div>
+        </ProgressTemplate>
+    </asp:UpdateProgress>
+    <ajaxToolkit:AlwaysVisibleControlExtender ID="uxAlwaysVisibleControlExtender" runat="server"
+        TargetControlID="uxUpdateProgress" HorizontalSide="Center" VerticalSide="Middle">
+    </ajaxToolkit:AlwaysVisibleControlExtender>
+    </form>
+</body>
+</html>

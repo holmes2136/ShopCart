@@ -1,0 +1,499 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<EmailKeywords>
+	<EmailKeyword>
+		<Keyword>[AffiliateLink]</Keyword>
+		<EmailName>Affiliate Approve</EmailName>
+		<Value>[AffiliateLink]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[UserName]</Keyword>
+		<EmailName>Affiliate Approve|Affiliate Subscribe|Reset Password Confirmation|New Affiliate Registration|New Customer Registration|Reset Password|RMA Requisition</EmailName>
+		<Value>[UserName]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Email]</Keyword>
+		<EmailName>Affiliate Approve|Affiliate Subscribe|New Affiliate Registration|New Customer Registration|Subscribe Newsletter Confirmation|Advanced Invoice Layout|RMA Requisition</EmailName>
+		<Value>[Email]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[SiteName]</Keyword>
+		<EmailName>Affiliate Approve|Affiliate Subscribe|Reset Password Confirmation|FedEx Tracking|Gift Certificate Code|New Affiliate Registration|New Customer Registration|Order Confirmation|Other Tracking|Reset Password|Ups Tracking|USPS Tracking|Subscribe Newsletter Confirmation|Subscription Content Link</EmailName>
+		<Value>[SiteName]</Value>
+	</EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[AffiliateViewUrl]</Keyword>
+    <EmailName>Affiliate Subscribe</EmailName>
+    <Value>[AffiliateViewUrl]</Value>
+  </EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[PaidDate]</Keyword>
+		<EmailName>Affiliate Payment Commission</EmailName>
+		<Value>[PaidDate]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Amount]</Keyword>
+		<EmailName>Affiliate Payment Commission</EmailName>
+		<Value>[Amount]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[OrderID]</Keyword>
+		<EmailName>Affiliate Payment Commission|Advanced Invoice Layout</EmailName>
+		<Value>[OrderID]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Password]</Keyword>
+		<EmailName>Reset Password</EmailName>
+		<Value>[Password]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ResetPasswordLink]</Keyword>
+		<EmailName>Reset Password Confirmation</EmailName>
+		<Value>[ResetPasswordLink]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[DownloadLinks]</Keyword>
+		<EmailName>e-Good Download Link</EmailName>
+		<Value>[DownloadLinks]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[OrderNo]</Keyword>
+		<EmailName>FedEx Tracking|Gift Certificate Code|Gift Registry Purchase Notification|Order Confirmation|Other Tracking|Ups Tracking|USPS Tracking|Subscription Content Link</EmailName>
+		<Value>[OrderNo]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[TrackingNumber]</Keyword>
+		<EmailName>FedEx Tracking|Other Tracking|Ups Tracking|USPS Tracking</EmailName>
+		<Value>[TrackingNumber]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[TrackUrl]</Keyword>
+		<EmailName>FedEx Tracking|Other Tracking|Ups Tracking|USPS Tracking</EmailName>
+		<Value>[TrackUrl]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Url]</Keyword>
+		<EmailName>Gift Certificate Code</EmailName>
+		<Value>[Url]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[TO]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[TO]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[FROM]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[FROM]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[NOTE]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[NOTE]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[HeadCompany]</Keyword>
+		<EmailName>Gift Certificate Layout|Advanced Invoice Layout</EmailName>
+		<Value>[HeadCompany]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[HeadAddress]</Keyword>
+		<EmailName>Gift Certificate Layout|Advanced Invoice Layout</EmailName>
+		<Value>[HeadAddress]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[HeadCity]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[HeadCity]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[HeadState]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[HeadState]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[HeadCountry]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[HeadCountry]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[HeadZipCode]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[HeadZipCode]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[CODE]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[CODE]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Amount]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[Amount]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[EXPIREDATE]</Keyword>
+		<EmailName>Gift Certificate Layout</EmailName>
+		<Value>[EXPIREDATE]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Name]</Keyword>
+		<EmailName>Gift Registry Invitation|Tell A Friend|Promotion Tell A Friend</EmailName>
+		<Value>[Name]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[EventName]</Keyword>
+		<EmailName>Gift Registry Invitation</EmailName>
+		<Value>[EventName]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[EventDate]</Keyword>
+		<EmailName>Gift Registry Invitation</EmailName>
+		<Value>[EventDate]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[GiftRegistryLink]</Keyword>
+		<EmailName>Gift Registry Invitation</EmailName>
+		<Value>[GiftRegistryLink]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[StoreName]</Keyword>
+		<EmailName>Gift Registry Invitation</EmailName>
+		<Value>[StoreName]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[OrderDetails]</Keyword>
+		<EmailName>Gift Registry Purchase Notification|Order Confirmation</EmailName>
+		<Value>[OrderDetails]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Logo]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Logo]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Date]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Date]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[FirstName]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[FirstName]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[LastName]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[LastName]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Company]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Company]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Address1]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Address1]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Address2]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Address2]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[City]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[City]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[State]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[State]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Country]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Country]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Zip]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Zip]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Phone]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Phone]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Fax]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Fax]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingFirstName]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingFirstName]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingLastName]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingLastName]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingCompany]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingCompany]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingAddress1]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingAddress1]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingAddress2]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingAddress2]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingCity]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingCity]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingState]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingState]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingCountry]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingCountry]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingZip]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingZip]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingPhone]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingPhone]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingFax]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingFax]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[OrderItem]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[OrderItem]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[InvoiceNotes]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[InvoiceNotes]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[CustomerNote]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[CustomerNote]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[SubTotal]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[SubTotal]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Discount]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Discount]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Tax]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Tax]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShippingCost]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[ShippingCost]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Total]</Keyword>
+		<EmailName>Advanced Invoice Layout</EmailName>
+		<Value>[Total]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[UnsubscribeLink]</Keyword>
+		<EmailName>Newsletter Layout</EmailName>
+		<Value>[UnsubscribeLink Text="Click here to unsubscribe our news letter."]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[UnsubscribeUrl]</Keyword>
+		<EmailName>Newsletter Layout</EmailName>
+		<Value>[UnsubscribeUrl]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ShortValue]</Keyword>
+		<EmailName>Tell A Friend|Promotion Tell A Friend</EmailName>
+		<Value>[ShortValue]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[ImageSecondary]</Keyword>
+		<EmailName>Tell A Friend|Promotion Tell A Friend</EmailName>
+		<Value>[ImageSecondary]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[RetailPrice]</Keyword>
+		<EmailName>Tell A Friend</EmailName>
+		<Value>[RetailPrice]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[Price]</Keyword>
+		<EmailName>Tell A Friend|Promotion Tell A Friend</EmailName>
+		<Value>[Price]</Value>
+	</EmailKeyword>
+	<EmailKeyword>
+		<Keyword>[TellFriendTextLink]</Keyword>
+		<EmailName>Tell A Friend|Promotion Tell A Friend</EmailName>
+		<Value>[TellFriendTextLink Text="Please visit this website for more details."]</Value>
+	</EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[ConfirmationLink]</Keyword>
+    <EmailName>Subscribe Newsletter Confirmation</EmailName>
+    <Value>[ConfirmationLink]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[RmaViewUrl]</Keyword>
+    <EmailName>RMA Requisition</EmailName>
+    <Value>[RmaViewUrl]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[RmaDetails]</Keyword>
+    <EmailName>RMA Approval|RMA Rejected</EmailName>
+    <Value>[RmaDetails]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[SubscriptionLevel]</Keyword>
+    <EmailName>Subscription Content Link</EmailName>
+    <Value>[SubscriptionLevel]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[SiteUrl]</Keyword>
+    <EmailName>Subscription Content Link</EmailName>
+    <Value>[SiteUrl]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderFirstName]</Keyword>
+    <EmailName>Gift Registry Purchase Notification|Order Confirmation</EmailName>
+    <Value>[OrderFirstName]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderLastName]</Keyword>
+    <EmailName>Gift Registry Purchase Notification|Order Confirmation</EmailName>
+    <Value>[OrderLastName]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderItems]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderItems NoText="No:", NameText="Name:", SkuText="Sku:", QuantityText="Quantity:", UnitPriceText="Unit Price:", Total="Total:"]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[GiftOrderItems]</Keyword>
+    <EmailName>Gift Registry Purchase Notification</EmailName>
+    <Value>[OrderItems ItemNumberText="", NameText="", QuantityText=""]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderProductCost]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderProductCost]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderDiscount]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderDiscount]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[PointDiscount]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[PointDiscount Text="Point Discount:"]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderTax]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderTax]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderShippingCost]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderShippingCost]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderHandlingFee]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderHandlingFee Text="Handling Fee:"]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderGiftCertificate]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderGiftCertificate Text="Gift Certificate:"]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderTotal]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderTotal]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderPaymentType]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderPaymentType]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderDate]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderDate]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderRewardPointEarned]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderRewardPointEarned Text="Reward Point Earned:"]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[OrderSpecialRequest]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[OrderSpecialRequest]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[ShippingAddress]</Keyword>
+    <EmailName>Order Confirmation</EmailName>
+    <Value>[ShippingAddress HeadText="*****  This order will ship to  *****", FirstNameText="FirstName:", LastNameText="LastName:", CompanyText="Company:", AddressText="Address:", CityText="City:", StateText="State:", ZipText="Zip:", CountryText="Country:", EmailText="Email:", PhoneText="Phone:", FaxText="Fax:"]</Value>
+  </EmailKeyword>
+
+  <EmailKeyword>
+    <Keyword>[RMAID]</Keyword>
+    <EmailName>RMA Approval|RMA Rejected</EmailName>
+    <Value>[RMAID]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[RMAProduct]</Keyword>
+    <EmailName>RMA Approval|RMA Rejected</EmailName>
+    <Value>[RMAProduct]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[RMAQuantity]</Keyword>
+    <EmailName>RMA Approval|RMA Rejected</EmailName>
+    <Value>[RMAQuantity]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[RMADate]</Keyword>
+    <EmailName>RMA Approval|RMA Rejected</EmailName>
+    <Value>[RMADate]</Value>
+  </EmailKeyword>
+  <EmailKeyword>
+    <Keyword>[RMANote]</Keyword>
+    <EmailName>RMA Approval|RMA Rejected</EmailName>
+    <Value>[RMANote]</Value>
+  </EmailKeyword>
+</EmailKeywords>

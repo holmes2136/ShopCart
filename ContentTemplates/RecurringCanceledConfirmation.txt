@@ -1,0 +1,12 @@
+Dear Customer,
+
+Your recurring payment has been canceled. Please see information below:
+    
+Order ID: [OrderID]
+
+Product:
+[ProductName]
+
+Canceled Date: [CancelDate]
+
+Thank you
