@@ -1,0 +1,81 @@
+﻿<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<asp:GridView runat="server" SkinId="DefaultGridView1" 
+    AutoGenerateColumns="False" CellPadding="0" CellSpacing="0" 
+    GridLines="None">           
+            <HeaderStyle CssClass="GridHeadStyle1" />
+            <RowStyle CssClass="GridRowStyle1 b2" />
+            <AlternatingRowStyle CssClass="GridAlternatingRowStyle1 b2" />
+            <EmptyDataRowStyle CssClass="GridEmptyDataRowStyle1 ac c6" />
+            <SelectedRowStyle CssClass="GridSelectedRowStyle1" />
+            <EditRowStyle CssClass="GridEditRowStyle1" />
+            <FooterStyle CssClass="GridFooterStyle1 b15" />
+            <PagerStyle CssClass="GridPageStyle1" />
+</asp:GridView>
+
+<asp:GridView runat="server" SkinId="GridViewLessHeader" 
+    AutoGenerateColumns="False" CellPadding="0" CellSpacing="0" 
+    GridLines="None">           
+            <HeaderStyle CssClass="GridHeadStyle2" />
+            <RowStyle CssClass="GridRowStyle1 b2" />
+            <AlternatingRowStyle CssClass="GridAlternatingRowStyle1 b2" />
+            <EmptyDataRowStyle CssClass="GridEmptyDataRowStyle1 ac c6" />
+            <SelectedRowStyle CssClass="GridSelectedRowStyle1" />
+            <EditRowStyle CssClass="GridEditRowStyle1" />
+            <FooterStyle CssClass="GridFooterStyle1 b15" />
+            <PagerStyle CssClass="GridPageStyle1" />
+</asp:GridView>
+
+<asp:GridView runat="server" SkinId="GridViewInvoice" 
+    AutoGenerateColumns="False" CellPadding="0" CellSpacing="0" 
+    GridLines="None">           
+            <HeaderStyle CssClass="GridHeadStyle2" />
+            <RowStyle CssClass="GridRowStyle1 b2" />
+            <AlternatingRowStyle CssClass="GridAlternatingRowStyle1 b2" />
+            <EmptyDataRowStyle CssClass="GridEmptyDataRowStyle1 ac c6" />
+            <SelectedRowStyle CssClass="GridSelectedRowStyle1" />
+            <EditRowStyle CssClass="GridEditRowStyle1" />
+            <FooterStyle CssClass="GridFooterStyle1 b15" />
+            <PagerStyle CssClass="GridPageStyle1" />
+</asp:GridView>
+
+<asp:GridView runat="server" SkinId="GridViewAdminDetails" 
+    AutoGenerateColumns="False" CellPadding="0" CellSpacing="0" 
+    GridLines="None">           
+            <HeaderStyle CssClass="GridHeadStyle3" />
+            <RowStyle CssClass="GridRowStyle1 b2" />
+            <AlternatingRowStyle CssClass="GridAlternatingRowStyle1 b2" />
+            <EmptyDataRowStyle CssClass="GridEmptyDataRowStyle1 ac c6" />
+            <SelectedRowStyle CssClass="GridSelectedRowStyle1" />
+            <EditRowStyle CssClass="GridEditRowStyle1" />
+            <FooterStyle CssClass="GridFooterStyle1 b15" />
+            <PagerStyle CssClass="GridPageStyle1" />
+</asp:GridView>
+
+
+<asp:GridView runat="server" SkinId="DefaultGridView" 
+    AutoGenerateColumns="False" CellPadding="0" CellSpacing="1" 
+    GridLines="None" >           
+            <HeaderStyle CssClass="DefaultGridHeadStyle" />
+            <RowStyle CssClass="DefaultGridRowStyle" />
+            <AlternatingRowStyle CssClass="DefaultGridAlternatingRowStyle" />
+            <EmptyDataRowStyle CssClass="DefaultGridEmptyDataRowStyle" />
+            <SelectedRowStyle CssClass="DefaultGridSelectedRowStyle" />
+            <EditRowStyle CssClass="DefaultGridEditRowStyle" />
+            <FooterStyle CssClass="DefaultGridFooterStyle" />
+            <PagerStyle CssClass="DefaultGridPageStyle" />
+</asp:GridView>

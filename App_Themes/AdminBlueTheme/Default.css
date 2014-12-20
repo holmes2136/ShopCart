@@ -1,0 +1,4976 @@
+﻿/*------------------------ Standard Css ---------------------------------*/
+html
+{
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    overflow: hidden;
+}
+
+body
+{
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-size: 13px;
+    font-weight: lighter;
+    font-family: 'Calibri', Arial, Verdana, Tahoma, Microsoft Sans Serif;
+    position: absolute;
+    background-color: #fff;
+    color: #1b1b1b;
+}
+
+.AjaxUpdateProgress
+{
+    width: 31px;
+    height: 31px;
+}
+
+.AjaxUpdateProgress img
+{
+}
+
+h1
+{
+}
+h2
+{
+}
+h3
+{
+}
+h4
+{
+}
+h5
+{
+}
+h6
+{
+}
+
+.height24
+{
+    height: 24px;
+    line-height: 24px;
+}
+
+/*----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------*/
+
+/*-------------------------- Common Part Css -------------------------*/
+.b1
+{
+    background-color: #000000;
+}
+.b2
+{
+    background-color: #ffffff;
+}
+.b3
+{
+    background-color: #e4f1dd;
+}
+/* Background Body Color */
+.b4
+{
+    background-color: #F98E00;
+}
+/* Title Menu */
+.b5
+{
+    background-color: #f7f7f7;
+}
+/* According Background Menu */
+.b6
+{
+    background-color: #fff; /*#e2eff7;*/
+}
+/* Background Color for Boxset 1 */
+.b7
+{
+    background-color: #f7f7f7;
+}
+/* Background Color for Gridview1 Mouse Over */
+.b8
+{
+    background-color: #d0eefe;
+}
+/* Background Color for Gridview1 Footer */
+.b9
+{
+    background-color: #fddac6;
+}
+/* Background Color for Message Alert */
+.b10
+{
+    background-color: #d6dbf6;
+}
+/* Background Color for Message Allow */
+.b11
+{
+    background-color: #c0c0c0; /* Background Color for Login */
+}
+
+.b12
+{
+    background-color: #f2f1f1; /* BackGround SubMenu    */
+}
+
+.b13
+{
+    background-color: #85AED9; /* Background Menu In OrdersEdit. */
+}
+
+.b14
+{
+    background-color: #ecf2f5; /* Background Upload; */
+}
+
+.b15
+{
+    background-color: #eee;
+}
+.c1, .c1 a
+{
+    color: #000000;
+}
+.c2, .c2 a
+{
+    color: #333;
+}
+.c3, .c3 a
+{
+    color: #666666;
+}
+/* According Font Color */
+.c4, .c4 a
+{
+    color: #545353;
+}
+/* font color for Boxset 1 */
+.c5, .c5 a
+{
+    color: #333;
+}
+/* font color for Boxset 3 */
+.c6, .c6 a
+{
+    color: #ff0000;
+}
+/* font color for notice in Gridview */
+.c7, .c7 a
+{
+    color: #898f82;
+}
+/* font color for PageLink */
+.c8, .c8 a
+{
+    color: #f85056;
+}
+/* font color for Boxset Alert */
+.c9, .c9 a
+{
+    color: #3c5bd4;
+}
+/* font color for Boxset Allow */
+.c10, .c10 a
+{
+    color: #f98e00;
+}
+
+.c11, .c11 a
+{
+    color: #1f95ed; /* font color for link in front */
+}
+
+.border1
+{
+    border: solid 1px #000000;
+}
+.border2
+{
+    border: dashed 1px forestgreen;
+}
+
+.border3
+{
+    border: 1px solid #eee;
+}
+
+.fl
+{
+    float: left;
+}
+.fr
+{
+    float: right;
+}
+
+.fs0
+{
+    font-size: 0px;
+}
+
+.fs11, .fs11 select
+{
+    
+}
+
+.fs12, .fs12 select
+{
+    font-size: 12px;
+}
+
+.fs13, .fs13 select
+{
+    font-size: 13px;
+}
+
+.fs14
+{
+    font-size: 13px;
+}
+.fs16
+{
+    font-size: 15px;
+}
+.fs18
+{
+    font-size: 13px;
+}
+
+.al
+{
+    text-align: left;
+}
+.ac
+{
+    text-align: center;
+}
+.ar
+{
+    text-align: right;
+}
+.vt
+{
+    vertical-align: top;
+}
+.vm
+{
+    vertical-align: middle;
+}
+.vb
+{
+    vertical-align: bottom;
+}
+
+.ovn
+{
+    overflow: hidden;
+}
+
+.uln, .uln a
+{
+    text-decoration: none;
+}
+.ul, ul a
+{
+    text-decoration: underline;
+}
+
+.fb
+{
+    font-weight: bold;
+}
+
+.vmImg
+{
+    position: absolute;
+    top: 44%;
+    left: 0px;
+}
+.pr
+{
+    position: relative;
+}
+.pas
+{
+    position: absolute;
+}
+.bullet1
+{
+    background-image: url(Images/Bullet/circle_bullet1.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 5px;
+    padding-left: 10px;
+}
+
+.bulletEmailTemplate
+{
+    background-image: url(Images/Bullet/circle_bullet1.gif);
+    background-repeat: no-repeat;
+    background-position: 5px 15px;
+    padding-left: 30px;
+}
+.Asterisk
+{
+    color: Red;
+}
+
+/*.inputrow1 {}
+.label1 { width:170px;}
+.input1 { zoom: 1;*//* set hasLayout for IE6 and below to trigger quirky float model which means div clear the floats */
+/*overflow: hidden; /* make inputs clear the floats to give the width you need - auto doesn't work here it creates scrollbar */
+/*margin: 5px 0; }
+.input1 input { width:99%;  }
+.pluslabel1 { }*/
+.validator1
+{
+    color: #f85056;
+    padding-left: 5px;
+}
+.CommonValidatorText
+{
+    float: left;
+    margin-top: 2px;
+    font-size: 90%;
+    color: Red;
+}
+.CommonValidatorText img
+{
+    padding-left: 2px;
+}
+.CommonValidatorTextProductDetailRMA{ float: none; }
+.CommonValidatorTextStockOption img
+{
+    padding-bottom: 1px;
+}
+.CommonValidatorTextProductOption
+{
+    
+    margin-top: 10px;
+    color: Red;
+}
+.CommonValidatorTextOrderCouponGift{ clear: left; margin-left: 280px;}
+.CommonValidatorTextProductGiftCert{ float: none;}
+.CommonValidateDiv
+{
+    border-top: dotted 1px #FF0000;
+    margin-top: -2px;
+    margin-bottom: 2px;
+    position: relative;
+    right: 167px;
+    width: 155px;
+}
+.CommonValidateDivCustomerLong, .CommonValidateDivShippingAddressLong{ right: 317px; width: 305px;}
+.CommonValidateDivProductSku{ right: 228px; width: 215px;}
+.CommonValidateDivProductPrice, .CommonValidateDivDisplayedNewArrival{ right: 87px; width: 76px;}
+.CommonValidateDivProductRMA{ margin-top: 1px; left: 250px; right: 0px; width: 76px;}
+.CommonValidateDivProductMinQuantity, .CommonValidateDivProductMaxQuantity, .CommonValidateDivProductMinPrice{ right: 76px; width: 76px;}
+.CommonValidateDivProductRelated{ right: 264px; width: 264px;}
+.CommonValidateDivProductStockOption{ right: 0px; top: -10px; width: 86px;}
+.CommonValidateDivProductGiftCertificate, .CommonValidateDivProductSubscription{ right: 268px; width: 256px;}
+.CommonValidateDivProductName{ right: 281px; width: 256px;}
+.CommonValidateDivProductRecurring{ margin-top: -1px; right: -250px; width: 256px;}
+.CommonValidateDivPromotionGroupShot{ right: 88px; width: 75px;}
+.CommonValidateDivCreateOrderProductPrice, .CommonValidateDivCreateOrderProductQty{ right: 267px; width: 255px;}
+.CommonValidateDivCategoryLong{ right: 281px; width: 255px;}
+.CommonValidateDivContentMenuLong{ right: 286px; width: 255px;}
+.CommonValidateDivContentTitleLong{ right: 288px; width: 255px;}
+.CommonValidateDivContentNameLong, .CommonValidateDivReviewSubject{ right: 268px; width: 255px;}
+.CommonValidateDivProductOptionDetails{ right: 166px; width: 155px;}
+.CommonValidateDivAdminAddLong{ right: 282px; width: 271px;}
+.CommonValidateDivAffiliateLong{ right: 297px; width: 285px;}
+.CommonValidateDivWholesaleDiscount{ right: 78px; width: 55px;}
+.CommonValidateDivRatingStar{ right: 67px; width: 55px;}
+.CommonValidateDivPaymentUrl{ right: 218px; width: 205px;}
+.CommonValidateDivCuponDiscount, .CommonValidatDivShippingHandlingFee{ right: 156px; width: 155px;}
+.CommonValidateDivItemBox{ margin-bottom: -4px; margin-top: 0px; right: 0px; width: 125px;}
+.CommonValidateDivProductBulkUpdateSku{ margin-top: 0px; right: 0px; width: 75px;}
+.CommonValidateDivProductBulkUpdateName{ margin-top: 0px; right: 0px; width: 145px;}
+.CommonValidateDivProductBulkUpdateStock{ margin-top: 0px; right: 0px; width: 35px;}
+.CommonValidateDivProductBulkUpdatePrice{ margin-top: 0px; right: 0px; width: 85px;}
+.CommonValidateDivReviewRating{ right: 112px; width: 99px;}
+.CommonValidateDivBannerName{ right: 269px; width: 257px;}
+.CommonValidateDivBannerImageText{ right: 316px; width: 257px;}
+.CommonValidateDivCheckoutShippingMethod, .CommonValidateDivCheckoutPaymentMethod{ position: inherit; width: 158px;}
+.CommonValidateDivSmtpUserName{ right: 155px; width: 153px;}
+.CommonValidateDivSmtpPassword{ right: 149px; width: 150px;}
+.CommonValidateDivSmtpPort{ right: 77px; width: 65px;}
+.CommonValidateDivStoreBanner, .CommonValidateDivTodaySpecial{ right: 156px;}
+.CommonValidateDivNewsletterLong{ right: 268px; width: 255px;}
+.CommonValidateDivNewsletterShot{ right: 80px; width: 100px;}
+.CommonValidateDivPromotionGroupWeight{ right: 86px; width: 74px;}
+.CommonValidateDivPromotionProductLong{ right: 255px; width: 255px;}
+.CommonValidateDivPaymentLong{ right: 276px; width: 254px;}
+.CommonValidateDivPaymentDisplayNameLong{ right: 306px; width: 274px;}
+.CommonValidateDivShippingName{ right: 181px;}
+.CommonValidateDivDatePopup{ right: 194px; width: 155px;}
+.CommonValidateDivOrderCouponGift{ margin-bottom: -4px; right: 0px;}
+.CommonValidateDivProductGiftCert{ margin-top: 0px; right: -164px; width: 105px;}
+.CommonValidateDivAffiliateSendMailLong{ right: 274px; width: 255px;}
+.OptionValidateDiv
+{
+    width: 76px;
+    border-bottom: dotted;
+    border-width: 1px;
+    color: #FF0000;
+    margin-bottom: 2px;
+}
+.freeTextBox1
+{
+    border: dashed 1px #f1f1f1;
+}
+
+.freeTextBox1 table
+{
+    margin: 2px;
+}
+
+.TextBox
+{
+    border: 1px solid #eee;
+	padding: 2px;
+}
+.DropDown
+{
+    font-size: 12px;
+}
+.CheckBox
+{
+    padding: 0px;
+}
+
+.CheckBox input
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.CheckBox label
+{
+    padding-left: 10px;
+}
+.Button1Right { margin-right: 10px; margin-top: 2px;}
+/* Begin Common Button Style*/
+.ButtonOrange,
+.ButtonBlue,
+.ButtonGrey
+{
+    display: block;
+    float: right;
+    font-size: 13px; line-height: 18px;
+    padding: 1px 10px;
+    font-family: Calibri;
+    text-decoration: none;
+    vertical-align: middle;    
+    color: #fff;
+    border:0;
+}
+.ButtonOrange,
+.ButtonBlue
+{
+    background-color: #f57334;
+}
+
+.ButtonGrey
+{
+    background-color: #f1f1f1;
+    color: #555;
+}
+
+.ButtonBlue:hover
+{
+    color: #000;	
+}
+.ButtonOrange:hover
+{
+    color: #000;	
+}
+.ButtonGrey:hover
+{
+    color: #000;	
+}
+.ButtonCenter
+{
+    display: inline; float: none;
+}
+/* End Common Button Style*/
+/* Begin Common Background Style*/
+
+.CommonConfigTitle,
+.ExportNotice,
+.ProductDetailsRowTitle,
+.OrderEditRowTitle,
+.PaymentCurrencyDescription,
+.ProductImageUpload,
+.ProductFeedLanguage,
+.CssAdminContentButtonEvent,
+.CommonTextTitle1,
+.RmaRowTitle
+{
+    background-color: #e9f6fd;
+    border-top: solid 1px #f1f1f1;
+    border-bottom: solid 1px #f1f1f1;
+    color: #1b1b1b;
+    font-weight: normal;
+}
+.CssAdminContentButtonEvent
+{
+    border-top: 0
+}
+
+.CssAdminContentPaging,
+.CssAdminContentPanel .TopContent,
+.CommonTitle,
+#ButtonDeleteRemove,
+.PaymentDetailTopLabel
+{
+   background-color: #fff;
+    border-bottom: solid 1px #f1f1f1;
+    color: #1b1b1b;
+    
+}
+.CssAdminContentTop,
+.PaymentSetCurrencyUnit
+{
+    background-color: #e9f6fd;
+    border-bottom: solid 1px #f1f1f1;
+}
+.Commonsubtitle
+{
+    background-color: #f1f1f1;
+    color: #333;
+    clear: left;
+    float: left;
+    margin-bottom: 10px;
+    padding: 5px 2%;
+    width: 95%;
+}
+
+/* End Common Background Style*/
+/*----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------*/
+
+/*-------------------------- For Default Css --------------------------*/
+.DefaultMenu a
+{
+    width: 173px;
+    height: 20px;
+    line-height: 20px;
+    display: block;
+}
+
+.CssSymbolTrue
+{
+    background-image: url(Images/Correct.gif);
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 14px;
+    border: none;
+}
+.CssSymbolFalse
+{
+    background-image: url(Images/Remove.gif);
+    background-repeat: no-repeat;
+    width: 16px;
+    height: 14px;
+    border: none;
+}
+
+.CssSymbolPass
+{
+    background-image: url(Images/Icon/Icon_Pass.gif);
+    background-repeat: no-repeat;
+    width: 9px;
+    height: 9px;
+    border: none;
+    display:block;
+}
+
+.CssSymbolFail
+{
+    background-image: url(Images/Icon/Icon_Fail.gif);
+    background-repeat: no-repeat;
+    width: 9px;
+    height: 9px;
+    border: none;
+    display:block;
+}
+
+.CssSymbolUnavailable
+{
+    display:none;
+}
+
+.CssSymbolUnavailableLabel
+{
+    color:#333333;
+    font-size:10px;
+}
+
+/*----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------*/
+/*----------------------------------------------------------------------*/
+
+.AdminArea
+{
+    padding: 0;
+    margin: 0;
+}
+.AdminHeaderBar
+{
+    height: 18px;
+    line-height: 18px;
+    vertical-align: middle;
+    border: solid 1px #b4d4e5; /*background-image: url(Images/Background/HeaderBar.gif);     background-repeat: repeat-x;*/
+    background-color: #a8c6e4;
+    margin-bottom: 1px;
+}
+
+.AdminBody
+{
+    overflow: hidden;
+}
+
+.AdminBodyContent
+{
+    float: left;
+}
+
+.AdminBodyContent #uxContentUpdatePanel
+{
+    width: 100%;
+    height: 100%;
+}
+
+.InnerContentHeader
+{
+    width: 94%;
+    margin: 8px auto;
+}
+
+.InnerContentHolderArea
+{
+    width: 100%;
+    height: auto;
+    overflow: auto;
+}
+
+.AdminTitleBar
+{
+    display: none;
+    width: 100%;
+    height: 25px; /*background-image: url(Images/Background/BG_Header3.gif);     background-repeat: repeat-x;*/
+}
+.AdminTitleText
+{
+    height: 25px; /*background-image: url(Images/Background/BG_Header1.gif);     background-repeat: repeat-x;*/
+    padding-left: 10px;
+    padding-top: 0px;
+}
+.AdminTitleSeparate
+{
+    width: 36px;
+    height: 25px; /*background-image: url(Images/Background/BG_Header2.gif);     background-repeat: no-repeat;*/
+}
+
+.ContentArea
+{
+    width: 100%;
+    margin: 0 auto;
+    vertical-align: top;
+    border-top: solid 1px #f1f1f1;
+}
+.TopContentArea
+{
+    width: 99%;
+    padding: 0 auto 0 25px;
+    height: 38px;
+}
+.UploadFileButton
+{
+}
+.UploadMessage
+{
+}
+.cursorPointer:hover
+{
+    cursor: pointer;
+}
+
+
+
+/*-------------------- 3 Div Box Class ---------------------*/
+.BoxSet1
+{
+    border: solid 1px #cccccc;
+}
+
+.BoxSet1 .TopBar
+{
+    display: none;
+}
+
+.BoxSet1 .TopBarTitle
+{
+}
+
+.BoxSet1 .TopImgLeft
+{
+}
+
+.BoxSet1 .TopImgRight
+{
+}
+
+.BoxSet1 .CenterLeft
+{
+}
+
+.BoxSet1 .CenterRight
+{
+    /*border-left: solid 1px #b3d3e5;     border-right: solid 1px #b3d3e5;*/ /*padding-top: 10px;*/
+}
+
+.BoxSet1 .BottomBar
+{
+    display: none;
+}
+.BoxSet1 .BottomImgLeft
+{
+}
+.BoxSet1 .BottomImgRight
+{
+}
+
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+
+/*---------------------- BoxSet 5 ------------------------------*/
+.BoxSet5
+{
+}
+
+.BoxSet5 .TopBar
+{
+    display: none;
+}
+
+.BoxSet5 .TopBarTitle
+{
+}
+
+.BoxSet5 .TopImgLeft
+{
+}
+
+.BoxSet5 .TopImgRight
+{
+}
+
+.BoxSet5 .CenterLeft
+{
+}
+
+.BoxSet5 .CenterRight
+{
+    border: solid 1px #b6d9ed;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.BoxSet5 .BottomBar
+{
+    display: none;
+}
+.BoxSet5 .BottomImgLeft
+{
+}
+.BoxSet5 .BottomImgRight
+{
+}
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+
+/* ------------------- BoxSet 0 ----------------------------*/
+.BoxSet0
+{
+}
+
+.BoxSet0 .TopBar
+{
+    display: none;
+}
+
+.BoxSet0 .TopBarTitle
+{
+}
+
+.BoxSet0 .TopImgLeft
+{
+}
+
+.BoxSet0 .TopImgRight
+{
+}
+
+.BoxSet0 .CenterLeft
+{
+}
+
+.BoxSet0 .CenterRight
+{
+    border: none;
+}
+
+.BoxSet0 .BottomBar
+{
+    display: none;
+}
+.BoxSet0 .BottomImgLeft
+{
+}
+.BoxSet0 .BottomImgRight
+{
+}
+/*--------------------------------------------------------------*/
+/*--------------------------------------------------------------*/
+
+/*---------------------- Border Class --------------------------*/
+.BorderSet1
+{
+    border: 1px solid #eee;
+    overflow: hidden;
+}
+.BorderSet2
+{
+    width: 500px;
+    height: 40px;
+    line-height: 40px;
+    border: solid 1px #acbfa8;
+}
+.BorderSet3
+{
+    width: 500px;
+    height: 40px;
+    line-height: 40px;
+    border: solid 1px #f85056;
+}
+
+/*----------------------- Grid Class ----------------------------*/
+.Gridview1
+{
+    width: 100%;
+    background-color:#f1f1f1;
+}
+.GridvieInvoice
+{
+    width: 725px;
+    line-height: 12px;
+    
+}
+
+.GridHeadStyle1
+{
+    height: 22px;
+}
+
+.GridHeadStyle1 th
+{
+    background-image: url(Images/Gridview/BG_GridHeader1.gif);
+    background-repeat: repeat-x;
+    border: solid 1px #ffffff;
+}
+
+.GridHeadStyle2
+{
+    height: 20px;
+}
+
+.GridHeadStyle2 th
+{
+    background-image: url(Images/Gridview/BG_GridHeader1.gif);
+    background-repeat: repeat-x;
+    border: solid 1px #ffffff;
+    height: 20px;
+}
+
+.GridHeadStyle3
+{
+    height: 44px;
+}
+
+.GridHeadStyle3 th
+{
+    background-image: url(Images/Gridview/BG_GridHeader2.gif);
+    background-repeat: repeat-x;
+    border: solid 1px #ffffff;
+}
+
+.GridRowStyle1
+{
+    height: 25px;
+}
+
+.GridRowStyle1 td
+{
+    border: solid 1px #ffffff;
+}
+
+.GridRowStyle1FirstRow td
+{
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+
+.GridRowStyle1FirstRow td input
+{
+    /*margin-top:2px;  */
+}
+
+.GridRowStyle1LastRow td
+{
+    padding-top: 2px;
+    padding-bottom: 5px;
+}
+
+.GridAlternatingRowStyle1
+{
+    height: 25px;
+}
+.GridAlternatingRowStyle1 td
+{
+    border: solid 1px #ffffff;
+    
+}
+.GridEmptyDataRowStyle1
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.GridSelectedRowStyle1
+{
+}
+.GridEditRowStyle1
+{
+    height: 40px;
+}
+.GridFooterStyle1
+{
+    height: 20px;
+}
+.GridRowNotice1
+{
+    height: 40px;
+}
+.GridAlternatingRowNoticeStyle1
+{
+    height: 40px;
+}
+.GridPageStyle1
+{
+}
+.UseStockOptionGridDisabled
+{
+    display: none;
+}
+
+/*----------------------- Icon Class -----------------------------*/
+
+.IconEdit a
+{
+    background-image: url(Images/Icon/Icon_Edit.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    width: 28px;
+    height: 27px;
+    display: block;
+}
+
+.IconReview a
+{
+    background-image: url(Images/Icon/Icon_View.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    width: 28px;
+    height: 27px;
+    display: block;
+}
+
+/*----------------------- Button Class  2 Div Style  --------------------------- */
+.Button1Left input
+{
+    border: 0px;
+    border-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+/*----------------------- Page Button Class  2 Div Style  --------------------------- */
+
+
+
+/*----------------------- Command Button Class --------------------------*/
+.ButtonAdd
+{
+    border: 0px;
+    background-image: url(Images/Button/EventButtonAdd.gif);
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding-top: 46px;
+    cursor: pointer;
+    font-size: 11.5px;
+}
+
+.ButtonSort
+{
+    border: 0px;
+    background-image: url(Images/Button/EventButtonSorting.gif);
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding-top: 46px;
+    cursor: pointer;
+    font-size: 11.5px;
+}
+
+.ButtonConfig
+{
+    border: 0px;
+    background-image: url(Images/Button/EventButtonSetup.gif);
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding-top: 46px;
+    cursor: pointer;
+    font-size: 11.5px;
+}
+
+.ButtonOptionGroupAdd
+{
+    border: 0px;
+    background-image: url(Images/Button/EventButtonAddOptionGroup.gif);
+    background-repeat: no-repeat;
+    background-position: top center;
+    padding-top: 50px;
+    cursor: pointer;
+    font-size: 11.5px;
+}
+
+
+
+/*----------------------- FormView Class -------------------------*/
+.FormView1
+{
+    width: 100%;
+    font-size: 13px;
+}
+
+
+/*----------------------- DataFeed List ---------------------------*/
+.AnchorList
+{
+    position: relative;
+    padding-bottom: 10px;
+    padding-top: 20px;
+}
+
+.AnchorList1Left
+{
+    width: 250px;
+    height: 32px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    /*background-image: url(Images/Background/Link1Left.gif);
+    background-repeat: no-repeat;*/
+}
+
+.AnchorList1Right
+{
+    height: 32px;
+    margin-left: 10px;
+    /*background-image: url(Images/Background/Link1Right.gif);
+    background-repeat: no-repeat;
+    background-position: right top;*/
+}
+
+.AnchorList1Right a
+{
+    width: 211px;
+    height: 30px;
+    padding-top: 2px;
+    display: block;
+    text-align: left;
+    vertical-align: middle;
+    /*background-image: url(Images/Background/Link1Center.gif);
+    background-repeat: repeat-x;*/
+    background: url(Images/Bullet/circle_bullet.gif) no-repeat 0px 12px;
+    margin-right: 29px;
+    color: #545454;
+    text-decoration: none;
+    font-weight: bold;
+    padding-left:17px;
+}
+
+.AnchorList1Right a:hover
+{
+    text-decoration: underline;
+}
+
+/*--------------------------------------------------------------------*/
+/*------------------------ Login Class -------------------------------*/
+/*--------------------------------------------------------------------*/
+.AdminLoginBody
+{
+    background-color: #e9f6fd;
+    position: relative;
+}
+.LoginPage
+{
+    position: absolute;
+    width: 100%;
+    height: 530px;
+    display: block;  
+    background:#fff url(Images/Background/Admin-Login-Shadow.jpg) no-repeat center bottom;
+    overflow: hidden
+}
+.LoginBackground
+{
+    width: 100%; height: 2px;
+    background: #a1deff;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ExZGVmZiIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMzY0OTkiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(left,  #a1deff 0%, #036499 100%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%,#a1deff), color-stop(100%,#036499));
+    background: -webkit-linear-gradient(left,  #a1deff 0%,#036499 100%);
+    background: -o-linear-gradient(left,  #a1deff 0%,#036499 100%);
+    background: -ms-linear-gradient(left,  #a1deff 0%,#036499 100%);
+    background: linear-gradient(to right,  #a1deff 0%,#036499 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a1deff', endColorstr='#036499',GradientType=1 );
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+
+}
+
+.LoginArea
+{
+    width: 620px;
+    height: 295px;
+    padding: 105px 0 120px;
+    display: block;
+    margin: 0 auto;
+}
+.LoginTitle
+{
+    float: left;
+    width: 275px;
+    margin-left: 20px;
+}
+.LoginLogo
+{
+    clear: left;
+    float: left;
+    width: 100%; height: 40px;
+    background: url(Images/Logo/BG_LoginLogo.gif) no-repeat left center;
+    height: 58px;
+}
+.LoginTitle .TitleText
+{
+    clear: left;
+    float: left;
+    font-size: 29px;
+    line-height: 50px;
+    color: #3f3f3f;
+    margin-bottom: 15px;
+}
+.LoginTitleLine
+{
+    clear: left;
+    float: left;
+    width: 95%; height: 2px;
+    background: #71c6f9;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiM3MWM2ZjkiIHN0b3Atb3BhY2l0eT0iMSIvPgogICAgPHN0b3Agb2Zmc2V0PSI1MCUiIHN0b3AtY29sb3I9IiNhNGE0YTQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(left,  #71c6f9 50%, #a4a4a4 50%);
+    background: -webkit-gradient(linear, left top, right top, color-stop(50%,#71c6f9), color-stop(50%,#a4a4a4));
+    background: -webkit-linear-gradient(left,  #71c6f9 50%,#a4a4a4 50%);
+    background: -o-linear-gradient(left,  #71c6f9 50%,#a4a4a4 50%);
+    background: -ms-linear-gradient(left,  #71c6f9 50%,#a4a4a4 50%);
+    background: linear-gradient(to right,  #71c6f9 50%,#a4a4a4 50%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#71c6f9', endColorstr='#a4a4a4',GradientType=1 );
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+.DescriptionText
+{
+    color: #3f3f3f;
+    font-size: 20px;
+    clear: left;
+    float: left;
+    line-height: 32px;
+    margin: 15px 0;
+}
+.LoginBody
+{
+    float: right;
+    width: 280px;
+    margin-right: 20px;
+}
+
+.LoginInput
+{
+    clear: both; float: left; width: 100%; 
+    margin-top: 20px; color: #3f3f3f; 
+}
+.LoginLabel
+{
+    color: #3f3f3f; line-height: 32px; clear: left; float: left;
+    width: 85px;
+}
+
+.LoginUsername
+{   
+    float: left;
+    background: url(Images/Icon/Login-User.gif) no-repeat left center;
+    border: solid 1px #ededed;
+    height: 29px; padding-left: 29px;
+    width: 150px;
+}
+.LoginForgotUsername
+{
+    width: 215px;
+    float: left;
+    background: url(Images/Icon/Login-User.gif) no-repeat left center;
+    border: solid 1px #ededed;
+    height: 29px; padding-left: 29px;
+    margin-top: 10px;
+}
+.LoginInput .TextBox,
+.LoginInput .ForgotTextBox
+{
+    border: 0;
+    width: 142px;
+    padding: 3px;
+    margin-top: 3px;
+}
+.LoginInput .ForgotTextBox { width: 200px;}
+.LoginInput span { float: left; margin: 7px 0 0 2px}
+.LoginPassword
+{
+    float: left;
+    background: url(Images/Icon/Login-Password.gif) no-repeat left center;
+    border: solid 1px #ededed;
+    height: 29px; padding-left: 29px;
+    width: 150px;
+}
+
+.LoginForgotPassword
+{
+    clear: left;
+    float: right;
+    color: #202020;
+    line-height: 20px;
+    text-decoration: underline;
+    margin-right: 10px;
+    
+}
+
+.FooterCopyRightLabel
+{
+    clear: both;
+    float :left; width: 100%; 
+    height: 30px;
+    line-height: 30px;
+    padding: 15px 0;
+    margin-top: 30px;    
+    text-align: center;
+    color: #656565;
+    border-top: solid 1px #e0e0e0;
+}
+.ButtonLogin 
+{
+    display: block;
+    float: right;
+    font-size: 14px; line-height: 24px;
+    margin-right: 10px;
+    padding: 4px 30px;
+    font-family: Calibri;
+    text-decoration: none;
+    vertical-align: middle;    
+    color: #fff;
+    border:0;
+    background: #71c6f9;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzcxYzZmOSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM0MWI1ZjkiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top,  #71c6f9 0%, #41b5f9 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#71c6f9), color-stop(100%,#41b5f9));
+    background: -webkit-linear-gradient(top,  #71c6f9 0%,#41b5f9 100%);
+    background: -o-linear-gradient(top,  #71c6f9 0%,#41b5f9 100%);
+    background: -ms-linear-gradient(top,  #71c6f9 0%,#41b5f9 100%);
+    background: linear-gradient(to bottom,  #71c6f9 0%,#41b5f9 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#71c6f9', endColorstr='#41b5f9',GradientType=0 );
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+}
+.ButtonLogin:hover { color: #000}
+/************************ End New Style **************************/
+
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+/*------------------------ End Login Class ---------------------------*/
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+
+.MenuAccordingList .SubSideMenuLeft
+{
+    background-color: #f2f1f1;
+    background-image: url(Images/AdminMenu/Bullet_LeftMenu.gif );
+    background-repeat: no-repeat;
+    background-position: 5px 9px;
+}
+.MenuAccordingList .SubSideMenuRight
+{
+    border-bottom: solid 1px #ffffff;
+}
+
+.MenuAccordingList .SubSideMenuRight a
+{
+    margin-left: 10px;
+    background-position: 10px 0px;
+}
+
+.CssBackToTopLink
+{
+    background-image: url(Images/Icon/Icon_BacktoTop.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    padding-left: 20px;
+    height: 18px;
+    line-height: 18px;
+    display: block;
+}
+
+.CssBackLink a
+{
+    background-image: url(Images/Icon/Icon_BacktoTop.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    padding-left: 20px;
+    height: 18px;
+    line-height: 18px;
+    display: block;
+}
+
+#PrintArea
+{
+    margin: 0px;
+    /*border: 1px solid #eee;
+    padding: 10px;*/
+}
+
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+/*------------------------ Ajax Calendar Class -----------------------*/
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+
+
+.ajax__calendar_container
+{
+    width: 250px;
+    height: 190px;
+    border: solid 1px #000;
+    background-color: White;
+  position: relative;
+    z-index: 1000;
+	color: black;
+}
+
+.ajax__calendar_dayname
+{
+    font-weight: bold;
+}
+
+.ajax__calendar_title
+{
+    background-color: #fff;
+}
+
+.ajax__calendar_body
+{
+}
+
+.ajax__calendar_days
+{
+}
+
+.ajax__calendar_days tbody tr
+{
+    height: 19px;
+}
+
+.ajax__calendar_days tbody tr td div
+{
+    height: 19px;
+}
+
+.ajax__calendar_day
+{
+    color: Black;
+}
+
+.ajax__calendar_active
+{
+    background-color: #c8ecfd;
+}
+
+.ajax__calendar_hover
+{
+    font-weight: bold;
+}
+
+.ajax__calendar_other .ajax__calendar_hover
+{
+}
+
+.ajax__calendar_other .ajax__calendar_day
+{
+    color: Gray;
+}
+
+.ajax__calendar_footer ajax__calendar_today
+{
+}
+
+.AspCalendar
+{
+}
+.CalendarPosition
+{
+    float: left;
+    margin: 2px 5px 0px 5px;
+}
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+/*--------------------- End Ajax Calendar Class ----------------------*/
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+
+.GridBottomAddPanel
+{
+    width: 100%; /*height: 50px;*/
+}
+
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+/*--------------------- Invoice Packing Class ----------------------*/
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+
+.packingSlip
+{
+    border: 1px solid #eee; /*padding: 20px;*/
+    padding: 10px;
+    margin: auto;
+    width: 730px;
+    overflow: hidden;
+}
+
+.packingFromAddress
+{
+}
+
+.packingCompanyName
+{
+    text-align: left;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.packingCompanyAddress
+{
+    
+    line-height: 20px;
+}
+
+.packingOrderDetails
+{
+    text-align: left;
+    line-height: 20px;
+    font-family: Verdana, Arial, Tahoma, Microsoft Sans Serif;
+    
+}
+
+.packingOrderDestination
+{
+    margin-left: 300px;
+    text-align: left;
+}
+
+.packingOrderDestinationTitle
+{
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.packingOrderDestinationAddress
+{
+    
+    margin-left: 30px;
+    line-height: 20px;
+}
+
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+/*--------------------- Invoice Packing Class ----------------------*/
+/*--------------------------------------------------------------------*/
+/*--------------------------------------------------------------------*/
+.InvoiceBox
+{
+    border: 1px solid #eee;
+    padding: 15px;
+    margin: 20px auto 10px;
+    width: 70%;
+}
+.invoiceHeaderDetails
+{
+    margin-top: 10px;
+    color: #333333;
+    line-height: 22px;
+}
+
+.InvoiceCompanyAddress
+{
+    font-size:95%;
+}
+
+.invoiceHeaderDetailsLeft
+{
+    width: 50%;
+    float: left;
+}
+.invoiceHeaderDetailsRight
+{
+    width: 50%;
+    float: right;
+}
+
+.invoiceBillShipAddress
+{
+    width: 100%;
+    margin-top: 20px;
+    clear: both;
+    line-height: 22px;
+}
+
+.invoiceBottomDetails
+{
+    width: 100%;
+}
+
+.invoiceBottomDetails td
+{
+    
+}
+
+.invoiceBottomDetailsMerchant
+{
+    width: 28%;
+}
+.invoiceBottomDetailsCustomer
+{
+    width: 28%;
+}
+
+/*------------------------ Admin Menu Left Button -------------------------*/
+/*-------------------------------------------------------------------------*/
+.MenuAdminUsers
+{
+    background-image: url(Images/AdminMenu/AdminUsers.gif);
+    background-repeat: no-repeat;
+}
+.MenuBestSellerReport
+{
+    background-image: url(Images/AdminMenu/BestSellerReport.gif);
+    background-repeat: no-repeat;
+}
+.MenuContents
+{
+    background-image: url(Images/AdminMenu/Contents.gif);
+    background-repeat: no-repeat;
+}
+.MenuContentMenus
+{
+    background-image: url(Images/AdminMenu/ContentMenus.gif);
+    background-repeat: no-repeat;
+}
+.MenuCategories
+{
+    background-image: url(Images/AdminMenu/Categories.gif);
+    background-repeat: no-repeat;
+}
+.MenuStore_Configuration
+{
+    background-image: url(Images/AdminMenu/Store_Configuration.gif);
+    background-repeat: no-repeat;
+}
+.MenuCountriesAndState
+{
+    background-image: url(Images/AdminMenu/CountriesAndState.gif);
+    background-repeat: no-repeat;
+}
+.MenuCoupons
+{
+    background-image: url(Images/AdminMenu/Coupons.gif);
+    background-repeat: no-repeat;
+}
+.MenuCurrencies
+{
+    background-image: url(Images/AdminMenu/Currencies.gif);
+    background-repeat: no-repeat;
+}
+.MenuCustomers
+{
+    background-image: url(Images/AdminMenu/Customers.gif);
+    background-repeat: no-repeat;
+}
+.MenuCustomerReport
+{
+    background-image: url(Images/AdminMenu/CustomerReport.gif);
+    background-repeat: no-repeat;
+}
+.MenuCustomerManagement
+{
+    background-image: url(Images/AdminMenu/CustomerManagement.gif);
+    background-repeat: no-repeat;
+}
+.MenuDataFeed
+{
+    background-image: url(Images/AdminMenu/DataFeed.gif);
+    background-repeat: no-repeat;
+}
+.MenuDiscounts
+{
+    background-image: url(Images/AdminMenu/Discounts.gif);
+    background-repeat: no-repeat;
+}
+.MenuEmailTemplates
+{
+    background-image: url(Images/AdminMenu/EmailTemplates.gif);
+    background-repeat: no-repeat;
+}
+
+.MenuAffiliateMain
+{
+    background-image: url(Images/AdminMenu/AffiliateManagement.gif);
+    background-repeat: no-repeat;
+}
+
+.MenuAffiliates
+{
+    background-image: url(Images/AdminMenu/Affiliates.gif);
+    background-repeat: no-repeat;
+}
+
+.MenuAffiliatePayment
+{
+    background-image: url(Images/AdminMenu/AffiliatePayment.gif);
+    background-repeat: no-repeat;
+}
+
+.MenuGiftCertificate
+{
+    background-image: url(Images/AdminMenu/GiftCertificate.gif);
+    background-repeat: no-repeat;
+}
+.MenuHelp
+{
+    background-image: url(Images/AdminMenu/Help.gif);
+    background-repeat: no-repeat;
+}
+.MenuInformation
+{
+    background-image: url(Images/AdminMenu/Information.gif);
+    background-repeat: no-repeat;
+}
+.MenuInternational
+{
+    background-image: url(Images/AdminMenu/International.gif);
+    background-repeat: no-repeat;
+}
+.MenuLanguages
+{
+    background-image: url(Images/AdminMenu/Languages.gif);
+    background-repeat: no-repeat;
+}
+.MenuNews
+{
+    background-image: url(Images/AdminMenu/News.gif);
+    background-repeat: no-repeat;
+}
+.MenuNewsletter
+{
+    background-image: url(Images/AdminMenu/Newsletter.gif);
+    background-repeat: no-repeat;
+}
+.MenuOrderManagement
+{
+    background-image: url(Images/AdminMenu/OrderManagement.gif);
+    background-repeat: no-repeat;
+}
+.MenuOthers
+{
+    background-image: url(Images/AdminMenu/Others.gif);
+    background-repeat: no-repeat;
+}
+.MenuPayment
+{
+    background-image: url(Images/AdminMenu/Payment.gif);
+    background-repeat: no-repeat;
+}
+.MenuPaymentReport
+{
+    background-image: url(Images/AdminMenu/PaymentReport.gif);
+    background-repeat: no-repeat;
+}
+.MenuProduct
+{
+    background-image: url(Images/AdminMenu/Product.gif);
+    background-repeat: no-repeat;
+}
+.MenuProductBulkImport
+{
+    background-image: url(Images/AdminMenu/ProductBulkImport.gif);
+    background-repeat: no-repeat;
+}
+.MenuProductBulkUpdate
+{
+    background-image: url(Images/AdminMenu/ProductBulkUpdate.gif);
+    background-repeat: no-repeat;
+}
+.MenuOrderOrderManager
+{
+    background-image: url(Images/AdminMenu/OrderManagerOrder.gif);
+    background-repeat: no-repeat;
+}
+.MenuOrderRecurring
+{
+    background-image: url(Images/AdminMenu/OrderManagerRecurring.gif);
+    background-repeat: no-repeat;
+}
+.MenuProductsManagement
+{
+    background-image: url(Images/AdminMenu/ProductsManagement.gif);
+    background-repeat: no-repeat;
+}
+.MenuProductOptions
+{
+    background-image: url(Images/AdminMenu/ProductOptions.gif);
+    background-repeat: no-repeat;
+}
+.MenuReport
+{
+    background-image: url(Images/AdminMenu/Report.gif);
+    background-repeat: no-repeat;
+}
+.MenuQuantityDiscount
+{
+    background-image: url(Images/AdminMenu/QuantityDiscount.gif);
+    background-repeat: no-repeat;
+}
+.MenuSaleReport
+{
+    background-image: url(Images/AdminMenu/SaleReport.gif);
+    background-repeat: no-repeat;
+}
+.MenuSearchReport
+{
+    background-image: url(Images/AdminMenu/SearchReport.gif);
+    background-repeat: no-repeat;
+}
+.MenuShipping
+{
+    background-image: url(Images/AdminMenu/Shipping.gif);
+    background-repeat: no-repeat;
+}
+.MenuShippingReport
+{
+    background-image: url(Images/AdminMenu/ShippingReport.gif);
+    background-repeat: no-repeat;
+}
+.MenuShippingAndTracking
+{
+    background-image: url(Images/AdminMenu/ShippingAndTracking.gif);
+    background-repeat: no-repeat;
+}
+.MenuTaxClass
+{
+    background-image: url(Images/AdminMenu/TaxClass.gif);
+    background-repeat: no-repeat;
+}
+.MenuTracking
+{
+    background-image: url(Images/AdminMenu/Tracking.gif);
+    background-repeat: no-repeat;
+}
+.MenuConfiguration
+{
+    background-image: url(Images/AdminMenu/Configuration.gif);
+    background-repeat: no-repeat;
+}
+.MenuQuickStart
+{
+    background-image: url(Images/AdminMenu/QuickStart.gif);
+    background-repeat: no-repeat;
+}
+.MenuWholesalers
+{
+    background-image: url(Images/AdminMenu/Wholesalers.gif);
+    background-repeat: no-repeat;
+}
+
+.MenuContentManagement
+{
+    background-image: url(Images/AdminMenu/ContentManagement.gif);
+    background-repeat: no-repeat;
+}
+
+
+
+.CssAdminContentFilterPanel
+{
+    padding: 0px;
+    clear: both;
+}
+
+.CssAdminContentFilterPanel .fr
+{
+    /* width: 75%;*/
+}
+
+.CssAdminContentFilterPanel .fr .fr
+{
+    width: auto;
+}
+
+.UnderlineDashed a, .UnderlineDashed, a.UnderlineDashed
+{
+    /*background: transparent url(Images/Background/DashLine.gif) repeat-x scroll left bottom;*/
+}
+
+.ProductSummaryLink span
+{
+    line-height: 14px;
+    cursor: pointer;
+    padding-top: 7px;
+}
+
+.ProductSummaryLink
+{
+    text-decoration: none;
+}
+
+.RadioProductStyle img
+{
+    display: block;
+    padding-left: 20px;
+}
+
+.ReportTitle
+{
+    font-size: 130%;
+    font-weight: bold;
+    font-family: verdana;
+    color:#13378D;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.NormalLink
+{
+    color: #85aed9;
+}
+
+.BulletListConfig
+{
+    margin: 0 0 0 12px;
+    padding-left: 0;
+}
+
+.BulletListConfig li
+{
+    list-style: none;
+    background-image: url(Images/bullet/circle_bullet.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 2px;
+    padding-left: 14px;
+    margin-bottom: 2px;
+    font-size: 1em;
+}
+
+.AffiliateCustomDate
+{
+    clear: left;
+    float: left;
+    background-color: #F9F9F9;
+    border: 1px solid #CCCCCC;
+    color: #333333;
+    margin-top: 5px;
+    padding: 7px;
+}
+.AdminButtonSendEGoodEmail
+{
+    background-image: url(Images/AdminButton/Btn_ResendDownloadLinks.gif);
+    background-repeat: no-repeat;
+    width: 171px;
+    height: 22px;
+}
+
+.ViewCreditCardLink
+{
+    margin-left: 20px;
+    line-height: 20px;
+    color: #1f95ed;
+    vertical-align: bottom;
+}
+
+.KeyFileLink
+{
+    line-height: 20px;
+    color: #1f95ed;
+    vertical-align: bottom;
+}
+
+/* Admin Header Begin*/
+.DefaultHeader
+{
+    width: 100%;
+    height: 40px;
+    overflow: hidden;
+    background-color: #101010;
+    font-size: 13px;
+}
+
+.DefaultHeaderLogo
+{
+    width: 140px;
+    float: left;
+    margin-left: 35px;
+}
+.DefaultHeaderLink
+{
+    margin-right: 35px;
+    float: right;
+}
+.DefaultHeaderHyperLink
+{
+    float: right;
+    margin-left: 10px;
+    height: 40px; vertical-align: middle;
+    line-height: 40px;
+    background: url(Images/Bullet/circle_bullet.gif) no-repeat 0px 5px;
+    padding-left: 10px;
+}
+.DefaultHeaderHyperLink a
+{
+    background: transparent url(Images/Background/DashLine.gif) repeat-x scroll left bottom;
+    color: #959595;
+    text-decoration: none;
+}
+
+.DefaultHeaderHyperLink a:hover
+{
+    color: #fff;
+}
+/* Admin Header End */
+/* Admin Footer Begin */
+.DefaultFooter
+{
+    width: 100%;
+    height: 30px;
+    line-height: 30px; vertical-align: middle;
+    background-color: #202020;
+    font-size: 13px; color: #fff;
+    position: absolute; bottom: 0;
+}
+.DefaultFooter .License { float: left; width: 40%; margin-left: 35px;}
+.DefaultFooter .PoweredBy { float: right; margin-right: 35px;}
+.DefaultFooter .PoweredBy span { font-size: 19px; font-weight: bold;}
+/* Admin Footer End*/
+/* Admin Menu Begin */
+.AdminMenu
+{
+    float: left;
+    height: 100%;
+    background-color:#e9f6fd;
+    
+}
+
+.AdminMenu form
+{
+    height: 100%;
+}
+
+.AdminMenu table
+{
+    float: left;
+    width: 100%;
+    height: 100%;
+}
+
+.AdminMenu #MenuShow .MenuAccordingFullTitle
+{
+    /*width: 193px;*/
+    height: 21px;
+    line-height: 21px;
+    display: block;
+    border-bottom: solid 1px #f7f7f7;
+}
+
+.AdminMenu #MenuShow .MenuAccordingTitle
+{
+    width: 153px;
+    height: 21px;
+    line-height: 21px;
+    display: block;
+}
+
+.AdminMenu #MenuShow .MenuAccordingShowImage
+{
+    width: 12px;
+    height: 12px;
+}
+
+.AdminMenu #MenuShow .MenuAccordingHideImage
+{
+    width: 12px;
+    height: 12px;
+}
+
+.AdminMenu #MenuShow .MenuAccordingList
+{
+}
+
+.AdminMenu #MenuShow .MenuAccordingList a
+{
+    width: 163px;
+    height: 22px;
+    line-height: 22px;
+    display: block;
+}
+
+.AdminMenu #MenuShowA
+{
+    width: 10px;
+    height: 100%;
+    background-image: url(Images/FrameMenu/frame_bg.gif);
+    background-repeat: repeat-y;
+}
+
+/*.AdminMenu #MenuShowA img
+{
+    position: relative;
+    top: 40%;
+}*/
+
+.AdminMenu #MenuHide
+{
+    width: 18px;
+    height: 100%;
+    position: relative;
+}
+
+.AdminMenu #MenuHideA
+{
+    width: 10px;
+    height: 100%;
+    background-image: url(Images/FrameMenu/frame_bg.gif);
+    background-repeat: repeat-y;
+    position: relative;
+}
+.AdminMenuItem
+{
+    float: left;
+    width: 255px;
+    height: 100%;
+    background-color: #fff;
+}
+.AdminMenuItemList
+{
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+}
+
+/*AdminItemBox Begin*/
+.AdminItemBox, .AdminItemBox1
+{
+    line-height: normal;
+    width: 100%;
+    float: left;
+    clear: left;
+    padding-bottom: 10px;
+}
+.AdminItemBox .Button1Right
+{
+    margin-right: 0;
+}
+/*AdminItemBox End*/
+/*DefaultSummaryBox Begin*/
+.DefaultSummary
+{
+    line-height: normal;
+    width: 48%;
+    padding: 1px;
+    margin-top: 10px;
+    height: 180px;
+}
+.DefaultSummary .TopBar
+{
+    width: 100%;
+    height: 23px;
+    background: #f6fcfe;
+    overflow: hidden;
+    margin: 0px;
+}
+.DefaultSummary .TopBarTitle
+{
+    color: #333333;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 22px;
+    vertical-align: middle;
+    float: left;
+    margin-left: 7px;
+}
+
+.DefaultSummary .TopImgLeft
+{
+    display: none;
+}
+
+.DefaultSummary .TopImgRight
+{
+    display: none;
+}
+
+.DefaultSummary .CenterLeft
+{
+    padding: 15px;
+}
+
+.DefaultSummary .CenterRight
+{
+    line-height: 22px;
+}
+
+.DefaultSummary .BottomBar
+{
+    display: none;
+}
+
+.DefaultSummary .BottomImgLeft
+{
+}
+
+.DefaultSummary .BottomImgRight
+{
+}
+.DefaultSummary a
+{
+    color: #1b1b1b;
+    text-decoration: none;
+}
+.DefaultSummary a:hover
+{
+    color: #f98e00;
+}
+.DefaultFilter
+{
+    padding: 10px 15px;
+    background-color: #f6fcfe;
+    border-top: solid 1px #f1f1f1;
+    border-bottom: solid 1px #f1f1f1;
+}
+.DefaultFilter .SearchFilter
+{
+    margin-bottom: 0;
+}
+.DefaultPageControlDiv1
+{
+}
+.DefaultPageControlDiv
+{
+    float: right;
+    padding: 10px 15px;
+}
+.DefaultGridDiv
+{
+    clear: right;
+}
+.DefaultGridBox
+{
+    margin: 10px;
+    clear: left;
+}
+.DefaultSummary .SidebarTop
+{
+    height: 34px;
+    width: 100%;
+    
+}
+
+.DefaultSummary .SidebarTopTitle
+{
+    font-size: 15px;
+    line-height: 34px;
+    margin-left: 5px;
+    vertical-align: middle;
+    float: left;
+}
+.DefaultSummary .SidebarRight
+{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*DefaultSummaryBox End*/
+/* Default Graph Summary Box Begin*/
+.DefaultGraphSummary
+{
+    height: auto;
+    background-color: #fff;
+    border-top: solid 1px #f1f1f1;
+    border-bottom: solid 1px #f1f1f1;
+    margin: 15px 0;
+    padding: 10px 10%;
+    width: 80%;
+    clear: left;
+    line-height: 25px;
+    font-size: 15px;
+}
+
+.DefaultGraphSummary .Section
+{
+    width: 25%;
+    text-align: center;
+    float: left;
+}
+.DefaultGraphSummary .Label
+{
+    width: 100%;
+    color: #000;
+    float: left;
+}
+.DefaultGraphSummary .Value
+{
+    width: 100%;
+    color: #f57334;
+    clear: left;
+}
+
+/* Default Graph Summary Box End*/
+/*CommonSidebar Begin*/
+.SidebarTop
+{
+    height: 38px;
+    width: auto;
+    padding: 0 30px;
+    border-top: solid 1px #f1f1f1;
+    border-bottom: solid 1px #f1f1f1;
+    background: #e9f6fd;}
+
+.SidebarTopTitle
+{
+    color: #1b1b1b;
+    font-size: 15px;
+    line-height: 38px;
+    vertical-align: middle;
+    float: left;
+}
+
+.SidebarLeft
+{
+    background-color: #fff;
+    line-height: 39px;
+}
+
+.SidebarRight
+{
+    padding: 5px 28px;
+}
+.SidebarRight a
+{
+    color: #000000;
+    text-decoration: none;
+}
+
+.SidebarRight a:hover
+{
+    color: #fa5400;
+}
+
+/*CommonSidebar End*/
+/* Left AdminLogin Begin */
+.AdminLogin
+{
+    color: #333333;
+    font-weight: bold;
+    float: left;
+    margin-right: 10px;
+}
+.AdminName
+{
+    float: left; position: relative;
+    padding-left: 30px; background: url(Images/Icon/User.gif) no-repeat left center;
+}
+.AdminVisitDateTime
+{
+    float: left;
+    clear: left;
+    width: 100%;
+}
+/* Left AdminLogin End */
+/* Left Common Begin */
+.SideLeftSummaryIcon
+{
+    background: url(Images/Icon/Icon_Summary.gif) no-repeat 0px center;
+    padding-left: 25px;
+}
+.SideLeftCustomerIcon
+{
+    background: url(Images/Icon/Icon_Customer.gif)no-repeat 0px center;
+    padding-left: 25px;
+}
+.SideLeftOrderIcon
+{
+    background: url(Images/Icon/Icon_OrderFile.gif) no-repeat 0px center;
+    padding-left: 25px;
+}
+.SideLeftStatIcon
+{
+    background: url(Images/Icon/Icon_Stat.gif) no-repeat 0px center;
+    padding-left: 25px;
+}
+.AdminStatDiv
+{
+    width: 170px;
+    padding: 0px 8px;
+    clear: left;
+    display: block;
+    float: left;
+}
+
+.AdminSummaryDiv
+{
+    width: 170px;
+    clear: left;
+    display: block;
+    float: left;
+}
+
+.AdminSummaryDiv a
+{
+   color: #1b1b1b;
+}
+
+
+/* Left Common End */
+/* Left Storefront Stat Begin */
+.AdminStatLable
+{
+    clear: both;
+    float: left;
+}
+.AdminStatValue
+{
+    clear: right;
+    float: right;
+    font-weight: normal;
+}
+/* Left Storefront Stat End */
+/* Left CommonSearch Begin */
+.AdminLeftSearchLable
+{
+    clear: both;
+    float: left;
+    width: 55px;
+}
+.AdminLeftSearchTextbox
+{
+    float: left;
+    width: 125px;
+    border: 1px solid #eee;
+    font-size: 13px;
+    color: #333;
+    margin-top: 9px;
+}
+.AdminLeftSearchDrop
+{
+    float: left;
+    border: 1px solid #eee;
+    width: 125px;
+    margin-top: 9px;
+}
+.AdminLeftSearchValue
+{
+    float: left; width: 125px;
+}
+/* Left CommonSearch End */
+.LeftContentArea
+{
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+.ProductSummaryValue
+{
+    color: #333;
+    width: 50px;
+    float: left;
+    font-weight:bold;
+}
+
+/* Gridview Default Style Begin */
+.Gridview1 th a
+{
+    color: #333;
+}
+.Gridview1 td a
+{
+    color: #333;
+}
+.Gridview1 td a:hover
+{
+    text-decoration: none;
+    color: #f57334;
+}
+.DefaultGridHeadStyle
+{
+    height: 34px;
+}
+
+.DefaultGridHeadStyle th
+{
+    background-color: #f6fcfe;
+    font-size: 14px;
+    height: 34px;
+    color: #1b1b1b;
+    font-weight: normal;
+    padding: 0 12px;
+}
+.DefaultGridRowStyle,
+.DefaultGridAlternatingRowStyle
+{
+    height: 34px;
+    background-color: #fff;
+}
+.DefaultGridRowStyle td,
+.DefaultGridAlternatingRowStyle td,
+.DefaultGridRowStyleHover td,
+.GridInsertItemRowStyle td,
+.DefaultGridFooterStyle td
+{
+    padding: 3px 12px;
+    line-height: 22px;
+}
+.DefaultGridRowStyleHover
+{
+    height: 34px;
+    background-color: #e9f6fd;
+}
+.DefaultGridEmptyDataRowStyle
+{
+    background-color: #f1f1f1;
+    text-align: center; font-weight: normal; color: #333;
+    height: 34px;
+}
+.DefaultGridEmptyDataRowStyle td
+{
+}
+.DefaultGridSelectedRowStyle
+{
+}
+.DefaultGridEditRowStyle
+{
+    height: 34px;
+}
+.DefaultGridPageStyle
+{
+}
+.DefaultGridFooterStyle
+{
+    height: 34px;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.CommonGridCheckboxStyle
+{
+    width: 24px;
+    text-align: center;
+}
+.CommonGridNameStyle
+{
+    text-align: left;
+    padding-left: 10px;
+}
+.CommonGridTotal
+{
+    color: #333;
+    font-weight: bold;
+    font-size: 15px;
+}
+.AdminTabBox .DefaultGridRowStyle td,
+.AdminTabBox .DefaultGridAlternatingRowStyle td,
+.AdminTabBox .DefaultGridHeadStyle th
+{
+    padding: 0 25px;
+}
+/* Gridview Default Style End */
+/* Tab Default Style Begin */
+.DefaultTabContainer
+{
+}
+
+.DefaultTabPanel
+{
+}
+.DefaultTabContainer .ajax__tab_default
+{
+    border: 1px solid #eee;
+}
+
+.DefaultTabContainer .ajax__tab_header
+{
+    z-index: 1;
+    color: #1b1b1b;
+    padding-top: 6px;
+    padding-left: 17px;
+    font-size: 15px;
+    white-space: normal !important;
+    height: 38px;
+    background-color: #e9f6fd;
+    border-bottom: solid 1px #f1f1f1;
+}
+.DefaultTabContainer .ajax__tab_header .ajax__tab_outer
+{
+    display: inline-block;
+    height: 38px;
+}
+
+.DefaultTabContainer .ajax__tab_header .ajax__tab_outer .ajax__tab_inner
+{
+    display: inline-block;
+    height: 38px;
+    color:#1b1b1b;
+}
+
+.DefaultTabContainer .ajax__tab_header .ajax__tab_outer .ajax__tab_inner .ajax__tab_tab
+{
+    display: inline-block;
+    height: 37px;
+    line-height: 37px;
+    cursor: pointer;
+    margin-right: 5px;
+    color:#1b1b1b;
+    padding: 0 15px;
+    background-color: #eaf3f8;
+    border: solid 1px #d7d7d7;
+    border-bottom: solid 1px #eaf3f8;
+
+}
+.DefaultTabContainer .ajax__tab_header .ajax__tab_active .ajax__tab_outer .ajax__tab_inner .ajax__tab_tab
+{
+    height: 37px;
+    color:#f57334;
+    background: #fff;
+    border: solid 1px #d7d7d7;
+    border-bottom: solid 1px #fff;
+}
+
+.DefaultTabContainer .ajax__tab_header .ajax__tab_active .ajax__tab_outer .ajax__tab_inner .ajax__tab_tab div:hover
+{
+    color: #f57334;
+}
+.DefaultTabContainer .ajax__tab_header .ajax__tab_outer .ajax__tab_inner .ajax__tab_tab div:hover
+{
+    color: #f57334;
+}
+
+.DefaultTabContainer .ajax__tab_body
+{
+    margin: 15px 0;
+    
+}
+.DefaultTabContainer .ajax__tab_panel
+{
+    margin-bottom: 5px;
+}
+/* Tab Default Style End */
+
+/* SiteMap Style Begin */
+.SiteMap
+{
+    margin: 0;
+    line-height: 38px;
+    height: 38px;
+    float: left; 
+}
+.SiteMap .LinkStyle
+{
+    color: #1b1b1b;
+    text-decoration: none;
+}
+.SiteMap .DefaultStyle
+{
+    color: #f57334;
+}
+.SiteMap .SeperatorStyle
+{
+    color: #333;
+    font-size:0;
+    margin: auto 10px;
+    float: left;
+    width: 15px;
+    height: 38px;
+    background: url(Images/Box/breadcrum-separator.png) no-repeat left center;
+}
+.SiteMap .HomeLinkStyle
+{
+    margin-left: 25px;
+}
+/* SiteMap Style End */
+/* Top Menu Style Begin */
+/*HeaderMenu Begin*/
+.AdminTopMenu
+{
+    width: 100%;
+    height:47px;
+    background-color: #71c6f9;
+    position: relative;
+    z-index: 1;
+}
+.AdminTopMenuLeft
+{
+    width: auto; margin: auto;
+}
+.AdminTopMenuRight
+{
+    height: 47px;
+    width: auto;
+    border: 0 none;
+    margin-top: 0px;
+}
+.AdminTopMenu a
+{
+    display: none;
+}
+.AdminTopMenu .ContentMenuNavMenuList a
+{
+    display: block;
+}
+
+.AdminTopMenuRight .AspNet-Menu-WithChildren
+{
+    overflow: visible;
+    z-index: 100;
+    position: relative;
+}
+
+.AdminTopMenuRight .AspNet-Menu-WithChildren ul
+{
+    position: absolute;
+    z-index: 100;
+    overflow: visible;
+}
+
+.AdminTopMenuRight .AspNet-Menu-WithChildren .AspNet-Menu-Leaf
+{
+    z-index: 100;
+}
+
+#my_chart
+{
+    z-index: 1;
+}
+
+.AdminTopMenuRight .ContentMenuNavMenuListStaticMenuStyle
+{
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.AdminTopMenuRight .ContentMenuNavMenuList
+{
+    border: none;
+    padding:0;
+    margin: 0 auto;
+}
+.AdminTopMenuRight .ContentMenuNavMenuListDynamicMenuStyle
+{
+   top: 47px!important;
+}
+.AdminTopMenuRight .ContentMenuNavMenuListDynamicMenuItem td
+{
+    background-color: #63bff6;
+    border-top: solid 1px #54b7f3;
+    border-bottom: solid 1px #85ccf7;
+}
+.AdminTopMenuRight .ContentMenuNavMenuListDynamicMenuItem a
+{
+    padding: 0 15px;
+    color: #fff;
+    display: block;
+    width: 160px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 16px!important;
+}
+.AdminTopMenuRight .ContentMenuNavMenuListDynamicMenuItem td:hover a
+{
+    color: #fff;
+}
+.AdminTopMenuRight .ContentMenuNavMenuListDynamicMenuItem td:hover
+{
+   background-color: #82ccf8;
+
+}
+.AdminTopMenuRight .ContentMenuNavMenuListStaticMenuItem td a:hover
+{
+    color: #fff;
+    text-decoration: none;
+}
+
+.AdminTopMenuRight .ContentMenuNavMenuList td
+{
+    text-align: left;
+    height: 47px;
+}
+
+.AdminTopMenuRight .ContentMenuNavListStaticMenuItem{border-right: solid 1px #88CEF7; border-left: solid 1px #4CB8F7;}
+
+.AdminTopMenuRight .ContentMenuNavListStaticMenuItem td:hover
+{
+    height: 47px; background-color: #63bff6;
+
+}
+/*ContentMenuNavListStaticMenuItem uxAdminTopMenu_uxContentMenuNavListTop_4*/
+
+.AdminTopMenuRight .ContentMenuNavMenuList td:hover
+{
+    text-align: left;
+}
+.AdminTopMenuRight .ContentMenuNavListStaticMenuItem td
+{
+    padding: 0px 18px;
+    
+}
+.AdminTopMenuRight .ContentMenuNavListStaticMenuItem td a
+{
+    color: #fff;
+}
+/* Top Menu Style End */
+.OrderListTotalPrice
+{
+    color: #fff;
+    background-color:#F57334;
+    font-weight: normal;
+    text-align: right;
+    padding-right: 15px;
+    font-size: 15px;
+}
+
+/* --------------- Configuration Page Begin ------------------ */
+/* Common Config Content Style Begin */
+.ConfigRow
+{
+    clear: left;
+    display: block;
+    line-height: 25px;
+    padding-top: 8px;
+    padding-left: 15px;
+}
+.ConfigRow a
+{
+    color: #333;
+}
+.ConfigRow .Label
+{
+    float: left;
+    vertical-align: middle;
+    width: 300px;
+    padding-left: 10px;
+}
+.ConfigRow .BulletLabel
+{
+    background-image: url(Images/Bullet/circle_bullet1.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 10px;
+    padding-left: 10px;
+    margin-left: 20px;
+    float: left;
+    vertical-align: middle;
+    width: 280px;
+}
+
+.ConfigRow .TextBox
+{
+    width: 180px;
+    float: left;
+}
+.ConfigRow .TrackingTextBox
+{
+    width: 50%;
+    float: left;
+    border: 1px solid #eee;
+}
+.ConfigRow .eBayTextBox
+{
+    width: 50%;
+    float: left;
+    border: 1px solid #eee;
+}
+.ConfigRow .CommentLabel
+{
+    font-style: italic;
+    padding-bottom: 5px;
+}
+.CommonConfigTitle
+{
+    clear: left;
+    float: left;
+    margin: 20px 0;
+    color: #F57334;
+    line-height: 30px;
+    text-align: left;
+    vertical-align: middle;
+    width: 100%;
+    font-size: 15px;
+}
+.CommonConfigTitle span { margin-left: 25px;}
+.ConfigCountry select
+{
+    float: left;
+}
+.ConfigCountry textbox
+{
+    float: left;
+    margin-right: 5px;
+}
+.ConfigRow .uploadBulletLabel
+{
+    background-image: url(Images/Bullet/circle_bullet1.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 10px;
+    padding-left: 10px;
+    margin-left: 40px;
+    float: left;
+    vertical-align: middle;
+    width: 270px;
+}
+.ConfigRow .ConfigRow {padding-left: 0;}
+/* Common Config Content Style End */
+/* Category Sorting Begin */
+
+.CategorySorting
+{
+    padding: 10px 30px 30px;
+    overflow: auto;
+}
+.CategorySorting ul
+{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.CategorySorting ul li
+{
+    height: 30px;
+    line-height: 30px;
+    vertical-align: middle;
+    margin: 2px 0px;
+    padding-left: 30px;
+    background: url(Images/Icon/Icon_Folder.gif) no-repeat left center;
+}
+.CategorySorting ul li:hover
+{
+    cursor: move;
+    background: #e9f6fd url(Images/Icon/Icon_MoveCursor.gif) no-repeat 3px 50%;
+}
+.CategorySortingLabel
+{
+    font-style: italic;
+    margin-left: 25px;
+    margin-top: 25px;
+}
+/* Category Sorting End */
+
+/* Department Sorting Begin */
+
+.DepartmentSorting
+{
+    padding: 10px 30px 30px;
+    overflow: auto;
+}
+.DepartmentSorting ul
+{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.DepartmentSorting ul li
+{
+    height: 30px;
+    line-height: 30px;
+    vertical-align: middle;
+    margin: 2px 0px;
+    padding-left: 30px;
+    background: url(Images/Icon/Icon_Folder.gif) no-repeat 3px 3px;
+}
+.DepartmentSorting ul li:hover
+{
+    cursor: move;
+    background: #e4edee url(Images/Icon/Icon_MoveCursor.gif) no-repeat 3px 50%;
+}
+.DepartmentSortingLabel
+{
+    font-style: italic;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+/* Department Sorting End */
+
+/* Product Sorting Begin */
+
+.ProductSorting
+{
+    padding: 10px 30px 30px;
+    overflow: auto;
+}
+.ProductSorting ul
+{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.ProductSorting ul li
+{
+    height: 30px;
+    line-height: 30px;
+    vertical-align: middle;
+    margin: 2px 0px;
+    padding-left: 30px;
+    background: url(Images/SmallPage.gif) no-repeat 3px 3px;
+}
+.ProductSorting ul li:hover
+{
+    cursor: move;
+    background: #e4edee url(Images/Icon/Icon_MoveCursor.gif) no-repeat 3px 50%;
+}
+.ProductSortingLabel
+{
+    font-style: italic;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+/* Product Sorting End */
+
+.SiteConfigBoxSet
+{
+    background-color: #fff;
+    color: #333333;
+    padding-bottom: 15px;
+}
+.SiteConfigBoxSet .DefaultTabContainer
+{
+    margin: 0;
+    border: 0;
+}
+.SiteConfigBoxSet .BottomBar
+{
+    display: none;
+    line-height: 0px;
+    font-size: 0px;
+}
+.SiteConfigSearch
+{
+    float: right;
+    display: inline-block;
+}
+.SiteConfigSearch .Label
+{
+    float: left;
+    margin-right: 5px;
+}
+.SiteConfigSearch .TextBox
+{
+    float: left;
+    width: 100px;
+    
+    margin-right: 5px;
+    margin-top: 3px;
+}
+.InnerConfigContentHolderArea
+{
+    width: 100%;
+    height: auto;
+    overflow: auto;
+}
+.ConfigContentArea
+{
+    margin: 0;
+}
+.ConfigUpdetButton
+{
+    float: right;
+    margin-right: 15px;
+}
+/* --------------- Configuration Page End ------------------ */
+/* ------- Paging Control Begin -------- */
+.PagingControl
+{
+    float: left;
+    font-size: 13px;
+}
+.PagingControl .Label
+{
+    float: left;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.PagingControl .Panel
+{
+    float: left;
+}
+.PagingControl .TextBox
+{
+    float: left;
+    border: solid 1px #cccccc;
+    
+    margin-top: 2px;
+}
+.ItemsPerPage
+{
+    float: left;
+    font-size: 13px;
+}
+.ItemsPerPage .Label
+{
+    float: left;
+}
+.ItemsPerPage .DropDownList
+{
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+    border: solid 1px #cccccc;
+    
+}
+.PageLinkLeft1
+{
+    float: left;
+    height: 18px;
+    background-image: url(Images/Button/PageLinkLeft1.gif);
+    background-repeat: no-repeat;
+    background-position: left top;
+    margin-left: 5px;
+    text-decoration: none;
+    width: 30px;
+}
+.PageLinkRight1
+{
+    height: 18px;
+    background-image: url(Images/Button/PageLinkRight1.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.PageLinkRight1 a
+{
+    width: 100%;
+    border: 0px;
+    border-style: none;
+    height: 18px;
+    line-height: 18px;
+    background-image: url(Images/Button/PageLinkCenter1.gif);
+    background-repeat: repeat-x;
+    display: block;
+    text-align: center;
+}
+.PageLinkRight1 span
+{
+    width: 100%;
+    border: 0px;
+    border-style: none;
+    height: 18px;
+    line-height: 18px;
+    background-image: url(Images/Button/PageLinkCenter1.gif);
+    background-repeat: repeat-x;
+    display: block;
+}
+.AdminButtonNextPageActive
+{
+    background-image: url(Images/Button/Btn_PageNext_Active.gif);
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    border: none;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.AdminButtonNextPageInactive
+{
+    background-image: url(Images/Button/Btn_PagePrev_Active.gif);
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    border: none;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.AdminButtonPrevPageActive
+{
+    background-image: url(Images/Button/Btn_PageNext_Inactive.gif);
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    border: none;
+    margin-top: 5px;
+    margin-right: 5px;
+    float: left;
+}
+.AdminButtonPrevPageInactive
+{
+    background-image: url(Images/Button/Btn_PagePrev_Inactive.gif);
+    background-repeat: no-repeat;
+    width: 14px;
+    height: 14px;
+    border: none;
+    margin-top: 5px;
+    margin-right: 5px;
+    float: left;
+}
+/* ------- Paging Control End -------- */
+/* ------- Search Filter Begin --------*/
+.SearchFilter
+{
+    text-align: right;
+    font-size: 13px;
+}
+.SearchFilter .Label
+{
+    float: left;
+    margin-right: 5px;
+    line-height: 26px;
+}
+.SearchFilter .DropDown
+{
+    float: left;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+.SearchFilter .TextBox
+{
+    float: left;
+    margin-right: 5px;
+    border: 1px solid #eee;
+    margin-top: 1px;
+}
+.SearchFilter .Calendar
+{
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.SearchFilterDefault
+{
+    float: right;
+}
+.SearchFilterLabel
+{
+    float: left;
+}
+.SearchFilterValuePanel
+{
+    clear: right;
+    float: right;
+    margin-top: 5px;
+    background-color: #f9f9f9;
+    border: solid 1px #d7d7d7;
+    padding: 7px;
+    color: #333;
+}
+.SearchFilterMessage
+{
+    color: #0000ff;
+}
+/* ------- Search Filter End --------*/
+/* ------- Export Filter Begin --------*/
+.ExportNotice
+{
+    clear: left;
+    color: #F57334;
+    float: left;
+    line-height: 30px;
+    margin: 0 0 20px;
+    text-align: left;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.ExportNotice span { margin-left: 25px;}
+.ExportFilter
+{
+    color: #333333;
+    
+}
+.ExportFilter .Label
+{
+    float: left;
+    line-height: 20px;
+}
+.ExportFilter .DropDown
+{
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+.ExportFilter .TextBox
+{
+    float: left;
+    margin-right: 5px;
+    border: solid 1px #cccccc;
+}
+.ExportFilter .Calendar
+{
+    float: left;
+    margin-right: 5px;
+}
+.ExportFilterPanel
+{
+    clear: left; margin: 5px 15px;
+}
+.ExportFilterDefault
+{
+}
+
+.ExportFilterDefault select
+{
+    width: 130px;
+}
+
+.ExportFilterDefault .Label
+{
+    float: left;
+    vertical-align: middle;
+    width: 270px;
+    padding-left: 10px;
+    color: #000;
+    margin-right: 5px;
+}
+.ExportFilterValuePanel
+{
+    clear: left;
+    margin-left: 285px;
+    padding-top: 3px;
+    color: #000;
+}
+.ExportFilterMessage
+{
+    color: #0000ff;
+    margin-top: 5px;
+}
+/* ------- Export Filter End --------*/
+/* ------- Category Filter Begin -------*/
+.CategoryFilter
+{
+    margin-left: 20px;
+    font-size: 13px;
+}
+
+.CategoryFilter .Label
+{
+    margin-right: 5px;
+    float: left;
+}
+.CategoryFilter .DropDown
+{
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+}
+/* -------  Category Filter End  -------*/
+/* ------- Department Filter Begin -------*/
+.DepartmentFilter
+{
+    margin-left: 10px;
+}
+
+.DepartmentFilter .Label
+{
+    color: #FFF;
+    margin-right: 5px;
+    float: left;
+    font-weight: bold;
+}
+.DepartmentFilter .DropDown
+{
+    float: left;
+    margin-top: 2px;
+    
+}
+/* -------  Department Filter End  -------*/
+/* ------- Language Control Begin ------*/
+.LanguageControl
+{
+    font-size: 13px;
+    float:left;
+    margin-left: 10px;
+}
+.LanguageControl .DropDown
+{
+    float: right;
+    margin-top: 4px;
+}
+.LanguageControl .Label
+{
+    float: right;
+    margin-right: 5px;
+}
+.LanguagePlusLabel
+{
+   float: left;
+    height: 8px;
+    margin-left: 8px;
+    margin-top: 10px;
+    width: 8px;
+}
+/* ------- Language Control End -------*/
+/* ------- Currency Control Begin ------*/
+.CurrencyControl
+{
+    font-size: 13px;
+    float: right;
+    margin-left: 10px;
+}
+.CurrencyControl .DropDown
+{
+    float: right;
+    margin-top: 4px;
+}
+.CurrencyControl .Label
+{
+    float: right;
+    margin-right: 5px;
+}
+/* ------- Currency Control End -------*/
+/* ------- Currency List Begin ------- */
+.CurrencySetting, .CurrencySettingWaring
+{
+    display: block;
+}
+.CurrencySetting .Label
+{
+    float: left;
+    margin-right: 10px;
+}
+.CurrencySetting .DropDown
+{
+    float: left;
+    margin-right: 10px;
+    margin-top: 2px;
+    width: 100px;
+}
+.CurrencySettingWaring b
+{
+    color: Red;
+}
+/* ------- Currency List End ------- */
+/* ------- Order List Begin ------- */
+.OrderListFilter
+{
+    margin-left: 20px;
+}
+.OrderListFilter .Label
+{
+    margin-right: 5px;
+    float: left; font-weight: lighter!important;
+    font-size: 13px;
+}
+.OrderListFilter .DropDown
+{
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+    
+}
+/* ------- Order List End ------- */
+/* ------- Order Edit Begin ------- */
+.OrderEditTotalBox, .OrderEditTotalBox1
+{
+    text-align: right;
+    width: 100%;
+    line-height: 32px;
+}
+.OrderEditTotalBox td.SpaceCol {  padding: 0 12px; border-left: solid 1px #f1f1f1;}
+.OrderEditTotalBox .SummaryRow,
+.OrderEditTotalBox1 .SummaryRow
+{
+    clear: right;
+    height: 32px;
+    font-weight: normal;
+}
+.OrderEditTotalBox .Label,
+.OrderEditTotalBox1 .Label
+{
+    width: 104px;
+    background-color: #e9f6fd;
+    float: right;
+    border-bottom: solid 1px #f1f1f1;
+    border-left: solid 1px #f1f1f1;
+    border-top: 0;
+    font-size: 15px;
+    height: 32px;
+    padding: 0 10px;
+}
+.OrderEditTotalBox .Value,
+.OrderEditTotalBox1 .Value
+{
+    float: right;
+    width: 104px;
+    padding: 0 10px;
+    border-bottom: solid 1px #f1f1f1;
+    border-left: solid 1px #f1f1f1;
+    border-top: 0;
+    font-size: 15px;
+    height: 32px;
+    font-weight: bold;
+}
+.OrderEditTotalBox1 .Label
+{
+    border-left: 0;
+}
+.OrderEditTotalBox1 .Value
+{
+    width: 145px;
+}
+.OrderEditRowTitle
+{
+    padding: 0px 25px;
+    text-align: left;
+    line-height: 30px;
+    vertical-align: middle;
+    margin-bottom: 15px;
+    color: #f57334;
+    font-size: 15px;
+}
+.OrderItemRowTitle
+{
+    margin-top: 0px;
+    color: #f98e00;
+    margin-bottom: 20px;
+}
+/* ------- Order Edit End ------- */
+/* ------- Message Setting Begin ------ */
+.MessagePanel
+{
+    padding: 6px 25px;
+}
+.MessagePanel .MessageSuccess
+{
+    background: url(Images/Icon/Icon_MessageSuccess.gif) no-repeat left center;
+    padding-left: 25px;
+    font-weight: normal!important;
+    color: #003cff;
+}
+.MessagePanel .MessageError
+{
+    background: url(Images/Icon/Icon_MessageError.gif) no-repeat left center;
+    padding-left: 25px;
+    font-weight: normal!important;
+    color: #ff0000;
+}
+.SuccessTitle
+{
+    background: url(Images/Icon/Icon_MessageSuccess.gif) no-repeat left 5px;
+    padding-left: 22px;
+    color: #003cff;
+}
+.ErrorTitle
+{
+    background: url(Images/Icon/Icon_MessageError.gif) no-repeat left 5px;
+    padding-left: 22px;
+}
+.MessageErrorList
+{
+    clear: left;
+    float: left;
+    margin-left: 45px;
+    color: Red;
+}
+.MessageUserTime
+{
+    color: #A52A2A;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+/* ------- Message Setting End ------ */
+/* ------- QuickStart Page Begin ------- */
+.QuickStartBox
+{
+    margin: 15px;
+}
+/* ------- QuickStart Page End ------- */
+/* ------- QuickStart Page Begin ------- */
+.LanguageSearch
+{
+}
+/* ------- QuickStart Page End ------- */
+/* ------- Payment List Begin -------- */
+.PaymentCurrencyTitle
+{
+    font-weight: bold;
+    color: #333333;
+}
+.PaymentCurrencyTopLabel
+{
+    color: #f98e00;
+    font-weight: bold;
+    padding: 0px 10px 5px;
+    text-align: left;
+    font-size: 12px;
+}
+/**** For Payment Details *****/
+.PaymentSetCurrencyUnit, .PaymentCurrencyDescription
+{
+    padding: 10px 25px;
+}
+
+
+/* -------  Payment List End -------- */
+/* -------  Report Begin -------- */
+.ReportGraph
+{
+    padding: 20px;
+    border-bottom: solid 1px #f1f1f1;
+}
+
+.TotalReport { text-align: right;}
+.TotalQuantity{ text-align: center;}
+/* -------  Report End -------- */
+/* ------- Affiliate Commission Begin ------ */
+.AffiliateCommissionFilterLabel
+{
+    float: left;
+    margin-right: 5px;
+    font-weight: bold;
+}
+.AffiliateCommissionFilterDropDown
+{
+    float: left;
+    margin-top: 2px;
+    
+}
+.AffiliateCommissionShowName
+{
+    clear: left;
+    line-height: 18px;
+}
+.AffiliateCommissionShowName .Label
+{
+    float: left;
+    clear: left;
+    font-weight: bold;
+    width: 120px;
+}
+.AffiliateCommissionShowName .Value
+{
+    float: left;
+}
+.AffiliateCommissionShowName p
+{
+    margin: 0;
+    padding: 0;
+}
+.AffiliatePaymentBox
+{
+    float: left;
+    width: 45%;
+}
+/* ------- Affiliate Commission End ------ */
+/* ------- Product Details Begin ------- */
+.ProductDetailsRow
+{
+    clear: left;
+    display: block;
+    line-height: 25px;
+    margin: 8px 0;
+    padding-left: 15px;
+}
+.ProductDetailsRow a
+{
+    color: #333;
+}
+.ProductDetailsRow .Label
+{
+    float: left;
+    vertical-align: middle;
+    width: 300px;
+    padding-left: 10px;
+}
+.ProductDetailsRow .BulletLabel
+{
+    background-image: url(Images/Bullet/circle_bullet1.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 10px;
+    padding-left: 10px;
+    margin-left: 20px;
+    float: left;
+    vertical-align: middle;
+    width: 280px;
+}
+
+.ProductDetailsRow .TextBox
+{
+    width: 180px;
+    float: left;
+}
+.ProductDetailsRow .TrackingTextBox
+{
+    width: 50%;
+    float: left;
+    border: 1px solid #eee;
+}
+.ProductDetailsRow .eBayTextBox
+{
+    width: 50%;
+    float: left;
+    border: 1px solid #eee;
+}
+.ProductDetailsRow .CommentLabel
+{
+    font-style: italic;
+    padding-bottom: 5px;
+}
+.ProductDetailsRowTitle
+{
+    clear: left;
+    float: left;
+    margin-bottom: 15px;
+    color: #F57334;
+    line-height: 30px;
+    text-align: left;
+    vertical-align: middle;
+    width: 100%;
+    font-size: 15px;
+}
+.ProductDetailsRowTitle span { margin-left: 25px;}
+.ProductDetailsRow select
+{
+    float: left;
+}
+.ProductDetailsRow textbox
+{
+    float: left;
+    margin-right: 5px;
+}
+.ProductDetailsRow .uploadBulletLabel
+{
+    background-image: url(Images/Bullet/circle_bullet1.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 10px;
+    padding-left: 10px;
+    margin-left: 40px;
+    float: left;
+    vertical-align: middle;
+    width: 270px;
+}
+.ProductDetailsValidationDenote
+{
+    float: right;
+    margin-right: 10px;
+}
+.ProductDetailsValidationDenote .RequiredLabel
+{
+    float: right;
+    padding-right:15px;
+    background: url(Images/Bullet/pipe.gif) no-repeat right center;
+}
+.ProductDetailsValidationDenote .Label
+{
+    color: #333;
+    margin-left: 15px;
+    float: right;
+    background: url(Images/Icon/icon_plus.gif) no-repeat left center;
+    padding-left: 12px;
+    font-size:13px;
+}
+.ProductDetailsRow .ProductDetailsRow {padding-left:0;}
+/* ------- Product Details Begin ------- */
+/* ------- Product Image Begin -------- */
+.ProductImageUpload
+{
+    clear: left;
+    width: 100%;
+    padding: 5px 0px;
+}
+.ProductImageUpload .uxUploadPanelCss
+{
+    margin: 0px 20px;
+}
+.ProductImageDenote
+{
+    padding: 5px 10px;
+    clear: left;
+    color: #333333;
+}
+/* -------  Product Image End  -------- */
+/* ------- Product Feed Begin ------- */
+.ProductFeedLanguage
+{
+    color: #777;
+    font-weight: bold;
+    padding: 0px 10px;
+    text-align: right;
+    line-height: 28px;
+    vertical-align: middle;
+    float: left; clear: left;
+    width: 98%;
+    margin-bottom:10px;
+}
+.ProductFeedLanguage .LanguageControl
+{
+    float: right;
+}
+.ProductFeedNotice
+{
+    padding: 0px 10px;
+    margin: 10px 0px;
+    color: #333;
+    line-height: 18px;
+}
+
+/* -------  Product Feed End  ------- */
+/* --------- MutiCatalog Begin --------- */
+.MultiCatalogBackground
+{
+    background-color: #ececec;
+    padding: 10px;
+}
+.MultiCatalogListBox
+{
+    border: solid 1px #cccccc;
+    background-color: #fff;
+    overflow: auto;
+    height: 120px;
+    width: 230px;
+}
+.MultiCatalogInnerListBox
+{
+    border: solid 1px #cccccc;
+    background-color: #fff;
+    overflow: hidden;
+    height: 120px;
+    width: 230px;
+}
+/* --------- MutiCatalog End ---------- */
+/* --------- MutiDepartment Begin --------- */
+.MultiDepartmentBackground
+{
+    background-color: #ececec;
+    padding: 10px;
+}
+.MultiDepartmentListBox
+{
+    border: solid 1px #cccccc;
+    background-color: #fff;
+    overflow: auto;
+    height: 120px;
+    width: 230px;
+}
+.MultiDepartmentInnerListBox
+{
+    border: solid 1px #cccccc;
+    background-color: #fff;
+    overflow: hidden;
+    height: 120px;
+    width: 230px;
+}
+/* --------- MutiDepartment End ---------- */
+/* --------- MutiStoreList Begin --------- */
+.MultiStoreBackground
+{
+    background-color: #ececec;
+    padding: 10px;
+}
+.MultiStoreListBox
+{
+    border: solid 1px #cccccc;
+    background-color: #fff;
+    overflow: auto;
+    height: 120px;
+    width: 230px;
+}
+.MultiStoreInnerListBox
+{
+    border: solid 1px #cccccc;
+    background-color: #fff;
+    overflow: hidden;
+    height: 120px;
+    width: 230px;
+}
+/* --------- MutiStoreList End ---------- */
+/* --------- MultiSubGroup Begin --------- */
+.MultiSubGroupBackground
+{
+    background-color: #ececec;
+    padding: 10px;
+}
+.MultiSubGroupListBox
+{
+    border: solid 1px #cccccc;
+    background-color: #fff;
+    overflow: auto;
+    height: 120px;
+    width: 230px;
+}
+.MultiSubGroupInnerListBox
+{
+    border: solid 1px #cccccc;
+    background-color: #fff;
+    overflow: hidden;
+    height: 120px;
+    width: 230px;
+}
+/* --------- MultiSubGroup End ---------- */
+/* ------- Admin Button Style Begin ------ */
+.CommonAdminButton
+{
+    padding-left: 25px;
+    margin: 4px 0px 4px 25px;
+    cursor: pointer;
+    font: lighter 13px/30px 'Calibri' ;
+    height: 30px;
+    color: #393939;
+    border: 0px;
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-color: Transparent;
+    text-decoration: none;
+}
+.CommonAdminButtonIcon
+{
+    padding-left: 25px;
+    margin: 5px 0px 5px 25px;
+    cursor: pointer;
+    font: lighter 13px/28px 'Calibri' ;
+    height: 28px;
+    color: #393939;
+    border: 0px;
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-color: Transparent;
+    text-decoration: none;
+}
+.AdminButtonIconAdd
+{
+    background-image: url(Images/Icon/Icon_Add.gif);
+}
+.AdminButtonIconEdit
+{
+    background-image: url(Images/Icon/Icon_Edit.gif);
+}
+.AdminButtonIconView
+{
+    background-image: url(Images/Icon/Icon_Review.gif);
+}
+.AdminButtonIconPrint
+{
+    background-image: url(Images/Icon/Icon_Print.gif);
+}
+.AdminButtonSorting
+{
+    background-image: url(Images/Icon/Icon_Sorting.gif);
+}
+.AdminButtonDelete
+{
+    background-image: url(Images/Icon/Icon_Delete.gif);
+}
+.AdminButtonDisable
+{
+    background-image: url(Images/Icon/Icon_Disable.gif);
+}
+.AdminButtonReset
+{
+    background-image: url(Images/Icon/Icon_Reset.gif);
+}
+.AdminButtonMarkSelected
+{
+    background-image: url(Images/Icon/Icon_Selected.gif);
+}
+.AdminButtonExport
+{
+    background-image: url(Images/Icon/Icon_Export.gif);
+}
+.AdminButtonExportProduct
+{
+    background-image: url(Images/Icon/Icon_Export.gif);
+}
+.AdminButtonCreate
+{
+    background-image: url(Images/Icon/Icon_Create.gif);
+}
+.AdminButtonCopy
+{
+    background-image: url(Images/Icon/Icon_Copy.gif);
+}
+.AdminButtonIconEmail
+{
+    background-image: url(Images/Icon/Icon_Email.gif);
+}
+.AdminButtonIconDownload
+{
+    background-image: url(Images/Icon/Icon_Load.gif);
+}
+.AdminButtonFrom
+{
+    background-image: url(Images/Icon/Icon_MoveToRight.gif);
+    padding-left: 15px;
+}
+.AdminButtonTo
+{
+    background-image: url(Images/Icon/Icon_MoveToLeft.gif);
+    padding-left: 15px;
+}
+
+.AdminButtonLabel
+{
+    margin-left: 3px;
+    margin-right: 10px;
+}
+.AdminButtonLabelNewLine
+{
+    margin-left: 3px;
+    margin-right: 10px;
+    text-align: center;
+    clear: both;
+    float: left;
+}
+.AdminButtonEBay
+{
+    background-image: url(Images/Icon/Icon_EBay.gif);
+}
+
+.AdminButtonPromotionSubGroup
+{
+    background-image: url(Images/Icon/promotion.gif);    
+}
+
+/* ------- Admin Buttom Style End ------ */
+
+.SearchPanel
+{
+    background-color: #feffee;
+    clear: left;
+    color: #333333;
+    height: 32px;
+    line-height: 32px;
+    padding: 0 10px;
+    text-align: right;
+    padding: 10px 10px 0;
+    border: 1px solid #eee;
+}
+.CategorySelectedParent
+{
+    color: #333333;
+}
+.DepartmentSelectedParent
+{
+    color: #333333;
+}
+
+/*---------- Admin Config Filter Style ----------*/
+.CssAdminConfigContentButtonEvent
+{
+    padding: 5px 10px;
+    background-color: #ebf3fb;
+    margin-bottom: 10px;
+}
+.CssAdminConfigContentMessage
+{
+    padding: 0px;
+    background-color: #fdffe0;
+    margin-bottom: 10px;
+}
+.CssAdminConfigContentTop
+{
+    background-color: #E4EDEE;
+    margin-bottom: 10px;
+    width: 100%;
+}
+.CssAdminConfigContentPaging
+{
+    padding: 5px 15px 5px 25px;
+}
+.CssAdminConfigContentPaging .ButtonCommand
+{
+    float: left;
+    margin-bottom: 5px;
+}
+.CssAdminConfigContentPaging .ButtonEvent
+{
+    float: left;
+    margin-bottom: 5px;
+}
+.CssAdminConfigContentPaging .PageNumber
+{
+    float: right;
+}
+.CssAdminConfigContentPanel .Content
+{
+    border: 1px solid #eee;
+    padding: 10px;
+    margin: 0 15px 15px;
+}
+.CssAdminConfigContentGrid
+{
+    padding: 0px 15px;
+}
+.GridViewPanel
+{
+    display: inline-block;
+    width: 100%;    
+}
+.CssAdminConfigContentPaging .AdminButton
+{
+    float: left;
+    margin-right: 10px;
+}
+.CssAdminConfigContentFilter
+{
+    padding: 10px 15px 0px;
+}
+.CssAdminConfigContentSpecialFilter
+{
+    float: left;
+    padding: 10px 15px;
+}
+.CssAdminConfigContentLanguage
+{
+    padding: 10px 15px 0px;
+}
+
+.CssAdminConfigContentBoxSet
+{
+    border: solid 1px #cccccc;
+    padding: 15px;
+}
+
+.CssAdminConfigContentPanel .TopBar, .CssAdminConfigContentPanel .BottomBar
+{
+    display: none;
+}
+
+.CssAdminConfigContentPanel
+{
+    border: solid 1px #cccccc;
+}
+.CssAdminConfigContentButtonCommand
+{
+    background-color: #ebf3fb;
+    color: #333333;
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 0 10px;
+}
+.CssAdminConfigHeaderMessagePanel
+{
+    border: solid 1px #cccccc;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+/* --------- Admin UserControl Content Template Begin --------- */
+.CssAdminUserControlContentLanguage
+{
+    padding: 3px 10px 0px;
+}
+/* --------- Admin UserControl Content Template End --------- */
+/* --------- Admin Content Template Begin --------- */
+.CssAdminPlainContentPanel
+{
+    border-bottom: solid 1px #f1f1f1;
+}
+.CssAdminContentValidationDenote
+{
+    padding: 0px;
+    clear: both;
+    border-bottom: solid 1px #f1f1f1;
+    color: #333;
+}
+.CssAdminContentValidationDenote .RequiredLabel
+{
+    float: left;
+    clear: left;
+    margin: 5px 25px;
+}
+.CssAdminContentValidationDenote .Label
+{
+    color: #333;
+    margin: 5px 25px 5px 0;
+    float: right;
+    background: url(Images/Icon/icon_plus.gif) no-repeat left center;
+    padding-left: 12px;
+    font-size: 13px;
+}
+.CssAdminContentLanguage
+{
+    margin: 6px 0;
+    float: right;
+}
+
+.CssAdminContentMessage
+{
+    padding: 0px;
+    background-color: #fdffe0;
+    border-bottom: solid 1px #f1f1f1;
+}
+.CssAdminContentTop
+{
+}
+.CssAdminContentTop .CssAdminContentSpecialFilter
+{
+    margin-top: 3px;
+}
+.CssAdminContentPaging
+{
+    color: #777;
+    padding: 0px 25px 0 0;
+    text-align: left;
+}
+.CssAdminContentPaging .ButtonCommand,
+.CssAdminContentPaging .ButtonEvent
+{
+    float: left;
+}
+.CssAdminContentPaging .PageNumber
+{
+    float: right;
+    margin: 8px 0;
+    font-size: 13px;
+    font-weight: normal;
+    color: #333;
+}
+.CssAdminContentPaging .AdminButton
+{
+    float: left;
+    margin-right: 10px;
+}
+
+.CssAdminContentPanel .TopContent
+{
+     border: 0 none;
+    color: #F57334;
+    font-size: 15px;
+    line-height: 32px;
+    padding: 0 25px;
+    text-align: left;
+    vertical-align: middle;
+}
+.CssAdminContentPanel .BottomContent
+{
+}
+.CssAdminContentPanel .TopBar, .CssAdminContentPanel .BottomBar, .CssAdminContentBoxSet .TopBar
+{
+    line-height: 0px;
+    font-size: 0px;
+}
+
+.CssAdminContentGrid
+{
+    padding: 0px 15px;
+}
+
+.CssAdminContentFilter
+{
+    padding: 5px 15px 5px 20px;
+}
+.CssAdminContentSpecialFilter
+{
+    float: left;
+    padding: 5px 5px 0px;
+    font-size: 15px;
+    color: #393939;
+}
+.CssAdminContentBoxSet
+{
+    border: 1px solid #eee;
+    padding: 15px;
+}
+
+.CssAdminContentButtonCommand
+{
+    background-color: #ebf3fb;
+    color: #333333;
+    height: 40px;
+    margin-bottom: 10px;
+    padding: 0 10px;
+}
+.CssAdminContentHeaderMessagePanel
+{
+    border: solid 1px #cccccc;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+/* --------- Admin Content Template End --------- */
+/* --------- Validation Style Begin ------------- */
+.ValidationStyle
+{
+    padding: 5px 10px 5px 25px;
+    background-color: #FDFFE0;
+}
+.ValidationStyle .Title
+{
+    background: url(Images/Icon/Icon_MessageError.gif) no-repeat left 5px;
+    padding-left: 25px;
+    color: #ff0000;
+    font-weight: normal;
+}
+.ValidationStyle ul
+{
+    margin: 0 50px;
+    padding: 0;
+}
+/* --------- Validation Style End ------------- */
+/* --------- Common Text&Row Style ---------- */
+
+.CommonAdminBorder
+{
+    background-color: #fff;
+}
+.CommonAdminBorderNoPadding
+{
+    background-color: #fff;
+    border: solid 1px #cccccc;
+}
+.CommonAdminFontColor
+{
+    color: #333333;
+}
+.CommonTitle
+{
+    color: #f57334;
+    padding: 0px 25px;
+    text-align: left;
+    font-size: 15px;
+    line-height: 32px;
+    vertical-align: middle;
+    border: 0;
+}
+.CommonTitle1
+{
+   background-color: #e9f6fd;    border-top: solid 1px #f1f1f1;
+    border-bottom: solid 1px #f1f1f1;
+    height: 30px;
+    font-weight: normal;
+    padding: 0px 10px;
+    color: #1b1b1b;
+}
+.CommonTitle1 span
+{
+    line-height: 30px;
+    vertical-align: middle;
+}
+.CommonTitle2
+{
+    color: #F57334;
+}
+.CommonTextTitle
+{
+    color: #F57334; margin-left: 25px;
+    clear: left;
+}
+.CommonTextTitle1
+{
+    clear: left;
+    color: #F57334;
+    line-height: 30px;
+    text-align: left;
+    margin-bottom: 15px;
+    padding: 0 25px;
+    font-size: 15px;
+}
+.CommonRowStyle
+{
+    display: block;
+    clear: left;
+    line-height: 28px;
+    padding-left: 15px; 
+}
+.CommonRowStyle .Label
+{
+    background: none;
+}
+.CommonRowStyle a
+{
+    color: #333;
+}
+.CommonRowStyleButton
+{
+    display: block;
+    clear: left;
+    padding: 10px 0 20px;
+}
+.CommonRowStyle .Label,
+.CommonRowStyle .uploadBulletLabel
+{
+    float: left;
+    vertical-align: middle;
+    width: 270px;
+    padding-left: 10px;
+    margin-top: 5px;
+}
+.CommonRowStyle .CheckBox
+{
+    float: left;
+    vertical-align: middle;
+    width: 290px;   
+    margin-top: 5px; 
+}
+.CommonRowStyle label {font-size: 13px;}
+.CommonRowStyle .DropDown { margin-top:8px; float: left;}
+.CommonRowStyle .Radio { margin:5px 10px 5px 0; float: left;}
+.CommonRowStyle select { margin-top:8px;}
+.CommonRowStyle .BulletLabel
+{
+    background-image: url(Images/Bullet/circle_bullet1.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 10px;
+    padding-left: 10px;
+    margin-left: 20px;
+    float: left;
+    vertical-align: middle;
+    width: 250px;
+}
+
+.CommonRowStyle .TextBox
+{
+    width: 150px;
+    float: left;
+    margin-top: 5px;
+    
+}
+.CommonRowStyle .CountrySelect input
+{
+    float: none;
+}
+.CommonDownloadLink
+{
+    margin-left: 45px;
+}
+
+/* ------------ Common Text&Row Sytle End ------------- */
+
+/* ------------------------------------------------*/
+
+.OptionUploadUserControlPanel
+{
+    width: 400px; margin: 8px 0;
+}
+.OptionUploadUserControlPanel .uploadBulletLabel{ float: left; margin-right: 5px;}
+.OptionUploadUserControlPanel .TextBox{ float: left;margin-right: 5px;}
+.AdminMenuBottomSpace
+{
+    height: 8px;
+    line-height: 8px;
+    clear: left;
+    background-color: #fff;
+}
+
+
+.ImagePanelSettingControl
+{
+    clear: left;
+    width: 200px;
+    text-align: center;
+}
+
+.ImagePanelSettingControl img
+{
+    max-height: 180px;
+    height: auto !important;
+    height: 180px;
+    max-width: 180px;
+    width: auto !important;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#simplemodal-overlay
+{
+    background-color: #000;
+    opacity: 0.7;
+}
+#simplemodal-container
+{
+}
+.simplemodal-wrap
+{
+    width: auto;
+    height: auto;
+}
+
+/* PaymentDetails Begin */
+.PaymentDetailTopLabel span
+{
+    margin: 0px 25px;
+    line-height: 32px;
+    color: #F57334;
+    font-weight: normal;
+}
+.PaymentDetailsPermissionWarning
+{
+    clear: both;
+    color: Red;
+    margin: 10px;
+    font-size: 1.1em;
+}
+.PaymentDetailsMessages
+{
+    clear: both;
+    color: Red;
+    font-size: 1.1em;
+    margin-left:10px;
+    margin-right:10px;
+}
+/* PaymentDetails End */
+
+.PolicyPanelClass
+{
+    float: left;
+}
+
+/* QuickBooks */
+.QuickBooksTopLabel
+{
+    color: #f98e00;
+    font-weight: bold;
+    padding: 0px 10px 5px 0px;
+    text-align: left;
+    font-size: 12px;
+}
+
+/* ------- EBay Details Begin ------- */
+.EBayGridview1
+{
+    width: 240px;
+    line-height: 22px;
+    
+    background-color: #ccc;
+    /*padding-left: 10px;*/
+    margin-left: 10px;
+}
+
+.EBayListDetailsRow
+{
+    display: block;
+    clear: left;
+    padding-top: 5px;
+}
+.EBayListDetailsRow a
+{
+    color: #333;
+}
+.EBayListDetailsRow .Label
+{
+    float: left;
+    vertical-align: middle;
+    width: 240px;
+    padding-left: 10px;
+}
+.EBayListDetailsRow .BulletLabel
+{
+    background-image: url(Images/Bullet/circle_bullet1.gif);
+    background-repeat: no-repeat;
+    background-position: 0px 10px;
+    padding-left: 10px;
+    margin-left: 20px;
+    float: left;
+    vertical-align: middle;
+    width: 220px;
+}
+.EBayListDetailsRow .TextBox
+{
+    width: 250px;
+    float: left;
+}
+.EBayListDetailsRowTitle
+{
+    border: 1px solid #eee;
+    background-color: #f7f7f7;
+    margin-bottom: 10px;
+    color: #333333;
+    font-weight: bold;
+    padding: 0px 10px;
+    text-align: left;
+}
+.EBayListDetailsRow .BulletLabel
+{
+    width: 220px;
+}
+
+.EBayListingProcessRow
+{
+    display: block;
+    clear: left;
+    padding-top: 5px;
+}
+
+.EBayListingProcessRow .Label
+{
+    float: left;
+    vertical-align: middle;
+    width: 100%;
+    padding-left: 10px;
+}
+.EbayCategoryListPanel
+{
+    width: 100%;
+    border: 1px solid #eee;
+}
+.EbayWarningMessage
+{
+    color: #FA5400;
+    font-size: 12px;
+    font-weight: bold;
+}
+.EbayWarningMessage ul
+{
+    padding: 0;
+    margin: 10px 0 10px 10px;
+}
+.EbayWarningMessage ul li
+{
+    font-size: 12px;
+    font-weight: normal;
+}
+
+.EbayTemplateErrorMessage
+{
+    padding-left: 10px;
+    font-weight: bold;
+    color: Red;
+}
+/* ------- EBay Details End ------- */
+.MoreFeaturesLink
+{
+    line-height: 20px; padding-left: 30px; background: url(Images/Icon/Download.gif) no-repeat left center;
+    float: left; margin: 10px 10px 0; 
+}
+.MoreFeaturesLink a
+{
+    font-weight: bold; color: #fff; line-height: 20px; text-decoration: none;
+    border-bottom: dotted 1px #f57334;
+}
+.MoreFeaturesLink a:hover {color: #f57334;}
+.quick-menu
+{
+    float: left; color: #959595; text-decoration: none;
+}
+ul.quick-menu-link
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;  
+}
+ul.quick-menu-link li
+{
+    float: left;  margin: 0 10px;  line-height: 40px;
+}
+ul.quick-menu-link a
+{
+    float: left;
+    display:block;
+    border: 0;
+    text-decoration: none;
+    color: #959595;
+    font-size: 13px;
+}
+ul.quick-menu-link a:hover{color: #fff; }
+ul.quick-menu-link li.Login {background: url(Images/Bullet/UserDrop.gif) no-repeat right 16px; padding-right: 18px;}
+ul.quick-menu-link li.Login ul.SubMenu { position: absolute; margin-top: 40px; padding: 0 10px; clear:left; float: left; display: none; list-style-type: none; z-index:2;}
+ul.quick-menu-link li.Login ul.SubMenu li {margin: 0;line-height: 24px; padding: 0 15px; text-align: left;}
+ul.quick-menu-link li.Login ul.SubMenu li a:hover { color: #71C6F9; }
+ul.quick-menu-link li.Login:hover ul.SubMenu { background-color: #202020; display: block; border-radius: 0 0 5px 5px;  border: solid 1px #202020}
+
+/*---- Header Quick Menu End ----*/
+/* Tab outer boder*/
+.AdminTabBox
+{
+    line-height: normal;
+    width: 100%;
+    float: left;
+    margin-bottom: 10px;
+    background: #ffffff;
+}
+
+.AdminTabBoxSidebarTop
+{
+    width: 99%; float: right; position:relative; height:2px; margin-right: 10px; top: 12px;
+}
+.AdminTabBoxSidebarTop .StoreViewLabel { font-weight: normal;}
+.AdminTabBox .SidebarLeft
+{   
+    background: none;
+}
+
+.AdminTabBox .SidebarRight
+{
+    line-height: 20px;
+    padding:0;
+}
+
+/* Tab outer border */
+#ButtonDeleteRemove
+{
+    text-align: left;
+    cursor: pointer;
+    font: lighter 13px/24px 'Calibri' ;
+    color: #393939;
+}
+#ButtonDeleteRemove .ButtonEvent
+{
+    float: left;
+}
+.Container-Row,  .Container-Box
+{
+}
+.Container-Box
+{
+    border-top: 0;
+}
+.Container-Box1
+{
+    _border: 1px solid #eee;
+}
+.Container-Box2
+{
+    padding: 0 15px 15px;
+    border: 1px solid #eee;
+}
+.RequiredLabel
+{
+    font-size:13px; 
+}
+.topline
+{
+    
+    width: 100%;
+}
+.bottomline
+{
+    border-bottom: solid 1px #f1f1f1;
+    width: 100%;
+}
+
+/* ------- Rma List Begin ------- */
+.RmaListFilter
+{
+    margin-left: 20px;
+}
+.RmaListFilter .Label
+{
+     float: left;
+    font-size: 13px;
+    font-weight: lighter !important;
+    margin-right: 5px;
+}
+.RmaListFilter .DropDown
+{
+    float: left;
+    margin-right: 5px;
+    margin-top: 2px;
+    
+}
+/* ------- Rma List End ------- */
+/* ------- Rma Edit Begin ------- */
+.RmaRowTitle
+{
+    font-weight: bold;
+    padding: 0px 10px;
+    text-align: left;
+    line-height: 28px;
+    vertical-align: middle;
+    margin: 5px 0 10px;
+}
+/* ------- Order Edit End ------- */
+/*OptionGroupDetails Begin*/
+.OptionGroupDetailsTitleRight
+{
+    color: #555;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 12px;
+}
+/*OptionGroupDetails End*/
+/*OptionItemDetails Begin*/
+.OptionItemDetails
+{
+    margin-top: 10px;
+}
+
+.OptionItemDetailsTop
+{
+    font-weight: bold;
+    text-decoration: underline;
+    color: #555;
+}
+
+.OptionItemDetailsLeft
+{
+    margin-top: 5px;
+}
+
+.OptionItemDetailsErrorMessage
+{
+    color: #ff0000;
+}
+/*OptionItemDetails End*/
+/*OptionRadioItem Begin*/
+.OptionRadioItemDiv
+{
+    margin-top: -10px;
+    margin-left: 23px;
+}
+
+.OptionRadioItemRadioButtonList td
+{
+    position: relative;
+    height: 25px;
+}
+
+.OptionRadioItemRadioButtonList input
+{
+    float: left;
+}
+
+.OptionRadioItemRadioButtonList label
+{
+    position: relative;
+    float: left;
+    margin-top: 1px;
+    margin-left: 10px;
+}
+
+.OptionRadioItemRadioButtonList label span.OptionItemName
+{
+    color: #555;
+}
+
+.OptionRadioItemRadioButtonList label img.OptionImg
+{
+    border: solid 1px #D2D1D1;
+    width: 6px;
+    left: -50px;
+    top: 3px;
+    position: absolute;
+    max-width: 6px;
+}
+
+.OptionRadioItemRadioButtonList label span.OptionPrice
+{
+    color: #FF9D00;
+}
+/*OptionRadioItem End*/
+/*OptionTextItem Begin*/
+.OptionTextItem
+{
+    position: relative;
+}
+
+.OptionTextItemTable
+{
+}
+
+.OptionTextItemCheckDiv
+{
+    margin-left: 23px;
+    position: relative;
+}
+
+.OptionTextItemCheckDiv
+{
+    float: left;
+}
+
+.OptionTextItemCheckDiv span.OptionItemName
+{
+    position: absolute;
+    left: 30px;
+    top: 1px;
+}
+
+.OptionTextItemCheckDiv span img.OptionImg
+{
+    border: solid 1px #D2D1D1;
+    width: 6px;
+    left: -20px;
+    top: 3px;
+    position: absolute;
+}
+
+.OptionTextItemTable span.OptionItemName
+{
+    font-weight: bold;
+    color: #bbb;
+}
+
+.OptionTextItemTable span.OptionPrice
+{
+    float: right;
+    margin-left: 45px;
+}
+
+.OptionTextItemText
+{
+    width: 180px;
+    margin-left: 20px;
+}
+/*OptionTextItem End*/
+/*OptionInputListItem Begin*/
+.OptionInputListItem
+{
+}
+
+.OptionInputListItemDataListItemStyle
+{
+    padding-bottom: 2px;
+}
+
+.OptionInputListItemDataListItemDiv
+{
+    position: relative;
+    margin-left: 23px;
+}
+
+.OptionInputListItemDataListItemDiv input
+{
+    border: 1px solid #eee;
+}
+
+.OptionInputListItemDataListItemDiv span.OptionItemName
+{
+    font-weight: bold;
+    color: #bbb;
+}
+
+.OptionInputListItemDataListItemDiv span img.OptionImg
+{
+    border: solid 1px #D2D1D1;
+    position: absolute;
+    width: 6px;
+    top: 4px;
+    left: -20px;
+}
+/*OptionInputListItem End*/
+/*OptionUploadItem Begin*/
+.OptionUploadItem .OptionUploadItemUploadLabel
+{
+    position: relative;
+    margin-left: 23px;
+    padding-bottom: 1px;
+}
+
+.OptionUploadItem .OptionUploadItemUploadLabel .OptionImg
+{
+    position: absolute;
+    left: -20px;
+    top: 3px;
+    width: 6px;
+    border: solid 1px #D2D1D1;
+}
+
+.OptionUploadItemFileUploadWidth
+{
+    width: 210px;
+}
+/*OptionUploadItem End*/
+/*OptionUploadRequireItem Begin*/
+.OptionUploadRequireItem .OptionUploadRequireItemUploadRQLabel
+{
+    position: relative;
+    margin-left: 23px;
+    padding-bottom: 1px;
+}
+
+.OptionUploadRequireItemUploadRQLabel .OptionImg
+{
+    position: absolute;
+    left: -20px;
+    top: 3px;
+    width: 6px;
+    border: solid 1px #D2D1D1;
+}
+
+.OptionUploadRequireItemFileUploadWidth
+{
+    width: 210px;
+}
+/*OptionUploadRequireItem End*/
+.popupDiv { display: none; }
+.LayoutImagePanelDiv { float: left; max-height: 200px; text-align: center; overflow: hidden; border-radius: 8px; 
+    -webkit-border-radius: 8px; border: 1px solid #eee; padding: 15px; margin-left: 20px;}
+.CssAdminContentPanel .Container-Row { padding: 15px 0;}
+.ButtonCommand .CommonTitle2
+{
+    color: #F57334; margin-left: 25px;
+    clear: left;
+    font-size: 15px;
+    line-height: 32px;
+    text-align: left;
+}
+
+.LoginControl .MessagePanel { padding:0; font-size: 13px;}
+.PrintPageButtonDiv { clear: left; width: 100%; height: 30px; margin: 10px 0; text-align: center; }
+.PrintButtonDiv { margin: auto; width: 130px; }
+.PrintButtonDiv a { cursor: pointer;}
+.PrintPageCompanyDiv { clear: left; width: 100%; margin: 15px 0; }
+
+/*---------- Override style for print packingslip ------------*/
+
+.PrintPackingSlip, .PrintPackingSlip th, .PrintPackingSlip td { font-family: Arial, Verdana; font-size: 12px!important; }
+.PrintPackingSlip th, .PrintPackingSlip td{ line-height: 20px; padding: 2px 5px; min-height: 24px; height: auto; }
+.PrintPackingSlip th { font-weight: bold; text-align: center;}
+.PrintPackingSlip .Gridview1 th{ border: solid 1px #eee;  border-collapse: collapse;}
+.PrintPackingSlip .Gridview1 td { font-size: 11px!important; border: solid 1px #eee;  border-collapse: collapse;}
+.PrintPackingSlip .GridInsertItemRowStyle td { font-size: 12px!important; line-height: 24px;}
+.PrintPackingSlip .Gridview1 { border-collapse: collapse;}
+.PrintPackingSlip .invoiceBottomDetailsCustomer {width: 25%!important}
+.PrintPackingSlip .label3 { font-size: 12px!important;}
+
+.PrintOrderSummaryLabel{
+    background-color: #E9F6FD;
+    border:1px solid #eee;
+    border-top: 0 none;
+    padding: 0 12px;
+    line-height: 22px;    
+    font-weight: bold;
+    font-size: 100%;
+}
+.PrintOrderSummaryValue{
+    border-bottom:1px solid #F1F1F1;
+    border-right:1px solid #F1F1F1;
+    text-align: right;
+    line-height: 22px;
+    padding: 3px 12px;
+    text-align: right;
+    font-size: 100%;
+}
+
+.GridInsertItemRowStyle .Label{
+    background-color: #E9F6FD;
+    border:1px solid #eee;
+    border-top: 0 none; text-align: right;
+}
+.GridInsertItemRowStyle .Value{
+    border-bottom:1px solid #F1F1F1;
+    border-right:1px solid #F1F1F1;
+    text-align: right;
+}

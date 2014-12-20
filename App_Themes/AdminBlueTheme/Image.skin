@@ -1,0 +1,51 @@
+<%--
+Default skin template. The following skins are provided as examples only.
+
+1. Named control skin. The SkinId should be uniquely defined because
+   duplicate SkinId's per control type are not allowed in the same theme.
+
+<asp:GridView runat="server" SkinId="gridviewSkin" BackColor="White" >
+   <AlternatingRowStyle BackColor="Blue" />
+</asp:GridView>
+
+2. Default skin. The SkinId is not defined. Only one default 
+   control skin per control type is allowed in the same theme.
+
+<asp:Image runat="server" ImageUrl="~/images/image1.jpg" />
+--%>
+
+<asp:Image runat="server" SkinId="EmptyImages" ImageUrl="Images/spacer.gif"  CssClass="fl" />
+
+<asp:Image runat="server" SkinId="FrameLeft" ImageUrl="Images/FrameMenu/frame_bt_left.gif"
+            CssClass="vmImg cursorPointer" />
+<asp:Image runat="server" SkinId="FrameRight" ImageUrl="Images/FrameMenu/frame_bt_right.gif"
+            CssClass="vmImg cursorPointer" />
+<asp:Image runat="server" SkinId="FrameText" ImageUrl="Images/FrameMenu/frame_bt_txt.gif"
+            CssClass="cursorPointer" />
+<asp:Image runat="server" SkinId="IConEditInGrid"  ImageUrl="Images/Icon/Icon_Edit.gif" />
+<asp:Image runat="server" SkinId="IconReviewInGrid"  ImageUrl="Images/Icon/Icon_Review.gif" />   
+
+<asp:Image runat="server" ImageUrl="Images/Background/ArrowShow.gif" SkinId="MenuShowImage"
+            AlternateText="Collapse tree" CssClass="MenuAccordingShowImage fr mgt5 mgr2" />
+<asp:Image runat="server" ImageUrl="Images/Background/ArrowHide.gif" SkinId="MenuHideImage"
+            AlternateText="Expand tree" CssClass="MenuAccordingHideImage fr mgt5 mgr2" />
+            
+<asp:Image runat="server" SkinId="VevoLogoImageDefault" ImageUrl="Images/Logo/Logo.gif" />          
+<asp:Image runat="server" SkinId="VevoAjaxLoaderWaiting" ImageUrl="Images/AjaxLoaderWithLogo.gif" />  
+
+<asp:Image runat="server" SkinId="SymbolTrue" ImageUrl="Images/Correct.gif" />
+<asp:Image runat="server" SkinId="SymbolFalse" ImageUrl="Images/Remove.gif" />
+
+<asp:Image runat="server" SkinId="SmallCategory" ImageUrl="Images/Icon/Icon_Folder.gif" />
+<asp:Image runat="server" SkinId="SmallDepartment" ImageUrl="Images/Icon/Icon_Folder.gif" />
+
+<asp:Image runat="server" SkinId="PrimarImage" ImageUrl="Images/PrimaryImage.jpg" />
+<asp:Image runat="server" SkinId="AttachImage" ImageUrl="Images/Attach.gif" />
+<asp:Image runat="server" SkinId="RemoveImage" ImageUrl="Images/Remove.gif" />
+
+<asp:Image runat="server" SkinId="SmallPage" ImageUrl="Images/SmallPage.gif" />
+
+<asp:Image runat="server" SkinId="Help" ImageUrl="Images/Icon/Icon_Help.gif"/>
+
+<asp:Image runat="server" SkinId="Calendar" ImageUrl="Images/iconcalendar.gif" AlternateText="Click to show calendar" />
+<asp:Image runat="server" SkinId="SetAsPrimayImage" ImageUrl="Images/SetAsPrimaryButton.jpg" />
