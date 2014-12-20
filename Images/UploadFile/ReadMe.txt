@@ -1,0 +1,1 @@
+﻿This folder for upload product image files in store front.

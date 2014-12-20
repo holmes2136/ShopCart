@@ -1,0 +1,1 @@
+﻿This folder for upload product option files in store front.
